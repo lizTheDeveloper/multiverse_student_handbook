@@ -18,7 +18,7 @@ We're in the middle of a fascist takeover of the United States. The government i
 
 **📍 [Emigration Resources: How to Leave →](part7/emigration-resources.md)**
 
-**Your safety comes first. Learning can wait. We'll keep running classes - you can come back when you're safe.**
+**Your safety comes first. Learning can wait. We're online - you can take classes from anywhere in the world. Leave if you need to.**
 
 ---
 
@@ -252,7 +252,7 @@ You're not alone. Many people have. See [Cult Recovery Resources](part1/cult-rec
 - [themultiverse.school](https://themultiverse.school) - Sign up for classes, memberships, specialized courses
 - [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - GTFO Meeting (Fridays 5pm, FREE) - emigration planning
 
-**Note:** If you're in danger, prioritize safety. We'll keep running classes - come back when you're safe.
+**Note:** If you're in danger, prioritize safety. We're online - take classes from anywhere in the world.
 
 ### 🛠️ Resources
 - [Housing & Survival](part7/survival-resources.md)
@@ -271,7 +271,7 @@ Founded by Liz Howard (they/them), The Multiverse School is an experimental adul
 - **Free Curriculum:** [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)
 - Liz's personal site: [lizthe.dev](https://lizthe.dev)
 
-**Remember:** Safety first. If you need to leave, go. The classes will still be here when you're safe.
+**Remember:** Safety first. If you need to leave, go. We're online - you can take classes from Thailand, Portugal, Mexico, or anywhere else in the world.
 
 ---
 

@@ -50,7 +50,7 @@ Join the Multiverse community's weekly emigration planning meeting where we:
 
 **You don't have to do this alone.**
 
-**Note:** Focus on safety first. Learning can wait. We'll keep running classes - you can come back when you're safe.
+**Note:** Focus on safety first. Multiverse is online - you can take classes from Thailand, Portugal, Mexico, or anywhere else in the world. Leave if you need to.
 
 ---
 
