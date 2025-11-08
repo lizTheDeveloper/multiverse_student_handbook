@@ -2,15 +2,22 @@
 
 ## What Is Love-Bombing?
 
-**Love-bombing** = Overwhelming someone with affection, attention, and praise to manipulate them.
+**Love-bombing** = Overwhelming someone with affection, attention, and praise—either to manipulate them OR because someone is desperate for connection and doesn't know how to pace relationships.
 
-It's a manipulation tactic used by:
-- Abusers
-- Cult leaders
-- Narcissists
-- People building unhealthy power dynamics
+**Sometimes it's intentional manipulation:**
+- Abusers building control
+- Cult leaders recruiting
+- People consciously using affection as a weapon
 
-**It feels amazing at first. That's the point.**
+**Sometimes it's unintentional (but still harmful):**
+- Lonely people who've found "their person"
+- People with attachment wounds moving too fast
+- Someone experiencing mania or heightened energy
+- Neurodivergent folks who don't read social cues about pacing
+
+**It feels amazing at first. That's what makes it confusing.**
+
+**See also:** [Self-Awareness: When You Might Be Doing These Things Too](self-awareness.md) - if you think you might be love-bombing without realizing it
 
 ---
 

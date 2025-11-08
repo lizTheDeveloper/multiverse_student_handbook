@@ -72,11 +72,32 @@ You might be struggling if:
 
 ---
 
+## Getting Outside Help First
+
+### Start With Free Resources
+
+**Before asking Multiverse for support, check these free resources:**
+
+**🔍 findhelp.org**
+- Search for free mental health services, food, housing, crisis support
+- Enter your ZIP code
+- Available nationwide
+
+**988 Lifeline**
+- Free crisis support 24/7
+- Call or text 988
+
+**See:** [Mental Health Support](../part3/mental-health-support.md) for more free options
+
+---
+
 ## Asking for Help in Multiverse
 
-### What Facilitators Can Offer
+### What Facilitators and TAs Can Offer
 
-**We can:**
+**Remember:** Facilitators and TAs are volunteers giving their time. They want to help AND they have limits.
+
+**They can:**
 - Listen
 - Help you break down what's overwhelming
 - Point you to resources
@@ -85,8 +106,8 @@ You might be struggling if:
 - Check in on you
 - Celebrate small wins
 
-**We can't:**
-- Be available 24/7
+**They can't:**
+- Be available 24/7 (they're volunteers with lives)
 - Replace your therapist
 - Solve all your problems
 - Do the learning for you

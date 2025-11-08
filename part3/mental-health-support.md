@@ -8,6 +8,17 @@ This guide helps you access therapy, medication, support groups, and other menta
 
 ---
 
+## Start Here: Finding Free Resources
+
+**🔍 findhelp.org** - Search for free mental health services, food, housing, and more in your area
+- Enter your ZIP code
+- Filter by "Mental Health"
+- Find free counseling, support groups, crisis services
+
+**This is the fastest way to find free help near you.**
+
+---
+
 ## Finding Therapy
 
 **See:** [Therapy Resources](../part7/therapy-resources.md) for comprehensive guide
@@ -15,6 +26,11 @@ This guide helps you access therapy, medication, support groups, and other menta
 **Quick version:**
 
 ### Free or Low-Cost Therapy
+
+**findhelp.org**
+- [findhelp.org](https://findhelp.org)
+- Search by ZIP code for free mental health services
+- Includes counseling, support groups, crisis intervention
 
 **Open Path Collective**
 - [openpathcollective.org](https://openpathcollective.org/)
