@@ -8,6 +8,21 @@ Your brain might work differently. You might struggle with things others find ea
 
 Understanding your patterns helps you work with your brain, not against it.
 
+### Context: November 2025 - Trauma Responses to Collective Crisis
+
+**A lot of people are showing "extra mental health problems" right now.** This isn't individual pathology - it's **normal human response to living through fascism, government shutdowns, targeting of minorities, and resource scarcity.**
+
+**What looks like "mental health crisis" might be:**
+- Rational fear responses (when the government is making lists of people like you)
+- Trauma responses (to ongoing threat and violence)
+- Grief (for what's being lost)
+- Terror (justified by the situation)
+- Exhaustion (from trying to survive while everything falls apart)
+
+**You're not broken. The situation is.**
+
+That said, understanding your patterns still helps. And if you need to flee, that might be the best mental health intervention available right now.
+
 ---
 
 ## Common Mental Health Patterns
@@ -412,9 +427,31 @@ Long-standing patterns of thinking, feeling, and behaving that differ from cultu
 - You've tried self-help and it's not enough
 - You want to understand yourself better
 
+### November 2025 Context: Accessing Care During Crisis
+
+**Professional resources are limited:**
+- Government-funded programs being shut down
+- Waiting lists months long
+- Many therapists overwhelmed
+- Some services no longer accepting new patients
+
+**Medication access affected:**
+- **International mail to US shut down** - can't order from international pharmacies
+- DIY/international medication sources not arriving
+- Stockpile if you can, from US sources
+- See [Emigration Resources](../part7/emigration-resources.md) if you need to leave for healthcare access
+
+**Alternatives when professional help isn't available:**
+- **Peer warmlines:** Wildflower Alliance 888-407-4515
+- **Mutual aid networks:** Community-based support
+- **Online communities:** Peer support (use VPN, encrypted communication)
+- **Crisis lines:** 988, Crisis Text Line (741741)
+- **International resources** if you've left: See [Emigration Resources](../part7/emigration-resources.md)
+
 **See:**
 - [Therapy Resources](../part7/therapy-resources.md)
 - [When You're in Crisis](when-youre-in-crisis.md)
+- [Survival Resources](../part7/survival-resources.md) - Mutual aid, community support
 
 ---
 

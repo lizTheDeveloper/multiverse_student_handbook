@@ -8,6 +8,20 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 
 **Remember:** Teachers are workers doing their jobs. Facilitators and TAs are volunteers giving their time. We're all just people trying our best, and we all mess up sometimes.
 
+### Context: November 2025 - Crisis Changes the Calculus
+
+**We're living through collective crisis:** Fascism, government shutdown, targeting of minorities, people fleeing the country.
+
+**This changes things:**
+- When you're terrified and trying to escape, you WILL lean harder on support
+- When resources are being eliminated, you WILL be more desperate
+- When your community is scattered (people fleeing), you WILL cling to whoever's still here
+- When the situation is this bad, intensity is a normal human response
+
+**The question is still:** Are you respecting people's limits? Are you diversifying support where possible? Are you working on your situation (even if that's "getting out")?
+
+**But the bar is different during crisis.** Be gentle with yourself and others. We're all doing our best in impossible circumstances.
+
 ---
 
 ## Why Self-Awareness Matters
@@ -234,22 +248,28 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 
 1. **Be kind to yourself** - You learned this somewhere, probably when you were vulnerable
 2. **Take it seriously** - Understanding why doesn't mean it's okay to keep doing
-3. **Get support:**
-   - **Therapy** - [findhelp.org](https://findhelp.org) can help you find free or low-cost options
-   - **Support groups** - Many are free and peer-led
+3. **Get support** (recognizing that resources are limited during crisis):
+   - **Therapy** (if available/affordable) - [findhelp.org](https://findhelp.org) can help you find free or low-cost options
+   - **Peer warmlines** - Wildflower Alliance: 888-407-4515 (7pm-9pm ET Mon-Thu, 7pm-10pm ET Fri-Sun)
+   - **Support groups** - Many are free and peer-led (NAMI, local mutual aid)
    - **Crisis lines when you're activated** - 988, Crisis Text Line (741741)
-   - See [Mental Health Resources](../part3/mental-health-support.md) for more free options
+   - **Mutual aid networks** - Community-based support when professional resources fail
+   - **International resources** if you've left the US - See [Emigration Resources](../part7/emigration-resources.md)
+   - See [Mental Health Resources](../part3/mental-health-support.md) for more options
 4. **Practice new patterns:**
    - Ask for consent before venting
    - Respect boundaries the first time
-   - Diversify your support
+   - Diversify your support (where possible)
    - Slow down in relationships
 
-**Finding Free/Low-Cost Help:**
-- [findhelp.org](https://findhelp.org) - Search for free mental health services, food, housing, etc.
-- [988 Lifeline](https://988lifeline.org) - Free crisis support 24/7
-- [NAMI](https://nami.org) - Free support groups and education
-- See [Therapy Resources](../part7/therapy-resources.md) for more options
+**Finding Free/Low-Cost Help (Nov 2025 context):**
+- **Government resources are being shut down** - Prioritize community-based alternatives
+- [findhelp.org](https://findhelp.org) - Search for local resources (may be outdated due to shutdowns)
+- **Peer warmlines** - 888-407-4515 (Wildflower Alliance) - peer-run, no police calls
+- **Food Not Bombs** - [foodnotbombs.net](http://www.foodnotbombs.net/) - 500+ chapters, community meals
+- **Mutual Aid Hub** - [mutualaidhub.org](https://www.mutualaidhub.org/) - find local mutual aid
+- **NAMI** - [nami.org](https://nami.org) - Free support groups (check if still running)
+- See [Therapy Resources](../part7/therapy-resources.md) and [Survival Resources](../part7/survival-resources.md)
 
 ---
 

@@ -8,6 +8,23 @@ Helping is beautiful. Dependency is harmful.
 
 This guide helps you recognize when someone is building unhealthy dependency on you—and how to set boundaries.
 
+### Context: November 2025 - Mutual Aid During Crisis
+
+**People are offering each other housing, resources, help fleeing.** This is mutual aid. This is beautiful. **AND** you still need boundaries.
+
+**Crisis mutual aid is different from dependency:**
+- **Mutual aid:** "I can host you for 2 weeks while you figure out your next step"
+- **Dependency:** "You have to let me stay as long as I want or you're abandoning me"
+
+**Crisis housing guidelines:**
+- **Peers helping peers:** This is okay (with clear boundaries)
+- **Student/teacher cohabitation:** Not allowed (power dynamic issues)
+- **Know your limits:** Don't bite off more than you can chew
+- **Set time limits:** "I can host for X weeks, then you need next plan"
+- **You can change your mind** if it's not working
+
+**See:** [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md) and [Cohabitation Policy](../part4/cohabitation-policy.md)
+
 ---
 
 ## What Dependency Looks Like
@@ -84,17 +101,35 @@ This guide helps you recognize when someone is building unhealthy dependency on 
 
 ## Why People Build Dependency
 
-### They're in Genuine Crisis
+### They're in Genuine Crisis (November 2025 Context)
 
-**Sometimes dependency happens because:**
-- They don't have other support
-- They're in survival mode
-- They don't know how to access resources
-- They're overwhelmed
+**Right now, a LOT of people are in genuine crisis:**
+- Fleeing fascism and targeting
+- Trying to leave the country
+- Losing access to resources (government shutdowns)
+- Terrified, exhausted, overwhelmed
+- Community scattered (people emigrating)
+
+**Crisis need looks different from manipulative dependency:**
+
+**Crisis need:**
+- "Can you host me for 2 weeks while I get my visa sorted?"
+- "I need help finding resources to leave"
+- "Can someone help me figure out Thailand vs. Portugal?"
+- Temporary, specific asks with effort on their part too
+
+**Manipulative dependency:**
+- "You have to save me or I'll die and it's your fault"
+- No effort on their part, all demands on you
+- Violates boundaries when you set them
+- Threatens self-harm to control you
+- Refuses to use any other resources
+
+**The difference:** Are they working on their situation too? Do they respect your boundaries? Is it temporary or permanent expectation?
 
 **Even when the need is real, you still can't save them.**
 
-Your boundaries protect both of you.
+Your boundaries protect both of you - and let you help sustainably.
 
 ### They've Learned This Pattern
 
