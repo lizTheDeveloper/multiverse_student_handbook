@@ -1,368 +1,255 @@
-# Self-Awareness: When You Might Be the Problem
+# Self-Awareness: When You Might Be Doing These Things Too
 
-## This Is Hard to Read
+## We All Do Silly Stuff When We're Vulnerable
 
-Nobody wants to think they're being manipulative, boundary-violating, or harmful.
+Nobody wants to think they're being manipulative, boundary-crossing, or overwhelming. And here's the truth: **we all do these things sometimes, especially when we're stressed, scared, or hurting.**
 
-**But sometimes we are.**
+This isn't about being a bad person. It's about recognizing patterns so you can work on them.
 
-This guide helps you check yourself with honesty and compassion.
+**Remember:** Teachers are workers doing their jobs. Facilitators and TAs are volunteers giving their time. We're all just people trying our best, and we all mess up sometimes.
 
 ---
 
 ## Why Self-Awareness Matters
 
-### We All Have Patterns
+### Everyone Has Patterns
 
-**Everyone:**
-- Has learned unhealthy patterns somewhere
+**We all:**
+- Learned some unhealthy patterns somewhere (usually not our fault)
 - Can cause harm even with good intentions
-- Has blind spots
+- Have blind spots
+- Get messy when we're vulnerable
 - Can grow and change
 
-**The difference:**
-- Do you recognize it when pointed out?
+**The difference isn't whether you mess up - it's:**
+- Do you recognize it when it's pointed out?
 - Do you take accountability?
-- Do you work to change?
+- Do you work to change it?
 
-**This is what separates learning from abuse.**
+**This is what separates learning from harm.**
 
 ---
 
-## Are You Building Dependency?
+## Are You Leaning Too Hard on One Person?
 
-### Check Yourself
+### Check Yourself (With Kindness)
 
-**Ask honestly:**
+**When you're stressed or struggling, do you:**
+- Rely on one person to meet most of your needs?
+- Get really upset when that person isn't available?
+- Feel like this one person is the only one who "gets" you?
+- Message the same person (teacher, TA, facilitator, peer) constantly?
+- Feel panicky when they don't respond right away?
+- Resist using other resources because "it's not the same"?
 
-**Do I:**
-- Expect one person to meet all my needs?
-- Get upset when people aren't available?
-- Demand more help than is reasonable?
-- Guilt-trip people when they set boundaries?
-- Refuse to use other resources (Google, documentation, therapy)?
-- Constantly vent without working on solutions?
-- Make people responsible for my emotional state?
-- Threaten harm when people pull away?
+**Do you notice:**
+- That person seems tired when you interact?
+- They're responding less or taking longer?
+- They've started setting boundaries with you?
+- Other people have said you're "a lot" for someone?
 
-**Do people:**
-- Seem exhausted around me?
-- Start avoiding me?
-- Set boundaries I keep pushing?
-- Stop responding?
+**If yes:** You might be building dependency. **This is really common when you're lonely, scared, or in crisis. It doesn't make you a bad person.**
 
-**If yes:** You might be building dependency.
+**See:** [Recognizing Unhealthy Dependency](../part5/recognizing-unhealthy-dependency.md)
 
-**See:** [Recognizing Dependency](recognizing-dependency.md)
+### What to Do About It
 
-### What to Do
+**Remember:** Teachers are workers with limited hours. Facilitators and TAs are volunteers with their own lives. They care, AND they can't be your everything.
 
-1. **Acknowledge it** - Don't defend, don't justify
-2. **Apologize** to people you've burdened
-3. **Diversify support:**
-   - Get a therapist
-   - Use crisis lines
+1. **Notice it without shame** - "Oh, I'm doing this again"
+2. **Diversify your support:**
+   - Get a therapist (if possible)
+   - Use crisis lines when you're in crisis
    - Join support groups
-   - Don't rely on one person
-4. **Respect boundaries** - When someone says no, stop
-5. **Work on your problems** - Not just venting, but action
-6. **Ask for consent** before venting or asking for help
+   - Build friendships with multiple people
+   - Don't make one person responsible for your wellbeing
+3. **Respect boundaries** - When someone says they're not available, believe them
+4. **Work on the root issue** - What need are you trying to meet? How else could you meet it?
+
+**You're not broken for needing support. You just need it from multiple places, not one person.**
 
 ---
 
-## Are You Violating Boundaries?
+## Are You Pushing When People Say No?
 
-### Check Yourself
+### Check Yourself (No Judgment)
 
-**Do I:**
-- Push when people say no?
-- Argue with people's boundaries?
-- Guilt-trip when people set limits?
-- Demand explanations for boundaries?
-- Test boundaries to see if they're "real"?
-- Ignore stated boundaries?
-- Get angry when people have limits?
-- Make people feel bad for saying no?
+**When someone sets a boundary, do you:**
+- Keep asking "just this once"?
+- Try to explain why you really need the exception?
+- Feel hurt or angry that they won't make an exception for you?
+- Test the boundary to see if they "really mean it"?
+- Bring it up again later hoping they've changed their mind?
+- Get upset and withdraw affection when they hold the line?
 
-**Red flags:**
-- "Just this once?"
+**Red flag phrases you might hear yourself saying:**
 - "But I really need..."
-- "You're being too sensitive"
-- "I thought we were friends"
-- Continuing after someone says no
+- "You don't understand..."
+- "I thought we were friends..."
+- "If you cared, you would..."
+- "You're being too strict..."
 
-**If yes:** You're violating boundaries.
+**If yes:** You're pushing boundaries. **This happens a lot when you're desperate or scared. It's a thing we all do. It's just not okay to keep doing it.**
 
-**See:** [Student Boundaries](student-boundaries.md)
+**See:** [Boundary Violations & Love-Bombing](boundary-violations.md)
 
-### What to Do
+### What to Do About It
 
-1. **Stop** - Immediately
-2. **Apologize** - "I violated your boundary. I'm sorry."
-3. **Respect the boundary** - No more pushing
-4. **Examine why** - Why did you push? (Need for control? Fear of rejection? Entitlement?)
-5. **Work on it** - Therapy can help with this pattern
+**Remember:** When a teacher, TA, or facilitator sets a boundary, they're not rejecting YOU - they're protecting their capacity to keep showing up (for you and everyone else).
+
+1. **Stop immediately** when someone says no
+2. **Take a breath** - Notice your feelings (hurt, anger, fear) without acting on them
+3. **Apologize** - "I pushed after you set a boundary. I'm sorry."
+4. **Respect it** - No more asking
+5. **Look at why** - Are you afraid? Desperate? Feeling abandoned? (These feelings are real, even if the action wasn't okay)
+6. **Get support** - Talk to someone else about those feelings
+
+**A "no" doesn't mean you're bad. It means they have limits. We all do.**
 
 ---
 
-## Are You Being Entitled?
+## Are You Expecting More Than Is Reasonable?
 
-### Check Yourself
+### Check Yourself (Gently)
 
-**Do I:**
-- Expect people to teach me without compensation?
-- Demand facilitators be available 24/7?
-- Think rules don't apply to me?
-- Get angry when I don't get special treatment?
-- Expect accommodation without asking?
-- Frame my wants as needs?
-- Use marginalization to avoid accountability?
-- Demand the community change to suit me?
+**Do you expect:**
+- Teachers to respond immediately (they're workers with set hours)
+- TAs or facilitators to be available 24/7 (they're volunteers with lives)
+- Special treatment because your situation is harder (everyone's struggling)
+- People to teach you for free when teaching is their job
+- The community to revolve around your needs
+- Accommodations without asking for them
+- Everyone to understand your situation without explaining it?
 
-**Entitled statements:**
+**Entitled-sounding statements (we all say these sometimes):**
 - "You should have..."
-- "I deserve..."
-- "It's not fair that..."
 - "Why won't you just..."
+- "It's not fair that..."
+- "I deserve..."
 
-**If yes:** You might be entitled.
+**If yes:** You might be coming from a place of entitlement. **This often comes from fear, desperation, or past privilege. It's workable.**
 
-**See:** [Decolonizing Entitled Learners](../part6/decolonizing-entitled-learners.md) (admin guide, but relevant)
+### What to Do About It
 
-### What to Do
+**Reality check with compassion:**
 
-1. **Reality check** - Nobody owes you anything
-2. **Take responsibility** - For your learning, your wellbeing, your problems
-3. **Ask, don't demand** - "Can you help?" not "You should help"
-4. **Respect "no"** - It's an answer, not a negotiation
-5. **Examine privilege** - Where does this entitlement come from?
+1. **Teachers are workers** - They have set hours, they get paid for specific work, they're not available 24/7
+2. **Facilitators and TAs are volunteers** - They're giving their time for free, they have full lives, they can say no anytime
+3. **Nobody owes you anything** - Help is given freely, not owed
+4. **Ask, don't demand** - "Could you help?" not "You should help"
+5. **Respect "no"** - It's an answer, not a negotiation
+6. **Get curious** - Where did you learn to expect this? What were you taught about what you deserve?
+
+**It's okay to have needs. It's not okay to demand others meet them unconditionally.**
 
 ---
 
-## Are You Manipulating?
+## Are You Using Vulnerability as a Tool?
 
-### Check Yourself
+### Check Yourself (With Self-Compassion)
 
-**Do I:**
-- Use my struggles to control others?
-- Weaponize vulnerability?
-- Threaten self-harm when people set boundaries?
-- Guilt-trip to get what I want?
-- Play victim while causing harm?
-- Use marginalization to avoid accountability?
-- Love-bomb then withdraw affection?
-- Lie or deceive to get my way?
+**When you're hurting, do you:**
+- Share your struggles to make people feel obligated to help?
+- Mention self-harm when people set boundaries?
+- Use your pain to guilt people into doing things?
+- Make your crises other people's emergencies?
+- Frame everything as life-or-death to get attention?
+- Feel like crisis is the only way people will care?
 
-**Manipulative patterns:**
-- Victim-persecutor-rescuer triangle
-- Moving goalposts
-- Gaslighting ("That didn't happen")
-- DARVO (Deny, Attack, Reverse Victim and Offender)
-
-**If yes:** You're manipulating.
+**If yes:** You might be weaponizing vulnerability. **This is a learned survival strategy. It makes sense that you learned it. It's still causing harm.**
 
 **See:** [Understanding Manipulation](../part1/understanding-manipulation.md)
 
-### What to Do
+### What to Do About It
 
-1. **Stop** - This is serious
-2. **Get help** - Therapist, especially for trauma/personality patterns
-3. **Take accountability** - Don't minimize, don't justify
-4. **Work on it** - Long-term, this requires professional support
-5. **Respect that people may not forgive you** - That's their right
+**Be honest with yourself:**
 
----
+1. **Recognize the pattern** - "I do this when I'm scared no one will care otherwise"
+2. **Understand why** - Was crisis the only time you got attention growing up? Did you learn that being vulnerable = power?
+3. **Get help** - A therapist can help you unlearn this pattern
+4. **Find other ways to connect** - Practice asking for help without catastrophizing
+5. **Respect that people may not trust you** - If you've done this repeatedly, people will be wary. That's fair.
 
-## Are You Love-Bombing?
-
-### Check Yourself
-
-**Do I:**
-- Overwhelm new people with attention?
-- Move too fast into intimacy?
-- Put people on pedestals?
-- Make intensity feel like connection?
-- Get upset when people need space?
-- Withdraw affection when people don't reciprocate?
-- Create debt through favors?
-
-**If yes:** You might be love-bombing.
-
-**See:** [Recognizing Love-Bombing](recognizing-love-bombing.md)
-
-### What to Do
-
-1. **Slow down** - Let relationships build naturally
-2. **Examine your attachment patterns** - Therapy can help
-3. **Respect pace** - Not everyone wants intensity
-4. **Don't make people special before you know them**
-5. **Work on your need for validation** - It shouldn't come from overwhelming others
+**You can be vulnerable without using it as a weapon. It takes practice.**
 
 ---
 
-## Are You Being a Cult Leader?
+## Are You Coming On Too Strong?
 
-### Check Yourself (For Community Leaders/Builders)
+### Check Yourself (Kindly)
 
-**Do I:**
-- Position myself as uniquely enlightened?
-- Punish criticism or dissent?
-- Make people compete for my attention?
-- Isolate people from outside support?
-- Demand absolute loyalty?
-- Use BITE model tactics?
-- Make the community about me, not the work?
-- Violate boundaries and call it "growth"?
-- Punish people who leave?
-- Refuse accountability?
+**Do you:**
+- Tell new people they're "the only one who understands you"?
+- Get really intense really fast with people?
+- Put people on pedestals before you really know them?
+- Give excessive praise, gifts, or declarations?
+- Feel crushed when people don't reciprocate your intensity?
+- Withdraw when people ask you to slow down?
 
-**If yes:** You're building cult dynamics.
+**If yes:** You might be love-bombing. **This often comes from loneliness, attachment wounds, or fear of abandonment. It's really common. It's also overwhelming for others.**
 
-**See:**
-- [Recognizing Cult Leaders](recognizing-cult-leaders.md)
-- [Vision vs. Delusion](vision-vs-delusion.md) (admin guide)
+**See:** [Boundary Violations & Love-Bombing](boundary-violations.md)
 
-### What to Do
+### What to Do About It
 
-1. **Take this extremely seriously**
-2. **Get outside perspective** - Therapist, mentor, not yes-people
-3. **Create accountability structures** - Checks on your power
-4. **Decentralize** - Make community less about you
-5. **Welcome criticism** - Make it safe, not punished
-6. **Let people leave freely** - No shunning, no punishment
-7. **Respect boundaries** - Always
-8. **Consider stepping back** - If you can't change, remove yourself from power
+1. **Slow down** - Let relationships build naturally over time
+2. **Notice the urge** - When you want to tell someone they're special after one conversation, pause
+3. **Diversify connection** - Don't make one person your everything
+4. **Work on attachment** - Therapy helps with this
+5. **Be patient** - Real connection takes time
+
+**You're not desperate or pathetic for wanting connection. You just need to pace it differently.**
 
 ---
 
-## Are You Taking Accountability?
+## When Facilitators or Teachers Set Boundaries With You
 
-### Real Accountability vs. Performance
+### What's Actually Happening
 
-**Real accountability:**
-- ✅ "I did that. I'm sorry. I'll work on changing."
-- ✅ Listening to impact, not defending intent
-- ✅ Making amends
-- ✅ Changing behavior
-- ✅ Accepting consequences
+**They're not:**
+- Rejecting you as a person
+- Being mean or uncaring
+- Discriminating against you
+- Giving up on you
 
-**Performative accountability:**
-- ❌ "I'm sorry you feel that way"
-- ❌ Centering your feelings
-- ❌ Demanding forgiveness
-- ❌ "I'm a terrible person" (making them comfort you)
-- ❌ Promising change but not doing it
-- ❌ Claiming victimhood
+**They're:**
+- Protecting their capacity so they can keep showing up
+- Being honest about their limits (which is kind)
+- Modeling healthy relationships
+- Caring enough to be real with you
 
-**Check:** Are you actually changing, or just performing?
+**Remember:**
+- **Teachers are workers** - They clock in and out, they have lives
+- **Facilitators and TAs are volunteers** - They're giving their time for free, they don't owe you unlimited access
 
----
-
-## Common Defensive Reactions
-
-### Watch For These in Yourself
-
-**When someone calls you out, do you:**
-
-**Deny:**
-- "That didn't happen"
-- "You're misremembering"
-- "I would never do that"
-
-**Minimize:**
-- "It wasn't that bad"
-- "You're being too sensitive"
-- "I was just joking"
-
-**Justify:**
-- "You don't understand, I was..."
-- "I only did that because..."
-- "I had good intentions"
-
-**Blame:**
-- "You made me do it"
-- "If you hadn't [thing], I wouldn't have..."
-- "Other people are worse"
-
-**Flip it:**
-- "Actually, YOU..."
-- Making yourself the victim
-- DARVO
-
-**All of these = not accountability.**
-
-### What to Do Instead
-
-1. **Pause** - Don't react immediately
-2. **Listen** - To impact, not just intent
-3. **Reflect** - Is there truth here?
-4. **Acknowledge** - "I did that. I see how it affected you."
-5. **Apologize** - Specifically, no "but"
-6. **Change** - Actually change the behavior
+**When they say "I can't":** Believe them.
 
 ---
 
-## When You've Caused Harm
+## Getting Help With Patterns
 
-### Repair Is Possible
+### These Things Are Workable
 
-**Steps:**
+**If you notice yourself doing these patterns:**
 
-1. **Acknowledge what you did** - Specifically
-   > "I [specific behavior]. That was wrong."
+1. **Be kind to yourself** - You learned this somewhere, probably when you were vulnerable
+2. **Take it seriously** - Understanding why doesn't mean it's okay to keep doing
+3. **Get support:**
+   - **Therapy** - [findhelp.org](https://findhelp.org) can help you find free or low-cost options
+   - **Support groups** - Many are free and peer-led
+   - **Crisis lines when you're activated** - 988, Crisis Text Line (741741)
+   - See [Mental Health Resources](../part3/mental-health-support.md) for more free options
+4. **Practice new patterns:**
+   - Ask for consent before venting
+   - Respect boundaries the first time
+   - Diversify your support
+   - Slow down in relationships
 
-2. **Name the impact** - Show you understand
-   > "I can see that caused [impact]."
-
-3. **Take responsibility** - No justification
-   > "That's on me. There's no excuse."
-
-4. **Apologize** - Clearly
-   > "I'm sorry."
-
-5. **Ask what they need** - Not what you think they need
-   > "What would repair look like for you?"
-
-6. **Do it** - Follow through
-
-7. **Change the pattern** - With professional help if needed
-
-### They Don't Have to Forgive You
-
-**Even if you:**
-- Take accountability
-- Apologize perfectly
-- Change completely
-
-**They get to:**
-- Not forgive you
-- End the relationship
-- Not give you another chance
-
-**That's their right. Respect it.**
-
----
-
-## Getting Help
-
-### Patterns Require Support to Change
-
-**Consider therapy if:**
-- You keep doing these patterns despite knowing better
-- People keep telling you the same thing
-- You can't seem to change
-- Your relationships keep ending the same way
-- You recognize the pattern but don't know how to stop
-
-**Therapy can help with:**
-- Attachment patterns
-- Trauma responses
-- Personality patterns
-- Manipulation tactics
-- Boundary issues
-- Entitlement
-
-**See:** [Therapy Resources](../part7/therapy-resources.md)
+**Finding Free/Low-Cost Help:**
+- [findhelp.org](https://findhelp.org) - Search for free mental health services, food, housing, etc.
+- [988 Lifeline](https://988lifeline.org) - Free crisis support 24/7
+- [NAMI](https://nami.org) - Free support groups and education
+- See [Therapy Resources](../part7/therapy-resources.md) for more options
 
 ---
 
@@ -370,66 +257,97 @@ This guide helps you check yourself with honesty and compassion.
 
 ### You Can Hold Both
 
-**You're not a monster** for having these patterns.
+**You're not a terrible person for doing these things.**
 
 **Everyone learns harmful behaviors somewhere:**
-- Childhood
+- Childhood survival strategies
 - Past relationships
 - Trauma responses
 - Cultural conditioning
-- Survival strategies that are now maladaptive
+- Things that worked once but don't work now
 
-**Understanding why ≠ excusing it.**
+**Understanding where it came from doesn't excuse continuing it.**
 
 **You can:**
-- Have compassion for yourself
-- Understand where it came from
-- Take full accountability
-- Work to change
+- Have compassion for yourself ("I learned this when I was surviving")
+- Understand the root ("I do this when I'm scared")
+- Take full accountability ("I'm doing this and it's affecting people")
+- Work to change ("I'm going to get help with this pattern")
 
-**These aren't contradictory.**
+**All of these at once.**
 
 ---
 
-## Growth Is Possible
+## When You've Messed Up
 
-### You Can Change
+### Repair Is Possible
 
-**If you:**
-- Recognize the pattern
-- Take accountability
-- Get help
-- Do the work
+**If you realize you've been doing one of these patterns:**
 
-**You can:**
-- Build healthier relationships
-- Stop causing harm
-- Learn new patterns
-- Repair (some) damage
+1. **Don't spiral** - This isn't "I'm a terrible person," it's "I did a thing I want to change"
+2. **Acknowledge it** - To the person affected, if appropriate
+3. **Apologize specifically** - "I kept pushing after you set a boundary. That wasn't okay. I'm sorry."
+4. **Ask what they need** - Not what you think they need
+5. **Actually change** - Get help if you need it
+6. **Accept consequences** - They might not forgive you or want to continue the relationship. That's fair.
 
-**Change is hard. It's possible.**
+### They Don't Have to Forgive You
+
+**Even if you:**
+- Take accountability perfectly
+- Apologize sincerely
+- Change completely
+- Do everything right
+
+**They get to:**
+- Not forgive you
+- Keep the boundary
+- End the relationship
+- Protect themselves
+
+**That's their right. It's not punishment. It's self-care.**
 
 ---
 
 ## Remember
 
-**Having harmful patterns doesn't make you irredeemable.**
+**We ALL do silly stuff when we're vulnerable, scared, hurting, or desperate.**
 
-**Refusing to acknowledge them does.**
+**The question isn't "am I doing this?" (probably yes, sometimes)**
 
-**Self-awareness is the first step.**
+**The question is: "When I notice it or someone points it out, what do I do?"**
 
-**Accountability is the next.**
+**Do I:**
+- Get defensive and deny?
+- OR recognize it and work on it?
 
-**Change is the proof.**
+**That's the difference.**
+
+---
+
+## You Can Change
+
+**If you:**
+- Notice the pattern (even if someone else points it out)
+- Take accountability (without defensiveness)
+- Get help (therapy, support groups, etc.)
+- Actually work on it (not just promising)
+
+**You can:**
+- Build healthier relationships
+- Stop overwhelming people
+- Learn new patterns
+- Repair some of the damage
+
+**Change is hard. Change is possible.**
+
+**You're not broken. You're learning.**
 
 ---
 
 **See Also:**
-- [Recognizing Dependency](recognizing-dependency.md) - When someone expects you to save them
-- [Recognizing Love-Bombing](recognizing-love-bombing.md) - Manipulation through affection
-- [Recognizing Cult Leaders](recognizing-cult-leaders.md) - Building unhealthy power dynamics
-- [Student Boundaries](student-boundaries.md) - How to set and respect boundaries
-- [Understanding Manipulation](../part1/understanding-manipulation.md) - Manipulation tactics
-- [Therapy Resources](../part7/therapy-resources.md) - Getting professional help
-- [Mental Health Support](../part3/mental-health-support.md) - Ongoing mental health care
+- [Recognizing Unhealthy Dependency](../part5/recognizing-unhealthy-dependency.md)
+- [Boundary Violations & Love-Bombing](boundary-violations.md)
+- [Burnout & Community Sustainability](../part5/burnout-and-community-sustainability.md) - Why people need boundaries
+- [When You're in Crisis](../part3/when-youre-in-crisis.md) - Appropriate crisis support
+- [Therapy Resources](../part7/therapy-resources.md)
