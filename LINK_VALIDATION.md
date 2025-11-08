@@ -30,8 +30,20 @@ python3 -m playwright install chromium
 - 988 LGBTQ+ youth services shut down (July 2025)
 - National Autism Resources weaponized (making lists)
 - Targeting of LGBTQ+ people and minorities
+- **International mail to US shut down** (Trump tariffs broke international mail agreements)
+- **Information heavily manipulated** (can't find protests on Google, feeds controlled)
 
 **Some "broken" links may be genuinely shut down by government, not technical errors.**
+
+**Mail shutdown affects:**
+- DIY HRT shipments from international suppliers (not arriving)
+- International medication orders
+- Any physical resources that require shipping to US
+
+**Information manipulation affects:**
+- Finding resources through search
+- Social media algorithms hiding organizing
+- Need for VPN, encrypted communication, peer networks
 
 ---
 
@@ -119,6 +131,10 @@ These sites return 403 to automated requests but work fine for humans:
 - **International alternatives** to US-based services
 - **Community mutual aid** over government programs
 - **Grassroots organizations** less vulnerable to federal cuts
+- **Peer warmlines** as alternatives to government crisis lines
+- **Local, in-person organizing** (feeds are manipulated)
+- **DIY/mutual aid networks** that don't rely on international shipping
+- **Thailand trans healthcare** as best emigration destination for trans people
 
 ---
 
@@ -144,7 +160,21 @@ If you see a "broken link" error in this handbook:
 1. **The site might be genuinely down** (government shutdown, funding cuts)
 2. **It might be bot-protected** (works fine when you visit)
 3. **Report it** so we can find alternatives
-4. **In crisis?** Use international resources or peer support lines
+4. **In crisis?** Use international resources or peer support lines (Wildflower Alliance: 888-407-4515)
+
+**Information is being manipulated:**
+- Can't find protests or organizing on Google
+- Social media feeds are controlled
+- Use VPN for research
+- Trust peer networks over official channels
+- Verify through international sources
+- Use encrypted communication (Signal)
+
+**International mail is shut down:**
+- DIY HRT from international suppliers not arriving reliably
+- Prioritize leaving the US or local healthcare
+- Stockpile while you can
+- See emigration resources
 
 **Your safety comes first. Learning can wait.**
 

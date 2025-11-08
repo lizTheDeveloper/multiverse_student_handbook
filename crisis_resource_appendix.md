@@ -31,20 +31,57 @@ This appendix provides copy-ready language and referral resources for moderators
 
 ---
 
-### **III. International Crisis Lines**
+### **III. Peer Warmlines (Alternative to Crisis Lines)**
 
-**Canada:** Talk Suicide Canada — 1-833-456-4566 or text 45645  
-**UK:** Samaritans — 116 123  
-**Australia:** Lifeline — 13 11 14  
-**New Zealand:** Need to Talk? — 1737  
-**India:** AASRA Helpline — 91-9820466726  
-**Mexico:** SAPTEL — 800-472-7835  
-**South Africa:** SADAG — 0800 21 22 23  
-**EU (English):** FindAHelpline.com for local listings  
+**What they are:** Peer-run support lines staffed by people with lived experience. No assessment, no police calls, no forced hospitalization.
+
+**Wildflower Alliance Peer Support Line**
+- **888-407-4515**
+- 7pm-9pm ET Mon-Thu, 7pm-10pm ET Fri-Sun
+- [wildfloweralliance.org](https://wildfloweralliance.org/)
+- Peer-run, trauma-informed
+
+**Warmline Directory:**
+- Search "[your state] warmline" for local peer support lines
+- Many states have peer-run alternatives
 
 ---
 
-### **IV. General Safety & Support Resources**
+### **IV. International Crisis Lines**
+
+**For LGBTQ+ people who have left or are leaving the US:**
+
+**Canada:**
+- Talk Suicide Canada: 1-833-456-4566 or text 45645
+- Trans Lifeline: 1-877-330-6366
+- LGBT YouthLine: 647-694-4275
+
+**Latin America:**
+- Argentina: 144 (24/7)
+- Chile: 600-360-7777
+- Mexico: 55-5533-5533
+- Peru: 51-955-178-208
+
+**Europe:**
+- Spain: 028
+- France: 06-31-59-69-50
+- UK Samaritans: 116 123
+- UK Galop (LGBTQ+): 0800-999-5428
+- Italy: 800-713-713
+- Netherlands: 085-3037680
+
+**Australia/NZ:**
+- Australia Lifeline: 13 11 14
+- New Zealand Need to Talk: 1737
+- Twenty10 (LGBTQ+, Sydney): (02) 8594 9555
+
+**Other International:**
+- India AASRA: 91-9820466726
+- South Africa SADAG: 0800 21 22 23
+
+---
+
+### **V. General Safety & Support Resources**
 - **RAINN** (Sexual Assault Support) — 800-656-4673
 - **National Eating Disorders Helpline** — 800-931-2237
 - **Substance Abuse Helpline (SAMHSA)** — 800-662-4357
@@ -52,7 +89,34 @@ This appendix provides copy-ready language and referral resources for moderators
 
 ---
 
-### **V. Teacher & Mod Guidance: How to Refer**
+### **VI. Mutual Aid & Community Support**
+
+**Note:** Government resources are being shut down. Community-based mutual aid is more reliable.
+
+**Food Not Bombs**
+- 500+ chapters in 60+ countries
+- Free vegan meals, no questions asked
+- Find local chapter: [foodnotbombs.net](http://www.foodnotbombs.net/)
+- Autonomous, community-run
+
+**HUNGER HOTLINE**
+- **1-800-884-1136**
+- Connects to local food resources
+
+**Mutual Aid Hub**
+- [mutualaidhub.org](https://www.mutualaidhub.org/)
+- Find local mutual aid networks
+- Community-based support (not government)
+
+**Local organizing:**
+- Search "[your city] mutual aid" on social media (feeds are manipulated, try multiple sources)
+- Ask in person at community spaces
+- Look for flyers, WhatsApp groups, Signal groups
+- Trust peer networks over official channels
+
+---
+
+### **VII. Teacher & Mod Guidance: How to Refer**
 
 1. **Stay Grounded:** Use calm, short sentences.
 2. **Offer Links and Numbers, Not Advice.**

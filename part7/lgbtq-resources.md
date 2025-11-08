@@ -179,6 +179,38 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 **Speech therapists:**
 - Search "gender-affirming voice therapy"
 
+### DIY HRT Resources
+
+**⚠️ CRITICAL (Nov 2025):** International mail to the US is shut down due to tariff breakdown. DIY HRT shipments from international suppliers are NOT arriving. If you're in the US, focus on:
+- Leaving the country (see [Emigration Resources](emigration-resources.md))
+- Stockpiling from US sources while available
+- Local mutual aid networks for hormone sharing
+- In-person healthcare (Planned Parenthood, informed consent clinics)
+
+**For those outside the US or who have left:**
+
+**The DIY HRT Directory**
+- [diyhrt.info](https://diyhrt.info/) and [diyhrt.wiki](https://diyhrt.wiki/)
+- Comprehensive supplier lists
+- Harm reduction info
+- **Note:** Mail to US not reliable
+
+**HRT Cafe**
+- [hrtcafe.net](https://hrtcafe.net/)
+- Supplier info, guides
+- Community knowledge
+
+**r/TransDIY** (Reddit)
+- Community support
+- Harm reduction
+- **Check for US mail updates**
+
+**Trans Harm Reduction**
+- Safe use information
+- Dosing guidelines
+
+**If you're in the US:** Prioritize leaving or accessing local healthcare. DIY international shipments are not arriving reliably.
+
 ### Trans Community
 
 **r/asktransgender** (Reddit)

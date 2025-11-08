@@ -18,6 +18,21 @@ This means:
 
 **The international community sees what's happening. You're not overreacting.**
 
+### Current Situation (Nov 2025)
+
+**International mail to the US is shut down.** Trump tariffs broke international mail agreements. Most suppliers won't ship to the US anymore. This affects:
+- DIY HRT shipments (not arriving reliably)
+- Medications from international pharmacies
+- International packages in general
+
+**Information is heavily manipulated.** You can't find protests or organizing on Google. Feeds are controlled. This means:
+- Research visas/emigration using VPN + multiple sources
+- Trust peer networks over official channels
+- Verify information through international sources
+- Use encrypted communication (Signal, not regular text)
+
+**Leave before it gets harder.** Borders could close. Assets could be frozen. Your demographic could be restricted from travel.
+
 ---
 
 ## GTFO Meeting
@@ -120,6 +135,10 @@ This workbook helps you:
 
 **Asia-Pacific:**
 - **Thailand** - Large expat community, affordable, visa options
+  - **TRANS HEALTHCARE:** Thai government invested 145M baht (US$4.3M) to provide HRT to 200,000 trans people
+  - **Informed consent expanding** - General practitioners can now prescribe hormones
+  - **Community:** Large trans community, especially Bangkok
+  - **Best option for accessible trans healthcare**
 - **Taiwan** - First in Asia to legalize same-sex marriage
 - **New Zealand** - English-speaking, remote, expensive
 
@@ -172,10 +191,15 @@ This workbook helps you:
 
 ### Resources for Visa Research
 
-- **Government immigration websites** of target countries
+**⚠️ Use VPN and verify through multiple sources - US information is manipulated**
+
+- **Government immigration websites** of target countries (check from outside US if possible)
 - **r/IWantOut** (Reddit) - emigration advice community
 - **Nomad List** - Digital nomad visa information
 - **ILGA World** - LGBTQ+ legal info by country
+- **GTFO Meeting (Fridays 5pm)** - Peer support, current visa strategies
+- **International sources** - Trust info from outside the US
+- **Peer networks** - Other people who have successfully left
 
 ---
 
@@ -238,23 +262,36 @@ This workbook helps you:
 
 ### For Trans People
 
+**⚠️ CRITICAL:** International mail to US is shut down. If you need HRT, prioritize leaving or stockpiling from US sources NOW.
+
+**Thailand is the best destination for trans healthcare:**
+- Thai government providing HRT to 200,000 trans people (145M baht investment)
+- Informed consent model expanding nationwide
+- General practitioners can prescribe hormones
+- Surgery options available and affordable
+- Large, established trans community (especially Bangkok)
+- Many tech workers emigrating there specifically for trans healthcare
+
 **Research BEFORE you go:**
 - Hormone access (prescription requirements, informed consent availability)
 - Surgery availability and costs
 - Legal name/gender marker change processes
 - Discrimination protections
 - Whether your target country recognizes your gender
+- **Use VPN and international sources** - US feeds are manipulated
 
 **Bring with you:**
 - 6+ months of hormones (if possible)
-- All medical records
+- All medical records (digitized and encrypted)
 - Current prescriptions
 - Letters from providers
+- Backup medications
 
 **Resources:**
-- Global Trans Rights Map - check legal status
+- Global Trans Rights Map - check legal status (verify with international sources)
 - Trans-friendly healthcare directories for destination countries
 - WPATH provider directory (international)
+- r/TransDIY for current mail shipping status
 
 ### For Disabled People
 
@@ -279,11 +316,15 @@ This workbook helps you:
 ### Before You Leave
 
 **Operational security:**
-- Don't announce plans publicly
+- Don't announce plans publicly (especially not on manipulated feeds)
 - Deactivate social media or go dark
-- Use encrypted communication (Signal)
+- Use encrypted communication (Signal, NOT regular text/email)
 - Don't tell people who might report you
 - Research what you can legally take out
+- **Use VPN** for all emigration research
+- Verify info through international sources (US feeds are controlled)
+- Join GTFO meeting (Fridays 5pm) for peer support
+- Trust peer networks over official channels
 
 **Legal considerations:**
 - Check if you're allowed to leave (debts, custody, criminal matters)

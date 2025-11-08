@@ -68,6 +68,25 @@ You're not broken. The situation is.
 - **1-800-656-HOPE (4673)**
 - **Chat:** [rainn.org](https://www.rainn.org/)
 
+### Peer Warmlines (Alternative to Crisis Lines)
+
+**If you want peer support instead of traditional crisis lines:**
+
+**Wildflower Alliance Peer Support Line**
+- **888-407-4515**
+- 7pm-9pm ET Mon-Thu, 7pm-10pm ET Fri-Sun
+- Peer-run, trauma-informed
+- No assessment, no police calls, no forced hospitalization
+
+**What's different about peer warmlines:**
+- Run by people with lived experience of mental health struggles
+- Not therapists or medical professionals
+- Won't call police or force you into treatment
+- Warm, non-judgmental support
+- Not about "fixing" you
+
+**Search "[your state] warmline"** to find local peer support lines.
+
 **Full crisis resources:** [Crisis Resource Appendix](../crisis_resource_appendix.md)
 
 ---

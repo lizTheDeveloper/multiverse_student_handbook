@@ -141,6 +141,18 @@ This page is for when you need **food, housing, money, or other survival resourc
 
 ### Free Meals
 
+**Food Not Bombs**
+- **500+ chapters in 60+ countries**
+- Free vegan meals, no questions asked
+- Autonomous, community-run (not government-funded)
+- Find local chapter: [foodnotbombs.net](http://www.foodnotbombs.net/)
+- Usually serves in parks or public spaces weekly
+- **Note:** With feed manipulation, you may need to ask around in person or check local flyers
+
+**HUNGER HOTLINE**
+- **1-800-884-1136**
+- Connects to local food resources
+
 **211** - Call to find:
 - Soup kitchens
 - Community meals
@@ -397,21 +409,45 @@ This page is for when you need **food, housing, money, or other survival resourc
 
 ## Mutual Aid Networks
 
+### Why Mutual Aid Matters Now (Nov 2025)
+
+**Government resources are being shut down.** Community-based mutual aid is more reliable than government programs.
+
+**Information is being manipulated.** You can't always find resources through Google search or social media feeds. Trust peer networks and in-person organizing.
+
 ### Find Local Mutual Aid
+
+**⚠️ Finding resources is harder now:**
+- **Feeds are manipulated** - Can't find protests or organizing on Google
+- **Try multiple sources** - Signal, WhatsApp, Telegram groups
+- **Ask in person** - Community centers, libraries, local shops
+- **Look for flyers** - Physical bulletin boards, street posts
+- **Word of mouth** - Ask people you trust
+- **Local organizing meetings** - Show up in person
 
 **Mutual Aid Hub**
 - [mutualaidhub.org](https://www.mutualaidhub.org/)
 - Map of local mutual aid groups
+- May not be fully updated due to information suppression
 
 **Town-Specific Mutual Aid:**
-- Search "[your city] mutual aid" on social media
-- Many operate via Facebook, Instagram, Signal
+- Search "[your city] mutual aid" on multiple platforms (Signal, Telegram, WhatsApp)
+- Many operate underground or semi-privately now
+- Facebook/Instagram may not show results due to feed manipulation
+
+**Food Not Bombs**
+- [foodnotbombs.net](http://www.foodnotbombs.net/)
+- 500+ chapters worldwide
+- Autonomous, harder to shut down
+- Ask around your city - they usually serve in same location weekly
 
 ### How Mutual Aid Works
 
 - **Not charity** - Horizontal support
 - **No means testing** - If you need, you need
 - **Give what you can, take what you need**
+- **Community-based** - Not reliant on government funding
+- **Harder to shut down** - Decentralized, autonomous
 
 **Examples of what mutual aid groups offer:**
 - Food/grocery delivery
@@ -420,6 +456,8 @@ This page is for when you need **food, housing, money, or other survival resourc
 - Childcare
 - Prescription help
 - Translation services
+- Hormone sharing (trans mutual aid)
+- Safe housing networks
 
 ---
 
