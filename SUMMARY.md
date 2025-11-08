@@ -56,6 +56,13 @@
 * [Understanding Schizophrenia & Psychosis](part7/schizophrenia-psychosis.md)
 * [Understanding Dependent Personality Disorder (DPD)](part7/dependent-personality-disorder.md)
 
+### Survival & Safety Resources
+* **[Emigration Resources: Getting Out](part7/emigration-resources.md)** - GTFO meeting, visas, leaving the US
+* [Survival Resources](part7/survival-resources.md) - Housing, food, basic needs
+* [LGBTQ+ Resources](part7/lgbtq-resources.md) - Support for targeted communities
+* [Disability Resources](part7/disability-resources.md) - Accessibility and support
+* [Neurodivergent Resources](part7/neurodivergent-resources.md) - ADHD, autism, and more
+
 ### Additional Resources
 * [Nonviolent Communication (NVC) Guide](part7/nonviolent-communication-guide.md)
 * [Research Sources & Evidence Base](part7/research-sources.md)
