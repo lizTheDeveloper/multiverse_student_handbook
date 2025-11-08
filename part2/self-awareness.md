@@ -62,7 +62,7 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 - They've started setting boundaries with you?
 - Other people have said you're "a lot" for someone?
 
-**This is really common when you're lonely, scared, or in crisis.**
+**This is really common when you're lonely, scared, or in crisis. It doesn't make you a bad person.**
 
 **See:** [Recognizing Unhealthy Dependency](../part5/recognizing-unhealthy-dependency.md)
 

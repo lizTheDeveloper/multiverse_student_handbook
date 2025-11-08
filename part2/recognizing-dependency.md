@@ -95,7 +95,7 @@ This guide helps you recognize when someone is building unhealthy dependency on 
 - You're avoiding them
 - You feel guilty for pulling away
 
-**This pattern is common.**
+**This pattern is common. You're not a bad person for being in it.**
 
 ---
 

@@ -2,6 +2,8 @@
 
 Learning is hard. Life is hard. Sometimes everything feels like too much.
 
+**This is normal.** You're not failing.
+
 ---
 
 ## What Struggling Looks Like
