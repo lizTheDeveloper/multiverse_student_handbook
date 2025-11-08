@@ -1,0 +1,28 @@
+{
+  "title": "The Multiverse School Teacher & Moderator Handbook",
+  "description": "A comprehensive guide to supporting neurodivergent adult learners with care, boundaries, and safety",
+  "author": "Liz Howard",
+  "language": "en",
+  "gitbook": "3.x.x",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "search",
+    "expandable-chapters",
+    "back-to-top-button",
+    "chapter-fold",
+    "anchors"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    }
+  },
+  "variables": {
+    "schoolName": "The Multiverse School",
+    "version": "1.0",
+    "lastUpdated": "November 2025"
+  }
+}

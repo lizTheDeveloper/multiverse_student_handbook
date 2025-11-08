@@ -1,0 +1,12 @@
+title: The Multiverse School Teacher & Moderator Handbook
+description: A comprehensive guide for teaching neurodivergent adults with mental health challenges
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - .gitbook.yaml
+  - book.json
+  - PROJECT_STATUS.md
+  - MENTAL_HEALTH_ADDITIONS.md
+  - CITATION_VERIFICATION.md
