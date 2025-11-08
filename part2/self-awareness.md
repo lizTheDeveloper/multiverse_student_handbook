@@ -13,10 +13,10 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 **We're living through collective crisis:** Fascism, government shutdown, targeting of minorities, people fleeing the country.
 
 **This changes things:**
-- When you're terrified and trying to escape, you WILL lean harder on support
-- When resources are being eliminated, you WILL be more desperate
-- When your community is scattered (people fleeing), you WILL cling to whoever's still here
-- When the situation is this bad, intensity is a normal human response
+- When you're terrified and trying to escape, you might lean harder on support
+- When resources are being eliminated, you might be more desperate
+- When your community is scattered (people fleeing), you might cling to whoever's still here
+- When the situation is this bad, intensity can be a normal human response
 
 **The question is still:** Are you respecting people's limits? Are you diversifying support where possible? Are you working on your situation (even if that's "getting out")?
 

@@ -10,9 +10,9 @@ Understanding your patterns helps you work with your brain, not against it.
 
 ### Context: November 2025 - Trauma Responses to Collective Crisis
 
-**A lot of people are showing "extra mental health problems" right now.** This isn't individual pathology - it's **normal human response to living through fascism, government shutdowns, targeting of minorities, and resource scarcity.**
+**A lot of people are experiencing intensified distress right now.** This isn't necessarily individual pathology - it might be **normal human response to living through fascism, government shutdowns, targeting of minorities, and resource scarcity.**
 
-**What looks like "mental health crisis" might be:**
+**What you might be experiencing:**
 - Rational fear responses (when the government is making lists of people like you)
 - Trauma responses (to ongoing threat and violence)
 - Grief (for what's being lost)
@@ -21,7 +21,7 @@ Understanding your patterns helps you work with your brain, not against it.
 
 **You're not broken. The situation is.**
 
-That said, understanding your patterns still helps. And if you need to flee, that might be the best mental health intervention available right now.
+That said, understanding your patterns still helps. And if you need to flee, that might be the best intervention available right now.
 
 ---
 
