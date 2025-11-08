@@ -39,6 +39,8 @@ This means:
 
 **Fridays at 5pm** - Working on visas, emigration, getting out
 
+**Sign up (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool)
+
 Join the Multiverse community's weekly emigration planning meeting where we:
 - Share visa strategies
 - Research destination countries
@@ -47,6 +49,8 @@ Join the Multiverse community's weekly emigration planning meeting where we:
 - Help each other stay safe
 
 **You don't have to do this alone.**
+
+**Note:** Focus on safety first. Learning can wait. We'll keep running classes - you can come back when you're safe.
 
 ---
 

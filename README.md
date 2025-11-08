@@ -10,14 +10,15 @@
 
 We're in the middle of a fascist takeover of the United States. The government is shutting down services. Lists are being made. People are disappearing.
 
-**GTFO Meeting - Fridays at 5pm**
+**GTFO Meeting - Fridays at 5pm (FREE)**
+- **Sign up:** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool)
 - Working on visas, emigration, getting out
 - We recommend LGBTQ+ folks and other targeted minorities leave the US
 - This is about survival, not learning to code
 
 **📍 [Emigration Resources: How to Leave →](part7/emigration-resources.md)**
 
-**Your safety comes first. Learning can wait.**
+**Your safety comes first. Learning can wait. We'll keep running classes - you can come back when you're safe.**
 
 ---
 
@@ -248,7 +249,10 @@ You're not alone. Many people have. See [Cult Recovery Resources](part1/cult-rec
 
 ### 🎓 Learning Resources
 - [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) - Free, self-paced basics
-- [themultiverse.school](https://themultiverse.school) - Current class listings, memberships, specialized courses
+- [themultiverse.school](https://themultiverse.school) - Sign up for classes, memberships, specialized courses
+- [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - GTFO Meeting (Fridays 5pm, FREE) - emigration planning
+
+**Note:** If you're in danger, prioritize safety. We'll keep running classes - come back when you're safe.
 
 ### 🛠️ Resources
 - [Housing & Survival](part7/survival-resources.md)
@@ -262,9 +266,12 @@ You're not alone. Many people have. See [Cult Recovery Resources](part1/cult-rec
 Founded by Liz Howard (they/them), The Multiverse School is an experimental adult education community for unconventional learners. We practice liberatory pedagogy, build through mutual aid, and dare to love deeply—which includes fierce boundaries when needed.
 
 **Websites & Resources:**
-- The Multiverse School: [themultiverse.school](https://themultiverse.school)
-- Free Curriculum: [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)
+- **Sign up for classes:** [themultiverse.school](https://themultiverse.school)
+- **GTFO Meeting (emigration planning):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Fridays 5pm, FREE
+- **Free Curriculum:** [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)
 - Liz's personal site: [lizthe.dev](https://lizthe.dev)
+
+**Remember:** Safety first. If you need to leave, go. The classes will still be here when you're safe.
 
 ---
 
