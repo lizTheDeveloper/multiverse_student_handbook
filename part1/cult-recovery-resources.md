@@ -154,7 +154,7 @@ Recovery isn't linear, but common phases include:
 
 2. **ICSA Therapist Directory**
    - Therapists trained in cult recovery
-   - [icsahome.com/professionals/findatherapist](https://www.icsahome.com/professionals/findatherapist)
+   - [icsahome.com/support/counseling-resources](https://www.icsahome.com/support/counseling-resources)
 
 3. **Ask specifically:**
    - "Do you have experience with cult recovery?"

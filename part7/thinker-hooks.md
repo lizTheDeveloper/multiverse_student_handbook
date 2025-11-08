@@ -274,7 +274,7 @@ hooks' later work became more spiritual and abstract. She focused less on concre
 
 **On love:** *All About Love* (2000)—Love as practice, not feeling
 
-**The bell hooks Center:** [bellhookscenter.org](https://bellhookscenter.org/)
+**The bell hooks Center:** [bellhookscenter.org](https://berea.edu/bhc/)
 
 ---
 

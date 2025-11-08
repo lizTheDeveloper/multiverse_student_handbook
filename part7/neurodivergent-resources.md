@@ -197,7 +197,7 @@ This guide helps you find support that affirms how your brain works—not tries 
 - **"Nerdy, Shy, and Socially Inappropriate" by Cynthia Kim**
 
 **Online:**
-- **Embrace Autism** - [embraceautism.com](https://embraceautism.com/)
+- **Embrace Autism** - [embraceautism.com](https://embrace-autism.com/)
   - Free autism tests, articles
 - **The Autistic Advocate** - [theautisticadvocate.com](https://theautisticadvocate.com/)
 
@@ -215,8 +215,8 @@ This guide helps you find support that affirms how your brain works—not tries 
 ### Sensory Support
 
 **Stim toys:**
-- Stimtastic - [stimtastic.co](https://stimtastic.co/)
-- Autistic-owned stim toy shop
+- National Autism Resources - [nationalautismresources.com/fidgets](https://nationalautismresources.com/fidgets/)
+- Fidget and sensory tools for autism and ADHD
 
 **Noise-canceling headphones/earplugs:**
 - Loop earplugs

@@ -30,7 +30,7 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 - **Youth line (under 25):** 1-800-246-7743
 - **Senior line:** 1-888-234-7243
 - Peer support, not crisis-only
-- [glbthotline.org](https://www.glbthotline.org/)
+- [glbthotline.org](https://www.lgbthotline.org/)
 
 ### General Crisis Lines (LGBTQ+-aware)
 
@@ -72,16 +72,14 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 - [nqttcn.com/directory](https://www.nqttcn.com/directory)
 - QTBIPOC therapists
 
-**Psychology in the Public Interest**
-- [findalgbtqtherapist.com](https://www.findalgbtqtherapist.com/)
-
-**GLMA (LGBTQ+ Healthcare Professionals)**
-- [glma.org/provider-directory](https://www.glma.org/provider-directory/)
-- Includes therapists and doctors
+**LGBTQ+ Healthcare Directory**
+- [lgbtqhealthcaredirectory.org](https://lgbtqhealthcaredirectory.org/)
+- Free searchable directory connecting LGBTQ+ patients with inclusive providers (US & Canada)
+- Includes therapists, doctors, and other healthcare providers
 
 **Trans-specific:**
 - **WPATH Provider Directory** - [wpath.org](https://www.wpath.org/)
-- **OutCare** - [outcare.health](https://www.outcare.health/)
+- **OutCare** - [outcare.health](https://www.outcarehealth.org/)
 
 ### Questions to Ask
 
@@ -204,10 +202,6 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 **GLAAD Transgender Resources**
 - [glaad.org/transgender](https://www.glaad.org/transgender)
 
-**The Trans Doe Task Force**
-- [doeskits.com](https://www.doeskits.com/)
-- Emergency toiletry kits for trans people
-
 ---
 
 ## Coming Out Resources
@@ -225,10 +219,10 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 **Resources:**
 
 **The Trevor Project - Coming Out Handbook**
-- [thetrevorproject.org/resources/article/coming-out-handbook](https://www.thetrevorproject.org/resources/article/coming-out-handbook/)
+- [thetrevorproject.org/resources/article/coming-out-handbook](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)
 
 **PFLAG Coming Out Resources**
-- [pflag.org/cominout](https://www.pflag.org/cominout)
+- [pflag.org/resource/be-yourself/](https://www.pflag.org/resource/be-yourself/)
 
 **Human Rights Campaign (HRC)**
 - [hrc.org/resources/coming-out](https://www.hrc.org/resources/coming-out)
@@ -301,7 +295,7 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 ### Primary Care
 
 **GLMA Provider Directory**
-- [glma.org/provider-directory](https://www.glma.org/provider-directory/)
+- [glma.org/provider-directory](https://www.lgbtqhealthcaredirectory.org/)
 - LGBTQ+-competent healthcare providers
 
 **Fenway Health (Boston)**
@@ -481,7 +475,7 @@ Search "LGBT Discord" for various community servers
 **If you're navigating religion + LGBTQ+ identity:**
 
 **The Trevor Project - Faith & Religion**
-- [thetrevorproject.org/resources/category/religion-faith](https://www.thetrevorproject.org/resources/category/religion-faith/)
+- [thetrevorproject.org/resources/category/religion-faith](https://www.thetrevorproject.org/resources/article/navigating-lgbtq-identities-and-religion/)
 
 **Affirming Denominations:**
 - **United Church of Christ**

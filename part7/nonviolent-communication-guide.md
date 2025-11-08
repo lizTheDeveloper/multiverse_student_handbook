@@ -204,11 +204,9 @@ NVC helps us communicate with compassion. Relational accountability helps us mai
   - NVC from social justice perspective
 
 ### Practice Tools
-- **Feelings Inventory:** [CNVC Feelings List](https://www.cnvc.org/training/resource/feelings-inventory)
-  - List of feelings to help identify emotions
-
-- **Needs Inventory:** [CNVC Needs List](https://www.cnvc.org/training/resource/needs-inventory)
-  - List of universal human needs
+- **Feelings & Needs Inventory:** [CNVC Feelings and Needs List](https://www.cnvc.org/store/feelings-and-needs-inventory)
+  - Free 4-page PDF with feelings and universal human needs lists
+  - Helps identify emotions and underlying needs
 
 ---
 

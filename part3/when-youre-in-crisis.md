@@ -178,7 +178,7 @@ This brings you back to your body and the present moment.
 - Professionals/agencies to contact
 - Making environment safe (removing means)
 
-**Template:** [suicidepreventionlifeline.org/create-safety-plan](https://suicidepreventionlifeline.org/create-safety-plan/)
+**Template:** [988lifeline.org](https://988lifeline.org) (search for "safety plan" or ask when you call)
 
 ---
 

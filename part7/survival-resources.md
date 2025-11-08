@@ -64,7 +64,7 @@ This page is for when you need **food, housing, money, or other survival resourc
 - Host homes program
 
 **National LGBTQ+ Homeless Youth Provider Listing:**
-- [truecolorsunited.org/our-work/housing-assistance](https://truecolorsunited.org/our-work/housing-assistance/)
+- [truecolorsunited.org/our-work/housing-assistance](https://truecolorsunited.org/)
 
 ### Youth & Young Adults (Under 25)
 
@@ -153,7 +153,7 @@ This page is for when you need **food, housing, money, or other survival resourc
 **Sikh Gurdwaras:**
 - **Langar** (free community meal)
 - Open to everyone, no questions asked
-- Find: [gurudwaralocator.com](https://gurudwaralocator.com/)
+- Find: Search "gurdwara near me" or "Sikh temple [your city]"
 
 ### Free Food Apps
 

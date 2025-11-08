@@ -32,7 +32,7 @@ This document provides sources and resources for the liberatory pedagogy framewo
   - **Note:** Under copyright—check your library or purchase
 
 ### Resources
-- **The bell hooks Center:** [bellhookscenter.org](https://bellhookscenter.org/)
+- **The bell hooks Center:** [bellhookscenter.org](https://berea.edu/bhc/)
   - Preserving and extending her work
   - Educational resources and events
 
@@ -110,7 +110,7 @@ This document provides sources and resources for the liberatory pedagogy framewo
 
 ### Core Texts
 - **Mingus, M.** "Transformative Justice: A Brief Description" (2019).
-  - [Read at Transform Harm](https://transformharm.org/tj-principles/)
+  - [Read at Transform Harm](https://transformharm.org/tj_resource/transformative-justice-a-brief-description/)
   - Accountability as process, not event
   - Transforming conditions that created harm
 - **Piepzna-Samarasinha, L.L.** (2018). *Care Work: Dreaming Disability Justice*. Arsenal Pulp Press.

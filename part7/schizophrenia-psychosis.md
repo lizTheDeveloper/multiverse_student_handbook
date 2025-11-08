@@ -417,7 +417,7 @@ Witnessing someone in psychosis can be **deeply unsettling**.
 **Resources:**
 - **Mad in America:** [madinamerica.com](https://madinamerica.com) — Critical psychiatry perspectives
 - **The Icarus Project (now Fireweed Collective):** [fireweedcollective.org](https://fireweedcollective.org) — Peer support, mutual aid approach to extreme states
-- **Will Hall's Harm Reduction Guide to Coming Off Psychiatric Drugs:** [theicarusproject.net/resources](https://theicarusproject.net/resources)
+- **Will Hall's Harm Reduction Guide to Coming Off Psychiatric Drugs:** [fireweedcollective.org/crisis-toolkit/](https://fireweedcollective.org/crisis-toolkit/)
 - **Hearing Voices Network:** [hearing-voices.org](https://hearing-voices.org) — Peer support without requiring medical framework
 
 ### When Voluntary Support Isn't Enough

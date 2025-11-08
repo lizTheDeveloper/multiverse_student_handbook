@@ -224,7 +224,7 @@ This guide helps you find mental health support that works for you.
 - Spiritual abuse
 
 **Resources:**
-- **ICSA Therapist Directory:** [icsahome.com/professionals/findatherapist](https://www.icsahome.com/professionals/findatherapist)
+- **ICSA Therapist Directory:** [icsahome.com/support/counseling-resources](https://www.icsahome.com/support/counseling-resources)
 - See: [Cult Recovery Resources](../part1/cult-recovery-resources.md)
 
 ---

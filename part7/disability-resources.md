@@ -504,7 +504,7 @@ Most cities with public transit offer paratransit (door-to-door service for peop
 **State Assistive Technology Programs**
 - Each state has one
 - Loans, funding, training
-- [at3center.net/stateprogram](https://www.at3center.net/stateprogram/)
+- [at3center.net/stateprogram](https://www.at3center.net/state-at-programs/)
 
 **Freecycle, Buy Nothing groups**
 - Sometimes people give away medical equipment

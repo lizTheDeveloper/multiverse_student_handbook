@@ -45,13 +45,13 @@ The following 404 errors should be addressed:
 2. `icsahome.com/professionals/findatherapist` - Update ICSA therapist directory link
 3. `cnvc.org/training/resource/feelings-inventory` - Find new CNVC feelings list
 4. `cnvc.org/training/resource/needs-inventory` - Find new CNVC needs list
-5. `transformharm.org/tj-principles/` - Update transformative justice link
-6. `theicarusproject.net/resources` - Icarus Project resources
-7. `glma.org/provider-directory/` - Update LGBTQ+ provider directory
+5. `transformharm.org/tj_resource/transformative-justice-a-brief-description/` - Update transformative justice link
+6. `fireweedcollective.org/crisis-toolkit/` - Icarus Project resources
+7. `lgbtqhealthcaredirectory.org/` - Update LGBTQ+ provider directory
 8. `thetrevorproject.org` - Several Trevor Project resource pages
-9. `pflag.org/cominout` - PFLAG coming out resources
-10. `truecolorsunited.org/our-work/housing-assistance/` - Youth housing resources
-11. `at3center.net/stateprogram/` - Assistive technology centers
+9. `pflag.org/resource/be-yourself/` - PFLAG coming out resources
+10. `truecolorsunited.org/` - Youth housing resources
+11. `at3center.net/state-at-programs/` - Assistive technology centers
 
 ## Maintaining Links
 
