@@ -6,7 +6,7 @@ Nobody wants to think they're being manipulative, boundary-crossing, or overwhel
 
 This isn't about being a bad person. It's about recognizing patterns so you can work on them.
 
-**Remember:** Teachers are workers doing their jobs. Facilitators and TAs are volunteers giving their time. We're all just people trying our best, and we all mess up sometimes.
+**Context:** Teachers are workers doing their jobs. Facilitators and TAs are volunteers giving their time.
 
 ### Context: November 2025 - Crisis Changes the Calculus
 
@@ -241,7 +241,7 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 
 **If you notice yourself doing these patterns:**
 
-1. **Be kind to yourself** - You learned this somewhere, probably when you were vulnerable
+1. **Understand where it came from** - You learned this somewhere, probably when you were vulnerable
 2. **Take it seriously** - Understanding why doesn't mean it's okay to keep doing
 3. **Get support** (recognizing that resources are limited during crisis):
    - **Therapy** (if available/affordable) - [findhelp.org](https://findhelp.org) can help you find free or low-cost options

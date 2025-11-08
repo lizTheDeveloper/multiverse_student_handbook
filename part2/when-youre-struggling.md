@@ -1,10 +1,6 @@
 # When You're Struggling
 
-## It's Okay to Struggle
-
 Learning is hard. Life is hard. Sometimes everything feels like too much.
-
-**This is normal.** You're not failing. You're human.
 
 ---
 
@@ -95,7 +91,7 @@ You might be struggling if:
 
 ### What Facilitators and TAs Can Offer
 
-**Remember:** Facilitators and TAs are volunteers giving their time. They want to help AND they have limits.
+**Note:** Facilitators and TAs are volunteers with limits.
 
 **They can:**
 - Listen

@@ -116,7 +116,7 @@ Recovery isn't linear, but common phases include:
 - Meaning-making
 - Self-compassion
 
-**Timeline:** This takes years, not months. Be patient with yourself.
+**Timeline:** This takes years, not months.
 
 ---
 
