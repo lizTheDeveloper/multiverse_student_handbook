@@ -4,6 +4,21 @@
 
 ---
 
+## ⚠️ CRISIS CONTEXT (November 2025)
+
+**If you're LGBTQ+, a targeted minority, or in danger:**
+
+We're in the middle of a fascist takeover of the United States. The government is shutting down services. Lists are being made. People are disappearing.
+
+**GTFO Meeting - Fridays at 5pm**
+- Working on visas, emigration, getting out
+- We recommend LGBTQ+ folks and other targeted minorities leave the US
+- This is about survival, not learning to code
+
+**Your safety comes first. Learning can wait.**
+
+---
+
 ## Welcome
 
 Welcome to The Multiverse School! This handbook is for **you**—the learner, the builder, the seeker.
