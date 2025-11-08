@@ -15,6 +15,8 @@ We're in the middle of a fascist takeover of the United States. The government i
 - We recommend LGBTQ+ folks and other targeted minorities leave the US
 - This is about survival, not learning to code
 
+**📍 [Emigration Resources: How to Leave →](part7/emigration-resources.md)**
+
 **Your safety comes first. Learning can wait.**
 
 ---
@@ -78,6 +80,7 @@ Whether you're new to building communities, recovering from unhealthy learning e
 - [When You Might Be Doing These Things](part2/self-awareness.md)
 
 ### 📚 Resources Upon Resources
+- **[Emigration Resources: How to Leave](part7/emigration-resources.md)** - GTFO resources, visas, safety abroad
 - [Mental Health Crisis Lines](crisis_resource_appendix.md)
 - [Therapy & Support Options](part7/therapy-resources.md)
 - [Housing & Survival Resources](part7/survival-resources.md)
