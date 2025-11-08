@@ -150,10 +150,10 @@ This page is for when you need **food, housing, money, or other survival resourc
 - Many offer free community meals
 - Check local churches, mosques, temples, synagogues
 
-**Sikh Gurdwaras:**
+**Sikh Gurdwaras (worldwide):**
 - **Langar** (free community meal)
-- Open to everyone, no questions asked
-- Find: Search "gurdwara near me" or "Sikh temple [your city]"
+- Open to everyone, no questions asked, found globally
+- Ask locals or look for Sikh temples/gurdwaras in your area
 
 ### Free Food Apps
 

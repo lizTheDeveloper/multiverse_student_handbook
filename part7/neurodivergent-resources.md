@@ -215,8 +215,9 @@ This guide helps you find support that affirms how your brain works—not tries 
 ### Sensory Support
 
 **Stim toys:**
-- National Autism Resources - [nationalautismresources.com/fidgets](https://nationalautismresources.com/fidgets/)
-- Fidget and sensory tools for autism and ADHD
+- Look for fidget/sensory toys at general retailers (avoid autism-specific organizations)
+- DIY options: hair ties, fabric scraps, smooth stones, keychains
+- International: Check local disability advocacy orgs for recommendations
 
 **Noise-canceling headphones/earplugs:**
 - Loop earplugs
