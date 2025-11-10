@@ -10,6 +10,13 @@ This guide helps you find mental health support that works for you.
 
 ## Finding a Therapist
 
+### Start Here: FindHelp.org
+
+**[FindHelp.org](https://www.findhelp.org/)**
+- **Enter your zip code** to find local mental health services, therapists, support groups, and crisis resources
+- Free, comprehensive directory
+- **This is the fastest way to find what you need in your area**
+
 ### Free/Low-Cost Therapy Options
 
 **Open Path Collective**

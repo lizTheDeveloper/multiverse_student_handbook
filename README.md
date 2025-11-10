@@ -81,13 +81,23 @@ Whether you're new to building communities, recovering from unhealthy learning e
 - [When You Might Be Doing These Things](part2/self-awareness.md)
 
 ### 📚 Resources Upon Resources
+
+**🔍 [FindHelp.org](https://www.findhelp.org/) - One-stop resource finder**
+- Enter your zip code to find local resources for: food, housing, healthcare, financial assistance, childcare, transportation, job training, legal help, and more
+- **Start here when you need help with anything**
+
+**Crisis & Survival:**
 - **[Emigration Resources: How to Leave](part7/emigration-resources.md)** - GTFO resources, visas, safety abroad
 - [Mental Health Crisis Lines](crisis_resource_appendix.md)
-- [Therapy & Support Options](part7/therapy-resources.md)
 - [Housing & Survival Resources](part7/survival-resources.md)
+
+**Mental Health & Support:**
+- [Therapy & Support Options](part7/therapy-resources.md)
 - [Neurodivergent Support](part7/neurodivergent-resources.md)
 - [LGBTQ+ Support](part7/lgbtq-resources.md)
 - [Disability Resources](part7/disability-resources.md)
+
+**Learning:**
 - [Books, Articles, & Learning](part7/liberatory-resources.md)
 
 ---
@@ -205,6 +215,9 @@ These aren't punishments—they're natural consequences of how community works.
 ---
 
 ## What to Do If You're Struggling
+
+### If You Need Any Kind of Help
+**[FindHelp.org](https://www.findhelp.org/)** - Enter your zip code to find local resources for food, housing, healthcare, financial help, and more. **Start here.**
 
 ### If You're in Crisis
 1. **Call 988** (Suicide & Crisis Lifeline) or text HOME to 741741 (Crisis Text Line)

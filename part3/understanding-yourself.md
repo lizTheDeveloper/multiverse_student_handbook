@@ -419,6 +419,8 @@ Long-standing patterns of thinking, feeling, and behaving that differ from cultu
 
 ## When to Get Professional Help
 
+**First: [FindHelp.org](https://www.findhelp.org/)** - Enter your zip code to find local mental health services, therapists, support groups, and other resources. **This is the fastest way to find what you need.**
+
 **Seek professional support if:**
 - Your symptoms interfere with daily life
 - You're in significant distress
