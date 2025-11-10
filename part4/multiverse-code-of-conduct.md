@@ -1,25 +1,69 @@
 # The Multiverse School Code of Conduct
 
+## The Official Code of Conduct (Exact Wording)
+
+### What is Acceptable and Encouraged:
+- Be excellent to each other
+- Be kind and helpful
+- Learn cool stuff
+- Share your own knowledge
+- Build cool stuff and talk about it
+- Ask questions
+- Dig Deep
+
+### Unacceptable Behavior:
+- If a new rule must be added based on your actions, expulsion without refund occurs
+- No visible substance use on camera except caffeine; turn camera off if needed
+- Wear pants
+- No acting like a cop
+- No continuous flirting with community members
+- Turn off camera when leaving desk
+- Behave ethically; don't lie, cheat, steal, advocate violence, or harm
+- No removal for "premature transcendence" (repeated skill-building avoidance, refusing feedback, manipulative/dangerous leadership behavior)
+- No disparaging comments about race, gender, economic status, LGBTQIA status, or other inalienable characteristics
+- No gender griefing
+- Don't monologue or dominate group sessions
+- Don't deny others' art is art
+- Don't denigrate others' work without peer-reviewed expertise
+- Don't ragebait or create enemies in the space
+- Don't engage in coercive emotional regulation
+- Don't advocate genocide
+- Don't yell at anyone
+- Don't screenshot or exfiltrate data from the matrix server
+- Don't ask for hacking assistance
+- Don't ask to harm others using the instructor's connections
+- Don't talk over the instructor
+
+### Weirdness (After Hours Only - 10pm Pacific):
+The following are restricted to opt-in spaces after 10pm Pacific:
+- Fursonas and fursuits
+- Fetish-adjacent content
+- Discussion of recreational drugs
+- Sales pitches for projects
+- Nudity (in designated spaces)
+- Obvious flirting (in designated spaces)
+
+### Always Acceptable:
+- Body doubling
+- Sharing content
+- Off-topic chat (in designated channels)
+- Naming feelings
+- Creating boundaries
+- Expressing needs
+- Promoting your work
+- Staying quiet about issues that don't affect you
+
+---
+
 ## Purpose
 
 This is The Multiverse School's actual Code of Conduct that students agree to upon enrollment. It balances creating a safe, inclusive learning environment with allowing for authenticity and neurodivergent communication styles.
 
 ---
 
-## Acceptable Behavior
+## Detailed Explanations
 
-The school encourages and celebrates:
-- **Being excellent to each other**
-- Kindness and compassion
-- Learning and knowledge sharing
-- Building and discussing projects
-- Asking questions (no question is stupid)
-- Deep engagement with material
-- Supporting each other's growth
-
----
-
-## Core Community Rules
+### Core Community Rules
 
 ### Substance Use & Professionalism
 - **No visible substance use on camera** except caffeine
