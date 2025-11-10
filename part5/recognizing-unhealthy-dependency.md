@@ -247,7 +247,7 @@ People with trauma histories often:
 **Facilitators maintain boundaries to:**
 - Prevent unhealthy dependency from forming
 - Stay sustainable and avoid burnout
-- Model what healthy professional relationships look like
+- Show what healthy relationships with boundaries look like
 - Ensure they can serve all students, not just one
 - Avoid ethical violations
 - Protect both themselves and students

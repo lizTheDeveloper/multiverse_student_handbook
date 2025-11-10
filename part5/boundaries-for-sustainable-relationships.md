@@ -82,8 +82,8 @@ Without clear boundaries, communities experience:
 - Being kind and personable in interactions
 
 **Crossing boundaries:**
-- Expecting facilitators to be your personal friend/therapist
-- Demanding constant availability from peers
+- Expecting facilitators to be available 24/7 or act as your therapist
+- Demanding constant availability from anyone
 - Creating "favorites" or inner circles that exclude others
 - Expecting one person to meet all your needs
 

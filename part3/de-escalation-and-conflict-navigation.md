@@ -256,9 +256,9 @@ All scripts are:
 ### Script: Redirect Intensity (Anyone Can Use)
 
 **If someone is being intense with you:**
-> "I appreciate that you value [this space/our connection]. I want to be clear that my role here is [peer/facilitator/co-learner], not [therapist/savior/best friend]."
+> "I appreciate that you value [this space/our connection]. I have limits on how available I can be. I can't be [your therapist/your only support/available 24/7]."
 >
-> "If you're looking for deep connection or emotional support, I encourage you to build relationships with multiple people or seek community support outside of class. Here are some peer support resources: [links]."
+> "I encourage you to build relationships with multiple people. Here are some peer support resources: [links]."
 
 **For excessive praise:**
 > "Thank you—a simple 'thanks' is enough. You don't need to perform gratitude here."

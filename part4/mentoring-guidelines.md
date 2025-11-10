@@ -4,7 +4,7 @@
 
 This document outlines the rules and expectations for mentors at The Multiverse School. If you're considering mentorship (either as mentor or mentee), these guidelines help you understand what's appropriate and what protects everyone.
 
-**Core principle:** Mentorship is a professional relationship with clear boundaries, not a personal friendship or therapeutic relationship.
+**Core principle:** Mentorship has clear boundaries. It's not therapy, and mentors can't be your everything.
 
 **Why you should know this:** Whether you're seeking mentorship or thinking about becoming a mentor someday, understanding these rules helps you recognize healthy vs. unhealthy mentorship relationships.
 
