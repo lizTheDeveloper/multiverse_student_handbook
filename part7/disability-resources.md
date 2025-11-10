@@ -8,6 +8,18 @@ This guide connects you to disability-specific resources, rights, and support.
 
 ---
 
+## Start Here: Finding Local Support
+
+**🔍 findhelp.org**
+- Search by ZIP code for disability services near you
+- Free resource locator
+- Includes: accessibility services, benefits assistance, housing, healthcare, equipment
+- Available nationwide
+
+**This is the fastest way to find local disability resources.**
+
+---
+
 ## Know Your Rights
 
 ### Americans with Disabilities Act (ADA)
