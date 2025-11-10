@@ -385,6 +385,11 @@ You may qualify for:
 
 ### Finding Accessible Housing
 
+**findhelp.org**
+- Search by ZIP code for accessible housing programs
+- Find housing assistance, emergency housing, accessible units
+- Start here first
+
 **HUD Resource Locator:**
 - [resources.hud.gov](https://resources.hud.gov/)
 
@@ -497,6 +502,10 @@ Most cities with public transit offer paratransit (door-to-door service for peop
 ---
 
 ## Financial Assistance
+
+**Start with findhelp.org:**
+- Search by ZIP code for local financial assistance programs
+- Find disability benefits help, medical bill assistance, equipment programs
 
 ### Medical Expenses
 
