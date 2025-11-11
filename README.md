@@ -79,37 +79,51 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 
 ---
 
-## Support & Resources
+## Having Trouble?
 
-### 🚨 Crisis Support
-- **988** - Suicide & Crisis Lifeline
-- **741741** - Crisis Text Line (text HOME)
+### Struggling with Learning
+- [When You're Struggling](part2/when-youre-struggling.md) - Overwhelmed, falling behind, can't focus
+- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md) - How to ask, what's reasonable
+- [Setting Boundaries](part2/student-boundaries.md) - Protecting your capacity
+
+### Mental Health & General Support
 - **[FindHelp.org](https://www.findhelp.org/)** - Find local resources for food, housing, healthcare, etc.
-- [Full Crisis Resources](crisis_resource_appendix.md)
-
-### 🧠 Mental Health & Boundaries
-- [When You're Struggling](part2/when-youre-struggling.md)
-- [Setting Boundaries](part2/student-boundaries.md)
-- [Therapy Resources](part7/therapy-resources.md)
-- [Mental Health Support](part3/mental-health-support.md)
-
-### 📚 General Resources
-- [Neurodivergent Resources](part7/neurodivergent-resources.md)
+- [Therapy Resources](part7/therapy-resources.md) - Finding affordable therapy
+- [Mental Health Support](part3/mental-health-support.md) - Understanding your patterns
+- [Neurodivergent Resources](part7/neurodivergent-resources.md) - ADHD, autism support
 - [LGBTQ+ Resources](part7/lgbtq-resources.md)
 - [Disability Resources](part7/disability-resources.md)
+
+### Serious Crisis
+- **988** - Suicide & Crisis Lifeline (call or text)
+- **741741** - Crisis Text Line (text HOME)
+- [Full Crisis Resources](crisis_resource_appendix.md)
+- [When You're in Crisis](part3/when-youre-in-crisis.md)
 - [Housing & Survival Resources](part7/survival-resources.md)
 
-### ⚠️ November 2025 Crisis Context
+### November 2025 Context: If You're in Danger
 
-**If you're LGBTQ+, a targeted minority, or in danger:**
+**If you're LGBTQ+, a targeted minority, or need to flee:**
 
 We're in the middle of a fascist takeover of the United States. Government services are shutting down. People are fleeing.
 
-**GTFO Meeting - Fridays 5pm (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Working on visas, emigration, getting out
+- **GTFO Meeting - Fridays 5pm (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Visas, emigration, getting out
+- **[Emigration Resources: How to Leave](part7/emigration-resources.md)**
 
-**[Emigration Resources: How to Leave](part7/emigration-resources.md)**
+**Your safety comes first.** We're online - you can take classes from anywhere in the world.
 
-**Your safety comes first.** We're online - you can take classes from anywhere in the world. Leave if you need to.
+---
+
+## Connecting with Community Healthily
+
+**How to participate sustainably:**
+- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md) - Mutual aid in practice
+- [Setting Boundaries](part2/student-boundaries.md) - Yours and others'
+- [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md) - How this works
+- [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md) - When things get tense
+- [Self-Awareness](part2/self-awareness.md) - Checking your own patterns
+
+**Key principle:** We help each other sustainably. You can ask for help. People can say yes or no. Both boundaries and care matter.
 
 ---
 
@@ -133,6 +147,8 @@ We teach you to recognize manipulation, unhealthy communities, and cult dynamics
 - [Healthy vs. Unhealthy Communities](part1/healthy-vs-unhealthy-communities.md)
 - [Understanding Manipulation](part1/understanding-manipulation.md)
 - [Recognizing Unhealthy Dependency](part2/recognizing-dependency.md)
+- [Recognizing Love-Bombing](part2/recognizing-love-bombing.md)
+- [Recognizing Cult Leaders](part2/recognizing-cult-leaders.md)
 - [Cult Recovery Resources](part1/cult-recovery-resources.md)
 
 ---
@@ -154,9 +170,14 @@ We teach you to recognize manipulation, unhealthy communities, and cult dynamics
 - [Setting Boundaries](part2/student-boundaries.md)
 - [When You're Struggling](part2/when-youre-struggling.md)
 - [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md)
+- [Self-Awareness](part2/self-awareness.md)
+
+### Recognizing Unhealthy Patterns
 - [Healthy vs. Unhealthy Communities](part1/healthy-vs-unhealthy-communities.md)
 - [Understanding Manipulation](part1/understanding-manipulation.md)
-- [Self-Awareness](part2/self-awareness.md)
+- [Recognizing Unhealthy Dependency](part2/recognizing-dependency.md)
+- [Recognizing Love-Bombing](part2/recognizing-love-bombing.md)
+- [Recognizing Cult Leaders](part2/recognizing-cult-leaders.md)
 
 ### Crisis & Mental Health
 - [Crisis Resources](crisis_resource_appendix.md)
