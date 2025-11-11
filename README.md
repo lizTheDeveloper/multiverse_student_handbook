@@ -29,10 +29,13 @@
 - You **contribute to the collective investigation** - everyone's discoveries help everyone learn
 
 **We use flipped classroom:**
-- Learn the basics on your own time (interactive tutorials, videos, reading)
+- Watch videos, lectures, and other passive learning on your own time at your own pace
+- The curriculum has videos on most pages - watch them before class
+- Come to class ready to do the exercises from the videos and ask questions
+- Try to start the exercises before class if you can
 - Class time is for tech demos, working on stuff together, getting unstuck, and asking questions
 - We do tech demos (these can take a while, but they're hands-on and interactive)
-- You always have time in class to work on your own projects
+- You always have time in class to work on your projects
 
 **We don't do:**
 - Traditional lectures where you sit and take notes
