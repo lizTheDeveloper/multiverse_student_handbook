@@ -12,7 +12,7 @@
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
 4. **Come to "Learn to Code" stand-up** - 9am daily, where we start projects together and get questions answered
-5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum
+5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum. (Already a professional? You can jump right to job search)
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
