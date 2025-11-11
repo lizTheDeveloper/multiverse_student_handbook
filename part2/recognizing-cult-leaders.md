@@ -238,14 +238,17 @@ Cults use four types of control:
 - "Us vs. them" from the start
 - Uses shared grievance to build loyalty
 - Any criticism = you're part of the problem
-- Weaponizes marginalization
+- Frames all criticism as oppression
 
 **Example behaviors:**
 - "We're the only ones who see the truth"
 - "If you're not with us, you're against us"
-- Conspiracy thinking
+- "Questioning me is betraying the cause/community"
+- Uses language of justice to silence dissent
 - Former members "sold out" or "were never really committed"
 - Demands sacrifice "for the cause"
+
+**Note:** Fighting actual oppression is necessary. Using the language of oppression to avoid accountability for harmful leadership is manipulation.
 
 ---
 

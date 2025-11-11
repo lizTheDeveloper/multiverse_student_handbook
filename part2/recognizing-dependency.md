@@ -214,12 +214,14 @@ Your boundaries protect both of you - and let you help sustainably.
 - Not taking responsibility for their learning
 - Constant crisis, never building stability
 - Demanding accommodation beyond what's reasonable
-- Weaponizing marginalization to avoid accountability
+- Claiming any boundary or accountability is discrimination
 
 **Why it's a problem:**
 - Community has limits
 - Not everyone can carry everyone
 - Mutual aid requires participation, not just taking
+
+**Note:** Marginalization is real AND accountability is still real. Both can be true. Calling out actual discrimination is necessary. Using discrimination language to avoid all consequences for harmful behavior is manipulative.
 
 **What communities can do:**
 - Clear boundaries about what support is offered
