@@ -382,15 +382,17 @@ You might be struggling if:
 
 ## Remember
 
-**Struggling doesn't make you a bad student.**
+**Struggling doesn't make you a bad student.** AND struggling doesn't give you a pass to harm others.
 
-**Everyone struggles sometimes.**
+**Everyone struggles sometimes.** AND everyone is accountable for respecting boundaries.
 
-**You're allowed to need help.**
+**You're allowed to need help.** AND people are allowed to have limits.
 
-**You're allowed to take breaks.**
+**You're allowed to take breaks.** AND you're responsible for communicating them.
 
-**You belong here even when it's hard.**
+**You belong here even when it's hard.** AND you're accountable for how you treat people.
+
+**Both can be true at the same time.**
 
 ---
 

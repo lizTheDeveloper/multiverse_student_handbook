@@ -14,17 +14,37 @@ You can participate in community AND protect your wellbeing.
 - Limits that protect your time, energy, and wellbeing
 - Communication about what works and doesn't work for you
 - Self-care, not rejection
+- About YOUR behavior, not controlling others
 
 **Boundaries aren't:**
 - Controlling others
 - Punishment
 - Walls that keep everyone out
+- Demands disguised as "boundaries"
 
 **Example boundaries:**
 - "I can't respond to DMs after 9pm"
 - "I need to step back from chat for a while"
 - "I can't help with that right now"
 - "Please don't share my personal information"
+
+---
+
+### Boundaries vs. Demands
+
+**A boundary is about what YOU will do:**
+- "I only respond to messages during business hours" ✓
+- "I need you to stop using that nickname for me" ✓
+- "I can't talk about this topic" ✓
+
+**A demand tries to control what OTHERS must do:**
+- "You must respond to my messages immediately because I need it" ✗
+- "Your boundary is you have to answer my calls 24/7" ✗
+- "You can't set a boundary with me because I'm in crisis" ✗
+
+**The difference:** Boundaries are limits YOU set about YOUR participation. Demands are trying to control someone else's behavior and calling it a "boundary."
+
+**When someone sets a boundary with you, your "boundary" back cannot be forcing them to remove their boundary.** That's just violating their boundary with extra steps.
 
 ---
 

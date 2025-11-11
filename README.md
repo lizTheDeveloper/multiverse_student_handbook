@@ -112,7 +112,19 @@ Learning isn't about memorizing what someone tells you. It's about investigating
 ### 2. Mutual Aid, Not Charity
 We help each other because we're interconnected, not because some people are "helpers" and others are "helpless."
 
-**What this means for you:** You give what you can. You receive what you need. Sometimes you give more. Sometimes you receive more. The circle flows.
+**Mutual aid means:**
+- People offer what they can, not what you demand
+- You can ask, not require
+- Both parties consent to the exchange
+- Needs are met through community (multiple people), not one person
+
+**What this looks like:**
+- "Can anyone help me move?" → people volunteer if they can ✓
+- "You MUST help me move, I need it!" → demand ✗
+- "Can anyone host me for a week while I find housing?" → asking ✓
+- "You have a spare room so you OWE me housing" → entitlement ✗
+
+**Your need doesn't override someone's "no."** Mutual aid requires consent from both sides. You give what you can. You receive what others can offer. The circle flows - but everyone gets to choose their participation.
 
 ### 3. Boundaries Are Acts of Love
 When someone sets a boundary with you, they're protecting the relationship and the community—not rejecting you.
@@ -127,7 +139,26 @@ No one here is your rescuer. No one here is enlightened. We're all just people t
 ### 5. Horizontal Relationships, Not Hierarchy
 Facilitators have experience and expertise in specific areas. You have lived experience and questions. Both matter. We learn from each other.
 
-**What this means for you:** You're not "just a student." You're a co-learner. Your questions matter. Your experiments matter. What you build matters.
+**What "horizontal relationships" means:**
+- Everyone's humanity is equal
+- Power differences are transparent, not hidden
+- Students can question, give feedback, set boundaries with facilitators
+- Learning flows in multiple directions
+- No one is inherently "better" than anyone else
+
+**What it does NOT mean:**
+- Facilitators can't enforce community agreements
+- No one has authority to remove harmful people
+- Everyone gets to do whatever they want
+- There are no consequences for violating agreements
+
+**Facilitators have specific authority to:**
+- Enforce Code of Conduct
+- Remove people who repeatedly harm the community
+- Set boundaries on their own time/availability
+- Make final decisions about community safety
+
+**Being transparent about power:** Facilitators have removal authority. That's part of maintaining safe community. "Horizontal" doesn't mean "no structure" - it means "honest about structure."
 
 ---
 

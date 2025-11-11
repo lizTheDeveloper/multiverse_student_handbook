@@ -247,6 +247,39 @@ This guide helps you understand manipulation tactics so you can recognize and re
 - Impact matters more than intent
 - Hold boundaries anyway
 
+### 11. Weaponized Therapy Speak (Projection)
+
+**What it is:**
+- Using mental health/social justice language to avoid accountability
+- Accusing others of the exact manipulation tactics they're using
+- Projecting their behavior onto you
+
+**Looks like:**
+- "YOU'RE gaslighting ME!" (when you set a boundary)
+- "That's DARVO!" (when confronted with their behavior)
+- "You're being toxic/manipulative!" (when you hold them accountable)
+- "This is ableist!" (when accommodations don't mean no consequences)
+- "You're violating horizontal relationships!" (when facilitators enforce rules)
+
+**Effect:**
+- You're on the defensive
+- The focus shifts from their behavior to yours
+- You doubt yourself
+- Original issue gets lost
+
+**Defense:**
+- Name it simply: "I'm setting a boundary. That's not gaslighting."
+- Don't get drawn into debating mental health terminology
+- Hold your boundary regardless of how they label it
+- Notice the pattern: genuine people respond to clarification, weaponizers double down
+- Document if it continues
+- Talk to a facilitator - weaponizing mental health language is itself manipulative
+
+**Real gaslighting:** Denying things that happened, making you question reality
+**Not gaslighting:** Setting a boundary you don't like
+
+**See:** [Common Misunderstandings](../part2/common-misunderstandings.md) for how to recognize weaponization
+
 ---
 
 ## Coercive Control

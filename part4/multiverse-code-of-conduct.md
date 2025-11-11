@@ -118,6 +118,18 @@ This is The Multiverse School's actual Code of Conduct that students agree to up
   - You can share what was discussed
   - You cannot share who said it without permission
 
+  **Exception: Safety & Code of Conduct violations**
+
+  If someone:
+  - Threatens self-harm or violence
+  - Expresses intent to harm others
+  - Is violating Code of Conduct
+  - Is creating an unsafe situation
+
+  **You can (and should) report to a facilitator, including identifying who.**
+
+  Safety > privacy. Chatham House protects ideas and vulnerable sharing, not harmful behavior.
+
 - **Don't request help with:**
   - Hacking others without consent
   - Causing harm to people
@@ -206,6 +218,28 @@ Many students have experienced:
 - Stimming, echolalia, and neurodivergent traits are welcome
 - You don't have to perform neurotypicality
 - Authenticity is encouraged within safety boundaries
+
+### Neurodivergent-Affirming AND Accountable
+
+**Neurodivergent-affirming means:**
+- We respect different brain wiring
+- Direct communication is valued
+- You don't have to mask harmless traits (stimming, echolalia, etc.)
+- We offer accommodations when possible
+
+**It does NOT mean:**
+- Your diagnosis excuses harmful behavior
+- Accommodations = exemption from all rules
+- You can violate boundaries because "that's just how I am"
+- Other people must tolerate harm because you're neurodivergent
+
+**Example:**
+- ADHD makes waiting hard → Accommodation: We'll call on you first when we pause ✓
+- ADHD makes waiting hard → Excuse to interrupt everyone constantly ✗
+
+**We accommodate neurodivergence. We don't excuse harm.**
+
+**Being neurodivergent doesn't make you a bad person. AND you're still responsible for the impact of your behavior.**
 
 ### Protecting Marginalized Students
 Many students are multiply marginalized:

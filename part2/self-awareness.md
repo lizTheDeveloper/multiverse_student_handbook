@@ -24,6 +24,20 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 
 ---
 
+**What doesn't change during crisis:**
+- Respecting people's stated limits
+- Using crisis resources (988, etc.) for actual crisis support
+- Not threatening self-harm to prevent boundaries
+- Recognizing facilitators/peers can't be your crisis team
+
+**Crisis mutual aid looks like:**
+- "Can anyone host me for 2 weeks while I sort my visa?" (asking, specific, temporary) ✓
+- "You MUST let me stay as long as I want or you're abandoning me" (demanding, indefinite, manipulative) ✗
+
+**Crisis IS NOT a free pass to violate boundaries.** Desperation is real. People's limits are also real. Both can be true.
+
+---
+
 ## Why Self-Awareness Matters
 
 ### Everyone Has Patterns
