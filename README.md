@@ -8,8 +8,8 @@
 
 **Ready to learn? Here's what to do:**
 
-1. **Sign up on your dashboard** - Add your contact info & social media so Liz can follow you
-2. **Introduce yourself in Matrix** (our chat platform) - Just say hi and what you want to build
+1. **[Sign up on your dashboard](https://multiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
+2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Free, self-paced, designed for unconventional learners
 4. **Come to "Learn to Code" stand-up** - 9am daily, your office hours for questions
 5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum
