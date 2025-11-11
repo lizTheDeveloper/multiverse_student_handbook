@@ -20,7 +20,7 @@
 
 ## How Learning Works Here
 
-**No grades. No lectures. No bullshit.**
+**No grades. No bullshit. Learning by doing.**
 
 - You **build things** and share what you discover
 - You **ask questions** and help others figure stuff out
@@ -28,13 +28,19 @@
 - You **learn at your own pace** - 6 weeks minimum, but take the time you need
 - You **contribute to the collective investigation** - everyone's discoveries help everyone learn
 
+**We use flipped classroom:**
+- Learn the basics on your own time (interactive tutorials, videos, reading)
+- Class time is for tech demos, working on stuff together, getting unstuck, and asking questions
+- We do tech demos (these can take a while, but they're hands-on and interactive)
+- You always have time in class to work on your own projects
+
 **We don't do:**
-- Assignments (there are exercises, but you choose what to explore)
+- Traditional lectures where you sit and take notes
+- Assignments with deadlines (there are exercises, but you choose what to explore)
 - Grades or performance tracking
-- Lecturing at you
 - Punishment for "not getting it"
 
-**You learn by doing, building, and sharing. That's it.**
+**You learn by doing, building, and sharing. Class time is for support and demos, not lectures.**
 
 **Read more:** [Building & Sharing: How We Learn](part1/building-and-sharing.md)
 
