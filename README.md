@@ -10,8 +10,8 @@
 
 1. **[Sign up on your dashboard](https://multiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
-3. **Start the [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Free, self-paced, designed for unconventional learners
-4. **Come to "Learn to Code" stand-up** - 9am daily, your office hours for questions
+3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
+4. **Come to "Learn to Code" stand-up** - 9am daily, where we start projects together and get questions answered
 5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
@@ -22,18 +22,22 @@
 
 **No grades. No bullshit. Learning by doing.**
 
-- You **build things** and share what you discover
-- You **ask questions** and help others figure stuff out
-- You **experiment** - broken code teaches you just as much as working code
-- You **learn at your own pace** - 6 weeks minimum, but take the time you need
-- You **contribute to the collective investigation** - everyone's discoveries help everyone learn
+**Becoming an engineer means doing lots of little projects.** You decide you want to build something, then sit down and chip away at it. That's it.
+
+**Here's how it works:**
+- **Start projects in class** - We give you several projects to get started with together
+- **Use [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) to rapidly prototype** - The tutors help you understand what you're building as you build it
+- **There are scaffolding exercises** for any tools or code you need to learn - the [AI tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) walk you through them
+- **Come to class to motivate each other, connect as humans, and get questions answered** - That's what class time is for
+- **Share what you discover** - Everyone's experiments help everyone learn
 
 **We use flipped classroom:**
 - Watch videos, lectures, and other passive learning on your own time at your own pace
 - The curriculum has videos on most pages - watch them before class
 - Come to class ready to do the exercises from the videos and ask questions
 - Try to start the exercises before class if you can
-- Class time is for tech demos, working on stuff together, getting unstuck, and asking questions
+- Use [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) to help you understand the code as you work through exercises
+- Class time is for tech demos, working together, getting unstuck, and human connection
 - We do tech demos (these can take a while, but they're hands-on and interactive)
 - You always have time in class to work on your projects
 
@@ -43,7 +47,7 @@
 - Grades or performance tracking
 - Punishment for "not getting it"
 
-**You learn by doing, building, and sharing. Class time is for support and demos, not lectures.**
+**You learn by building lots of little projects with AI tutor support. Class is for starting together, staying motivated, and connecting as humans.**
 
 **Read more:** [Building & Sharing: How We Learn](part1/building-and-sharing.md)
 
@@ -51,10 +55,12 @@
 
 ## Learning Resources
 
-- **[Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Start here, free, self-paced
+- **[Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Start here! AI tutors help you understand code as you build. Free, self-paced, available 24/7
 - **[themultiverse.school](https://themultiverse.school)** - Sign up for classes, memberships, specialized topics
-- **Daily stand-up (9am)** - Your office hours for getting unstuck
+- **Daily stand-up (9am)** - Your office hours for getting unstuck and starting projects together
 - **Matrix chat** - Ask questions, share what you're building, help others
+
+**The [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) are your main learning tool.** Use them to work through exercises, prototype projects, and build the skills you need.
 
 ---
 
