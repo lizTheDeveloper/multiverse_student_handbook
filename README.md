@@ -1,183 +1,187 @@
 # The Multiverse School: Student Handbook
 
-**Your Guide to Building, Learning, and Thriving in Community**
+**Learn to code. Build cool stuff. Do it together.**
 
 ---
 
-## ⚠️ CRISIS CONTEXT (November 2025)
+## Quick Start: New Student
 
-**If you're LGBTQ+, a targeted minority, or in danger:**
-
-We're in the middle of a fascist takeover of the United States. The government is shutting down services. Lists are being made. People are disappearing.
-
-**GTFO Meeting - Fridays at 5pm (FREE)**
-- **Sign up:** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool)
-- Working on visas, emigration, getting out
-- We recommend LGBTQ+ folks and other targeted minorities leave the US
-- This is about survival, not learning to code
-
-**📍 [Emigration Resources: How to Leave →](part7/emigration-resources.md)**
-
-**Your safety comes first. Learning can wait. We're online - you can take classes from anywhere in the world. Leave if you need to.**
-
----
-
-## Welcome
-
-This handbook is for **you**—the learner, the builder, the seeker.
-
-Whether you're new to building communities, recovering from unhealthy learning environments, or just trying to figure out how to participate in a space like this, this handbook is here to support you.
-
-**What makes this different:**
-- No grades, no compliance requirements, no performance metrics
-- You get to decide how you participate
-- This space is rooted in **liberatory pedagogy**—education as the practice of freedom
-- We're transparent about power, boundaries, and community agreements
-
----
-
-## Quick Start
-
-### 🎯 New Student? Do This First:
+**Ready to learn? Here's what to do:**
 
 1. **Sign up on your dashboard** - Add your contact info & social media so Liz can follow you
-2. **Introduce yourself in Matrix** (our chat platform) - Just say hi
-3. **Start the [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Free, self-paced
+2. **Introduce yourself in Matrix** (our chat platform) - Just say hi and what you want to build
+3. **Start the [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Free, self-paced, designed for unconventional learners
 4. **Come to "Learn to Code" stand-up** - 9am daily, your office hours for questions
-5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing curriculum
+5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
-### 🚨 In Crisis Right Now?
-
-- **988** - Suicide & Crisis Lifeline (call or text)
-- **741741** - Crisis Text Line (text HOME)
-- **[FindHelp.org](https://www.findhelp.org/)** - Find local resources (food, housing, healthcare, etc.)
-- **[Full Crisis Resources](crisis_resource_appendix.md)**
-
-### 🤔 Confused About Terms?
-
-**[Common Misunderstandings](part2/common-misunderstandings.md)** - Clear definitions of terms like "horizontal relationships," "mutual aid," "boundaries," etc.
-
 ---
 
-## In This Handbook
+## How Learning Works Here
 
-### 🌱 Understanding This Space
-- [How The Multiverse School Works](part1/how-multiverse-works.md)
-- [Liberatory Pedagogy: What It Means for You](LIBERATORY_FRAMEWORK.md)
-- [Code of Conduct](part4/multiverse-code-of-conduct.md)
-- [Common Misunderstandings](part2/common-misunderstandings.md) - Term clarifications
+**No grades. No lectures. No bullshit.**
 
-### 🛠️ Participating in Community
-- [Building & Sharing: How We Learn](part1/building-and-sharing.md)
-- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md)
-- [When You're Struggling](part2/when-youre-struggling.md)
-- [Setting Boundaries](part2/student-boundaries.md)
-- [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)
+- You **build things** and share what you discover
+- You **ask questions** and help others figure stuff out
+- You **experiment** - broken code teaches you just as much as working code
+- You **learn at your own pace** - 6 weeks minimum, but take the time you need
+- You **contribute to the collective investigation** - everyone's discoveries help everyone learn
 
-### 🚨 Recognizing Unhealthy Patterns
-- [Healthy vs. Unhealthy Communities](part1/healthy-vs-unhealthy-communities.md)
-- [Red Flags in Leaders](part1/community-red-flags.md)
-- [Understanding Manipulation](part1/understanding-manipulation.md)
-- [When Someone Is Love-Bombing You](part2/recognizing-love-bombing.md)
-- [When Someone Expects You to Save Them](part2/recognizing-dependency.md)
-- [When Someone Is Building a Cult](part2/recognizing-cult-leaders.md)
-- [Self-Awareness: When You Might Be Doing These Things](part2/self-awareness.md)
+**We don't do:**
+- Assignments (there are exercises, but you choose what to explore)
+- Grades or performance tracking
+- Lecturing at you
+- Punishment for "not getting it"
 
-### 🧠 Mental Health & Crisis
-- [Crisis Resources](crisis_resource_appendix.md)
-- [When You're in Crisis](part3/when-youre-in-crisis.md)
-- [Understanding Your Mental Health Patterns](part3/understanding-yourself.md)
-- [Therapy & Mental Health Support](part3/mental-health-support.md)
-- [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md)
+**You learn by doing, building, and sharing. That's it.**
 
-### 📚 Survival & Support Resources
-- **[FindHelp.org](https://www.findhelp.org/)** - One-stop resource finder (food, housing, healthcare, etc.)
-- [Emigration Resources: How to Leave](part7/emigration-resources.md)
-- [Housing & Survival Resources](part7/survival-resources.md)
-- [Therapy Resources](part7/therapy-resources.md)
-- [Neurodivergent Resources](part7/neurodivergent-resources.md)
-- [LGBTQ+ Resources](part7/lgbtq-resources.md)
-- [Disability Resources](part7/disability-resources.md)
-- [Cult Recovery Resources](part1/cult-recovery-resources.md)
-- [Books & Learning](part7/liberatory-resources.md)
-
----
-
-## Core Principles
-
-### 1. Education Is the Practice of Freedom
-Learning happens through building, experimenting, and investigating together—not through lectures or grades.
-
-### 2. Mutual Aid, Not Charity
-We help each other because we're interconnected. You can ask for help. People can say yes or no. Both need to consent. **[Full explanation →](part2/common-misunderstandings.md#mutual-aid-doesnt-mean-you-owe-me-what-i-need)**
-
-### 3. Boundaries Are Acts of Love
-When someone sets a boundary, they're protecting the relationship—not rejecting you. You're allowed boundaries. Others are allowed boundaries. Both are necessary. **[Full explanation →](part2/student-boundaries.md)**
-
-### 4. No Saviors, No Gurus
-No one here is your rescuer or enlightened guru. We're all people building and learning together.
-
-### 5. Horizontal Relationships, Not Hierarchy
-Everyone's humanity is equal. Power differences are transparent. Facilitators have authority to enforce agreements and remove harmful people—that's part of maintaining safe community. **[Full explanation →](part2/common-misunderstandings.md#horizontal-relationships-doesnt-mean-no-authority)**
-
-**Read more:** [Liberatory Pedagogy Framework](LIBERATORY_FRAMEWORK.md)
-
----
-
-## Red Flags to Watch For
-
-### In Communities:
-- Leaders demand absolute loyalty or punish questioning
-- Isolation from friends/family outside the community
-- "Us vs. them" mentality
-- Expected to work for free indefinitely
-- Criticism forbidden
-- Love-bombing followed by withdrawal as control
-
-**[Full guide →](part1/healthy-vs-unhealthy-communities.md)**
-
-### In Individuals:
-- Positions themselves as your only source of support
-- "No one else understands you like I do"
-- Creates urgency/crisis to demand attention
-- Weaponizes struggles ("if you don't help me, I'll hurt myself")
-- Violates boundaries then claims discrimination
-
-**[Full guide →](part1/understanding-manipulation.md)**
-
----
-
-## What to Do If You're Struggling
-
-**Any kind of help needed?** Start here: **[FindHelp.org](https://www.findhelp.org/)** - Enter your zip code
-
-**In crisis?** Call **988** or text HOME to **741741** → [Full Crisis Resources](crisis_resource_appendix.md)
-
-**Overwhelmed?** Take a break. Reduce expectations. Get support outside Multiverse. → [When You're Struggling](part2/when-youre-struggling.md)
-
-**Someone hurting you?** Name it. Set boundary. Talk to facilitator if needed. Document. → [Setting Boundaries](part2/student-boundaries.md)
-
-**Think you've been in a cult?** You're not alone. → [Cult Recovery Resources](part1/cult-recovery-resources.md)
+**Read more:** [Building & Sharing: How We Learn](part1/building-and-sharing.md)
 
 ---
 
 ## Learning Resources
 
-- **Free Curriculum:** [Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)
-- **Sign up for classes:** [themultiverse.school](https://themultiverse.school)
-- **GTFO Meeting (emigration):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Fridays 5pm, FREE
+- **[Interactive Tutor Curriculum](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Start here, free, self-paced
+- **[themultiverse.school](https://themultiverse.school)** - Sign up for classes, memberships, specialized topics
+- **Daily stand-up (9am)** - Your office hours for getting unstuck
+- **Matrix chat** - Ask questions, share what you're building, help others
 
-**If you're in danger, prioritize safety.** We're online - take classes from anywhere in the world.
+---
+
+## What Makes This Different
+
+This is a **liberatory learning community** - education as the practice of freedom, not compliance.
+
+**What that means:**
+- **Horizontal relationships** - Facilitators have expertise, you have questions. Both matter. We learn from each other.
+- **Mutual aid** - We help each other because we're interconnected, not because some people are "helpers" and others are "helpless"
+- **No saviors or gurus** - No one here is enlightened. We're all figuring it out together.
+- **Transparent about power** - Facilitators can enforce agreements and remove harmful people. We're honest about that.
+- **Neurodivergent-affirming** - Direct communication, no masking required, accommodations offered
+
+**This works for:** Unconventional learners, neurodivergent people, folks recovering from traditional education trauma, anyone who learns better by building than by listening to lectures.
+
+**Read more:** [Liberatory Pedagogy Framework](LIBERATORY_FRAMEWORK.md)
+
+---
+
+## Community Agreements
+
+We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down to:
+- Be excellent to each other
+- Be kind and helpful
+- Learn cool stuff, share cool stuff, build cool stuff
+- Ask questions, dig deep
+- Don't be a dick (full details in the CoC)
+
+**Confused about terms?** [Common Misunderstandings](part2/common-misunderstandings.md) explains what we mean by "horizontal relationships," "mutual aid," "boundaries," etc.
+
+---
+
+## Support & Resources
+
+### 🚨 Crisis Support
+- **988** - Suicide & Crisis Lifeline
+- **741741** - Crisis Text Line (text HOME)
+- **[FindHelp.org](https://www.findhelp.org/)** - Find local resources for food, housing, healthcare, etc.
+- [Full Crisis Resources](crisis_resource_appendix.md)
+
+### 🧠 Mental Health & Boundaries
+- [When You're Struggling](part2/when-youre-struggling.md)
+- [Setting Boundaries](part2/student-boundaries.md)
+- [Therapy Resources](part7/therapy-resources.md)
+- [Mental Health Support](part3/mental-health-support.md)
+
+### 📚 General Resources
+- [Neurodivergent Resources](part7/neurodivergent-resources.md)
+- [LGBTQ+ Resources](part7/lgbtq-resources.md)
+- [Disability Resources](part7/disability-resources.md)
+- [Housing & Survival Resources](part7/survival-resources.md)
+
+### ⚠️ November 2025 Crisis Context
+
+**If you're LGBTQ+, a targeted minority, or in danger:**
+
+We're in the middle of a fascist takeover of the United States. Government services are shutting down. People are fleeing.
+
+**GTFO Meeting - Fridays 5pm (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Working on visas, emigration, getting out
+
+**[Emigration Resources: How to Leave](part7/emigration-resources.md)**
+
+**Your safety comes first.** We're online - you can take classes from anywhere in the world. Leave if you need to.
+
+---
+
+## Recognizing Unhealthy Patterns
+
+We teach you to recognize manipulation, unhealthy communities, and cult dynamics - because many of us have experienced them.
+
+**Red flags in communities:**
+- Leaders demand absolute loyalty or punish questioning
+- Isolation from outside friends/family
+- Love-bombing followed by withdrawal as control
+- Criticism of leaders is forbidden
+
+**Red flags in individuals:**
+- Positions themselves as your only source of support
+- Creates urgency/crisis to demand attention
+- Weaponizes struggles to manipulate you
+- Violates boundaries then claims discrimination
+
+**Full guides:**
+- [Healthy vs. Unhealthy Communities](part1/healthy-vs-unhealthy-communities.md)
+- [Understanding Manipulation](part1/understanding-manipulation.md)
+- [Recognizing Unhealthy Dependency](part2/recognizing-dependency.md)
+- [Cult Recovery Resources](part1/cult-recovery-resources.md)
+
+---
+
+## In This Handbook
+
+### Learning & Participation
+- [How Multiverse Works](part1/how-multiverse-works.md)
+- [Building & Sharing](part1/building-and-sharing.md)
+- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md)
+- [Code of Conduct](part4/multiverse-code-of-conduct.md)
+
+### Understanding This Space
+- [Liberatory Pedagogy Framework](LIBERATORY_FRAMEWORK.md)
+- [Common Misunderstandings](part2/common-misunderstandings.md)
+- [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)
+
+### Community Health & Safety
+- [Setting Boundaries](part2/student-boundaries.md)
+- [When You're Struggling](part2/when-youre-struggling.md)
+- [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md)
+- [Healthy vs. Unhealthy Communities](part1/healthy-vs-unhealthy-communities.md)
+- [Understanding Manipulation](part1/understanding-manipulation.md)
+- [Self-Awareness](part2/self-awareness.md)
+
+### Crisis & Mental Health
+- [Crisis Resources](crisis_resource_appendix.md)
+- [When You're in Crisis](part3/when-youre-in-crisis.md)
+- [Understanding Your Mental Health](part3/understanding-yourself.md)
+- [Therapy & Mental Health Support](part3/mental-health-support.md)
+
+### Resources
+- [Emigration Resources](part7/emigration-resources.md)
+- [Housing & Survival](part7/survival-resources.md)
+- [Therapy Resources](part7/therapy-resources.md)
+- [Neurodivergent Resources](part7/neurodivergent-resources.md)
+- [LGBTQ+ Resources](part7/lgbtq-resources.md)
+- [Disability Resources](part7/disability-resources.md)
+- [Cult Recovery Resources](part1/cult-recovery-resources.md)
 
 ---
 
 ## About The Multiverse School
 
-Founded by Liz Howard (they/them), The Multiverse School is an experimental adult education community for unconventional learners. We practice liberatory pedagogy, build through mutual aid, and dare to love deeply—which includes fierce boundaries when needed.
+Founded by Liz Howard (they/them). An experimental adult education community for unconventional learners.
 
-**Contact & Links:**
+We practice liberatory pedagogy, build through mutual aid, and dare to love deeply—which includes fierce boundaries when needed.
+
+**Links:**
 - **Classes:** [themultiverse.school](https://themultiverse.school)
 - **Liz's site:** [lizthe.dev](https://lizthe.dev)
 
