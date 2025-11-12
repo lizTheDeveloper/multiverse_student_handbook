@@ -64,7 +64,7 @@
 
 ---
 
-## What Makes This Different
+### What Makes This Different
 
 This is a **liberatory learning community** - education as the practice of freedom, not compliance.
 
@@ -81,7 +81,7 @@ This is a **liberatory learning community** - education as the practice of freed
 
 ---
 
-## Community Agreements
+### Community Agreements
 
 We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down to:
 - Be excellent to each other
@@ -94,77 +94,28 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 
 ---
 
-## Having Trouble?
+### Need Help?
 
-### Struggling with Learning
+**Struggling with learning?**
 - [When You're Struggling](part2/when-youre-struggling.md) - Overwhelmed, falling behind, can't focus
-- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md) - How to ask, what's reasonable
-- [Setting Boundaries](part2/student-boundaries.md) - Protecting your capacity
+- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md) - How to ask for help sustainably
+- [Setting Boundaries](part2/student-boundaries.md) - Yours and others'
 
-### Mental Health & General Support
-- **[FindHelp.org](https://www.findhelp.org/)** - Find local resources for food, housing, healthcare, etc.
+**Mental health & resources:**
+- **[FindHelp.org](https://www.findhelp.org/)** - Find local resources for food, housing, healthcare, mental health
 - [Therapy Resources](part7/therapy-resources.md) - Finding affordable therapy
-- [Mental Health Support](part3/mental-health-support.md) - Understanding your patterns
 - [Neurodivergent Resources](part7/neurodivergent-resources.md) - ADHD, autism support
-- [LGBTQ+ Resources](part7/lgbtq-resources.md)
-- [Disability Resources](part7/disability-resources.md)
+- [LGBTQ+ Resources](part7/lgbtq-resources.md) | [Disability Resources](part7/disability-resources.md)
 
-### Serious Crisis
-- **988** - Suicide & Crisis Lifeline (call or text)
-- **741741** - Crisis Text Line (text HOME)
-- [Full Crisis Resources](crisis_resource_appendix.md)
-- [When You're in Crisis](part3/when-youre-in-crisis.md)
+**In crisis?**
+- **988** - Suicide & Crisis Lifeline (call or text) | **741741** - Crisis Text Line (text HOME)
+- [When You're in Crisis](part3/when-youre-in-crisis.md) | [Full Crisis Resources](crisis_resource_appendix.md)
 - [Housing & Survival Resources](part7/survival-resources.md)
 
-### November 2025 Context: If You're in Danger
-
-**If you're LGBTQ+, a targeted minority, or need to flee:**
-
-We're in the middle of a fascist takeover of the United States. Government services are shutting down. People are fleeing.
-
+**November 2025: If you need to flee**
 - **GTFO Meeting - Fridays 5pm (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Visas, emigration, getting out
-- **[Emigration Resources: How to Leave](part7/emigration-resources.md)**
-
-**Your safety comes first.** We're online - you can take classes from anywhere in the world.
-
----
-
-## Connecting with Community Healthily
-
-**How to participate sustainably:**
-- [Asking for Help & Offering Help](part2/mutual-aid-in-action.md) - Mutual aid in practice
-- [Setting Boundaries](part2/student-boundaries.md) - Yours and others'
-- [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md) - How this works
-- [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md) - When things get tense
-- [Self-Awareness](part2/self-awareness.md) - Checking your own patterns
-
-**Key principle:** We help each other sustainably. You can ask for help. People can say yes or no. Both boundaries and care matter.
-
----
-
-## Recognizing Unhealthy Patterns
-
-We teach you to recognize manipulation, unhealthy communities, and cult dynamics - because many of us have experienced them.
-
-**Red flags in communities:**
-- Leaders demand absolute loyalty or punish questioning
-- Isolation from outside friends/family
-- Love-bombing followed by withdrawal as control
-- Criticism of leaders is forbidden
-
-**Red flags in individuals:**
-- Positions themselves as your only source of support
-- Creates urgency/crisis to demand attention
-- Weaponizes struggles to manipulate you
-- Violates boundaries then claims discrimination
-
-**Full guides:**
-- [Healthy vs. Unhealthy Communities](part1/healthy-vs-unhealthy-communities.md)
-- [Understanding Manipulation](part1/understanding-manipulation.md)
-- [Recognizing Unhealthy Dependency](part2/recognizing-dependency.md)
-- [Recognizing Love-Bombing](part2/recognizing-love-bombing.md)
-- [Recognizing Cult Leaders](part2/recognizing-cult-leaders.md)
-- [Cult Recovery Resources](part1/cult-recovery-resources.md)
+- [Emigration Resources: How to Leave](part7/emigration-resources.md)
+- We're online - you can take classes from anywhere in the world
 
 ---
 
