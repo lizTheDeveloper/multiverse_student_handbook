@@ -19,7 +19,7 @@
 - No continuous flirting with community members
 - Turn off camera when leaving desk
 - Behave ethically; don't lie, cheat, steal, advocate violence, or harm
-- No removal for "premature transcendence" (repeated skill-building avoidance, refusing feedback, manipulative/dangerous leadership behavior)
+- Removal for "premature transcendence" (repeated skill-building avoidance, refusing feedback, manipulative/dangerous leadership behavior)
 - No disparaging comments about race, gender, economic status, LGBTQIA status, or other inalienable characteristics
 - No gender griefing
 - Don't monologue or dominate group sessions
