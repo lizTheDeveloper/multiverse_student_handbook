@@ -29,7 +29,7 @@ This pattern can emerge when someone is:
 **Note:** We don't diagnose. We recognize when someone's current state is incompatible with safe community participation.
 
 ### How to Respond
-- Redirect to the **[90-Day Visionary Pause Policy](../90_day_visionary_pause_policy.md)**
+- Redirect to the **[The Grounded Visionary Path](../90_day_grounded_visionary_path.md)**
 - Acknowledge their passion while insisting on grounded preparation
 - Do not argue about the validity of their vision—focus on process and readiness
 - Monitor for recruitment behavior that involves vulnerable people
@@ -146,7 +146,7 @@ This pattern can emerge when someone:
 - Needs support grounding big ideas into actionable steps
 
 ### How to Respond
-- Immediately offer **[The Grounded Visionary Path](../90_day_visionary_pause_policy.md)** (90-day skill-building program)
+- Immediately offer **[The Grounded Visionary Path](../90_day_grounded_visionary_path.md)** (90-day skill-building program)
 - Frame as supportive preparation, not restriction: *"Your vision deserves a strong foundation. Here's how we support visionaries in building capacity."*
 - Clarify that recruiting community members or representing Multiverse requires going through this process
 - Monitor for willingness to engage in grounded preparation

@@ -16,7 +16,7 @@
 - ✅ **GETTING_STARTED.md** - Onboarding guide for teachers
 
 #### Your Original Files (Validated & Included)
-- ✅ **90_day_visionary_pause_policy.md** - Policy for aspiring founders
+- ✅ **90_day_grounded_visionary_path.md** - Policy for aspiring founders
 - ✅ **crisis_resource_appendix.md** - Crisis phone numbers and scripts
 - ✅ **mod_guide_premature_transcendence.md** - Handling cult risk
 - ✅ **mod_guide_unstable_students.md** - Managing dysregulated students
@@ -119,7 +119,7 @@ multiverse_admin_handbook/
 ├── book.json ✅
 │
 ├── [Your Original Files] ✅
-│   ├── 90_day_visionary_pause_policy.md
+│   ├── 90_day_grounded_visionary_path.md
 │   ├── crisis_resource_appendix.md
 │   ├── mod_guide_premature_transcendence.md
 │   ├── mod_guide_unstable_students.md

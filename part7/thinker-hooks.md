@@ -18,7 +18,7 @@ If you're burned out, depleted, or running on fumes, you can't create conditions
 
 **In practice:** Your boundaries, rest, therapy, spiritual practice, and self-care are not optional luxuries. They're essential infrastructure for sustainable teaching. When you set a boundary to protect your capacity, you're not being selfish—you're maintaining your ability to show up well.
 
-See: [Burnout Prevention](../part5/burnout-prevention.md), [Boundaries for Educators](../part5/teacher-boundaries.md)
+See: [Burnout Prevention](../part5/burnout-and-community-sustainability.md), [Boundaries for Educators](../part5/boundaries-for-sustainable-relationships.md)
 
 ---
 
@@ -280,6 +280,6 @@ hooks' later work became more spiritual and abstract. She focused less on concre
 
 **See also:**
 - [Paulo Freire: Education as Freedom](thinker-freire.md) — Banking vs problem-posing, dialogue
-- [Boundaries for Educators](../part5/teacher-boundaries.md) — Practical boundary-setting
-- [Burnout Prevention](../part5/burnout-prevention.md) — Tending your wholeness
+- [Boundaries for Educators](../part5/boundaries-for-sustainable-relationships.md) — Practical boundary-setting
+- [Burnout Prevention](../part5/burnout-and-community-sustainability.md) — Tending your wholeness
 - [Liberatory Practice: Applications](liberatory-practice.md) — Concrete scenarios

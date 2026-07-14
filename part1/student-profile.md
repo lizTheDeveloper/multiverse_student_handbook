@@ -62,7 +62,7 @@ These situations often indicate someone needs professional support alongside (or
 - Wants to teach, lead, or start projects immediately without skill-building first
 - Has expansive ideas but hasn't yet developed follow-through capacity
 - May resist feedback or structure as "limiting"
-- **What this signals:** Need for mentorship in grounded preparation, skill development, and building capacity before leading (see [90-Day Visionary Pause](../90_day_visionary_pause_policy.md))
+- **What this signals:** Need for mentorship in grounded preparation, skill development, and building capacity before leading (see [The Grounded Visionary Path](../90_day_grounded_visionary_path.md))
 
 ### Someone Processing Trauma Actively
 - Currently in active crisis or early recovery stages

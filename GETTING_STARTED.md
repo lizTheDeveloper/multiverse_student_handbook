@@ -2,7 +2,7 @@
 
 ## For Teachers & Moderators
 
-Welcome to The Multiverse School Teacher & Moderator Handbook. This guide will help you navigate the most important sections based on your role and needs.
+Welcome to The Multiverse School Handbook. This guide will help you navigate the most important sections based on your role and needs.
 
 ---
 
@@ -46,7 +46,7 @@ Welcome to The Multiverse School Teacher & Moderator Handbook. This guide will h
 2. [Premature Transcendence & Cult Risk](mod_guide_premature_transcendence.md)
 3. [Boundary Violations](part2/boundary-violations.md)
 4. [Documentation Best Practices](part3/documentation.md)
-5. [90-Day Visionary Pause Policy](90_day_visionary_pause_policy.md)
+5. [The Grounded Visionary Path](90_day_grounded_visionary_path.md)
 
 ### Administrators
 **Strategic Sections:**
@@ -71,7 +71,7 @@ Welcome to The Multiverse School Teacher & Moderator Handbook. This guide will h
 → **[Documentation Best Practices](part3/documentation.md)**
 
 ### "A student wants to start their own school"
-→ **[90-Day Visionary Pause Policy](90_day_visionary_pause_policy.md)**
+→ **[The Grounded Visionary Path](90_day_grounded_visionary_path.md)**
 → **[When Vision Becomes Delusion](part2/vision-vs-delusion.md)**
 → **[Case Study: Aspiring Guru](part6/case-aspiring-guru.md)**
 

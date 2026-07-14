@@ -183,7 +183,7 @@ These are ALWAYS okay, anytime, anywhere:
 ### Process
 1. **First conversation:** If you violate the Code of Conduct, the instructor will talk with you about what happened and what needs to change
 2. **Your response matters:** How you respond to feedback significantly influences consequences
-3. **Removal if necessary:** The instructor has sole discretion to remove students for violations
+3. **Removal if necessary:** The instructor consults co-facilitators and advisors, but holds final say on removing students for violations
 4. **No refunds for violations:** If removed for Code of Conduct violations, you will not receive a refund
 
 ### Philosophy

@@ -3,7 +3,7 @@
 **Verified by:** Claude (Sonnet 4.5)
 
 ## Summary
-I systematically verified all major research citations and claims made throughout The Multiverse School Teacher & Moderator Handbook. This report documents which citations are valid, which claims are supported, and identifies any issues.
+I systematically verified all major research citations and claims made throughout The Multiverse School Handbook. This report documents which citations are valid, which claims are supported, and identifies any issues.
 
 ---
 
