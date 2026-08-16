@@ -159,7 +159,7 @@ Stories are relational, told in community. They engage imagination and emotion, 
 
 Stories pass down cultural knowledge, explain relationships between beings, teach consequences without lecturing. They're not just information—they're transmission of wisdom.
 
-**In practice:** Case studies, scenarios, sharing stories of what worked and what didn't. Not "here's the rule" but "here's what happened when..." (See [Part VI: Case Studies](../part6/case-aspiring-guru.md))
+**In practice:** Case studies, scenarios, sharing stories of what worked and what didn't. Not "here's the rule" but "here's what happened when..."
 
 ---
 

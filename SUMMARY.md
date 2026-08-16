@@ -18,7 +18,7 @@
 ## Part III: Crisis Support & Community Navigation
 
 * [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md)
-* [Responding to Suicidal Students](part3/suicidal-students.md)
+* [When You're in Crisis](part3/when-youre-in-crisis.md)
 * [Crisis Resource Appendix](crisis_resource_appendix.md)
 
 ## Part IV: Programs & Policies
