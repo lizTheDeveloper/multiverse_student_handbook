@@ -11,7 +11,7 @@
 1. **[Sign up on your dashboard](https://themultiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
-4. **Come to "Learn to Code" stand-up** - 9am daily, where we start projects together and get questions answered
+4. **Come to a stand-up** - Monday–Thursday, 9am Pacific, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in. (The row shows Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so. See [Programs](https://themultiverse.school/programs) for what each stand-up is.)
 5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum. (Already a professional? You can jump right to job search)
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
