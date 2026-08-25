@@ -11,8 +11,12 @@
 1. **[Sign up on your dashboard](https://themultiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
-4. **Come to a stand-up** - Monday–Thursday, 9am Pacific, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in. (The row shows Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so. See [Programs](https://themultiverse.school/programs) for what each stand-up is.)
-5. **After 6+ weeks → switch to "Job Search" stand-up** - Only after completing the curriculum. (Already a professional? You can jump right to job search)
+4. **Come to a stand-up** - Monday–Thursday, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time in your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
+5. **Pick your stand-up — Founding Federation, Shipping Software, or both.** Full details on [Programs](https://themultiverse.school/programs).
+   - **[Founding Federation](https://themultiverse.school/programs/founding-federation)** — a three-week cycle for people building their own work. Everyone starts in the same room for Week 0, working out what you need to earn and scoping what could cover it. Then you commit to one of two branches for the fortnight: **Go To Market** if the work just needs to get known, or **Make and Do** if the thing still has to be built.
+   - **[Shipping Software](https://themultiverse.school/programs/learn-to-code)** — the paired build hour, formerly Learn to Code. Whatever the day's session asked you to make — the page, the tool, the fix — this is when you make it, with people around who can unstick you.
+
+   Then show up. That's it. Bring your laptop and your questions.
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
