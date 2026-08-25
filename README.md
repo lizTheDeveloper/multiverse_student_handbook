@@ -11,14 +11,24 @@
 1. **[Sign up on your dashboard](https://themultiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
-4. **Come to a stand-up** - Monday–Thursday, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time in your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
-5. **Pick your branch in [Founding Federation](https://themultiverse.school/programs/founding-federation)** - a three-week cycle for people building their own work. Everyone starts in the same room for **Week 0**, working out what you need to earn and scoping what could cover it. On Thursday of that week you commit to one of two branches, and they run side by side for the fortnight, Monday–Thursday at the same time:
+4. **Come to a stand-up** - Monday–Thursday, **9:00am Pacific**, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time converted to your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
+5. **Pick your branch in [Founding Federation](https://themultiverse.school/programs/founding-federation)** - a three-week cycle for people building their own work. Everyone starts in the same room for **Week 0**, working out what you need to earn and scoping what could cover it. On Thursday of that week you commit to one of two branches, and they run side by side for the fortnight — same days, same time, different rooms:
    - **Go To Market** — you have something, and the problem is that nobody knows about it. Pricing, positioning, outbound, and the money conversation.
    - **Make and Do** — the thing that would cover your costs doesn't exist yet, so the fortnight goes into building it. Scope it down, get an end-to-end version running, put it in a stranger's hands.
 
    Then show up. That's it. Bring your laptop and your questions.
 
-**Also on campus:** **Neurodivergent Strategies** meets Mondays and Thursdays, 11am Pacific.
+### The week at a glance
+
+All times **Pacific**. Everything below happens on campus — use the **"Join on Campus"** button on your [dashboard](https://themultiverse.school/dashboard) to get in.
+
+| When | What |
+|---|---|
+| **Mon–Thu, 9:00–10:30am** | **Founding Federation** — Week 0 is everyone together; Weeks 1–2 split into Go To Market and Make and Do, running side by side |
+| **Mon & Thu, 11:00am** | **Neurodivergent Strategies** |
+| **Fridays** | Off — we run a four-day week |
+
+Cohorts also pause between cycles. During a break week your dashboard says so instead of listing a stand-up, so an empty schedule means "no session today", not "something is broken".
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
