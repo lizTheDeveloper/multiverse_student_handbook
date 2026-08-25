@@ -11,7 +11,7 @@
 1. **[Sign up on your dashboard](https://themultiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
-4. **Come to a stand-up** - Monday–Thursday, **9:00am Pacific**, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time converted to your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
+4. **Come to a stand-up** - Monday–Thursday, **9:00am PST**, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time converted to your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
 5. **Pick your branch in [Founding Federation](https://themultiverse.school/programs/founding-federation)** - a three-week cycle for people building their own work. Everyone starts in the same room for **Week 0**, working out what you need to earn and scoping what could cover it. On Thursday of that week you commit to one of two branches, and they run side by side for the fortnight — same days, same time, different rooms:
    - **Go To Market** — you have something, and the problem is that nobody knows about it. Pricing, positioning, outbound, and the money conversation.
    - **Make and Do** — the thing that would cover your costs doesn't exist yet, so the fortnight goes into building it. Scope it down, get an end-to-end version running, put it in a stranger's hands.
@@ -20,7 +20,7 @@
 
 ### The week at a glance
 
-All times **Pacific**. Everything below happens on campus — use the **"Join on Campus"** button on your [dashboard](https://themultiverse.school/dashboard) to get in.
+All times **PST**. Everything below happens on campus — use the **"Join on Campus"** button on your [dashboard](https://themultiverse.school/dashboard) to get in.
 
 | When | What |
 |---|---|
@@ -73,7 +73,7 @@ Cohorts also pause between cycles. During a break week your dashboard says so in
 
 - **[Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Start here! AI tutors help you understand code as you build. Free, self-paced, available 24/7
 - **[themultiverse.school](https://themultiverse.school)** - Sign up for classes, memberships, specialized topics
-- **Daily stand-up (9am)** - Your office hours for getting unstuck and starting projects together
+- **Stand-up (Mon–Thu, 9:00am PST)** - Your office hours for getting unstuck and starting projects together
 - **Matrix chat** - Ask questions, share what you're building, help others
 
 **The [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) are your main learning tool.** Use them to work through exercises, prototype projects, and build the skills you need.
