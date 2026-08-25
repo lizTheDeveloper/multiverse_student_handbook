@@ -12,11 +12,13 @@
 2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
 3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
 4. **Come to a stand-up** - Monday–Thursday, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time in your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
-5. **Pick your stand-up — Founding Federation, Shipping Software, or both.** Full details on [Programs](https://themultiverse.school/programs).
-   - **[Founding Federation](https://themultiverse.school/programs/founding-federation)** — a three-week cycle for people building their own work. Everyone starts in the same room for Week 0, working out what you need to earn and scoping what could cover it. Then you commit to one of two branches for the fortnight: **Go To Market** if the work just needs to get known, or **Make and Do** if the thing still has to be built.
-   - **[Shipping Software](https://themultiverse.school/programs/learn-to-code)** — the paired build hour, formerly Learn to Code. Whatever the day's session asked you to make — the page, the tool, the fix — this is when you make it, with people around who can unstick you.
+5. **Pick your branch in [Founding Federation](https://themultiverse.school/programs/founding-federation)** - a three-week cycle for people building their own work. Everyone starts in the same room for **Week 0**, working out what you need to earn and scoping what could cover it. On Thursday of that week you commit to one of two branches, and they run side by side for the fortnight, Monday–Thursday at the same time:
+   - **Go To Market** — you have something, and the problem is that nobody knows about it. Pricing, positioning, outbound, and the money conversation.
+   - **Make and Do** — the thing that would cover your costs doesn't exist yet, so the fortnight goes into building it. Scope it down, get an end-to-end version running, put it in a stranger's hands.
 
    Then show up. That's it. Bring your laptop and your questions.
+
+**Also on campus:** **Neurodivergent Strategies** meets Mondays and Thursdays, 11am Pacific.
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
