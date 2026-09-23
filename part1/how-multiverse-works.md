@@ -284,11 +284,20 @@ The point is:
 
 ## Money & Access
 
+### How Pricing Works
+
+| Option | Price | What You Get |
+|--------|-------|-------------|
+| **Individual class** | Varies | Enroll in one class, access its curriculum for the duration |
+| **Track subscription** | $250/mo | All classes and curriculum in one learning track (e.g., Independence, Defender) |
+| **Full access** | $500/mo | Everything — all tracks, all classes, all curriculum |
+| **Supporter** | $60/mo | Stay connected, support the community, access some curriculum |
+
 ### What You Pay For:
-- Access to the community
+- Access to classes and their curriculum
 - Facilitator availability (office hours, feedback)
 - Infrastructure (chat, hosting, tools)
-- Curriculum frameworks and exercises
+- Live class sessions via Google Meet
 
 ### What You Don't Pay For:
 - Grades or evaluation
@@ -296,7 +305,11 @@ The point is:
 - Individual tutoring beyond stated hours
 - Rescue or crisis intervention
 
-**Prices are stated upfront.** No hidden escalation. If you can't afford it, talk to Liz—sliding scale exists.
+### Scholarships
+
+Scholarships exist for people who need them. They come with participation expectations — showing up to standups, staying engaged with the community. If you need financial help, apply. No shame.
+
+**Prices are stated upfront.** No hidden escalation. No bait-and-switch.
 
 **No shame around money.** This is mutual aid, not extraction.
 
@@ -372,12 +385,20 @@ The point is:
 
 ## Tools & Resources
 
-### Multiverse AI Toolkit
-**[start.me/p/RMPGL5/multiverse-ai-toolkit](https://start.me/p/RMPGL5/multiverse-ai-toolkit)**
+### On the Site
 
-Free toolkit with curated AI/tech resources for students.
+- **[Your curriculum](https://themultiverse.school/dashboard)** - Course materials available after enrollment, accessed through the site
+- **[Class day companions](https://themultiverse.school/x/)** (`/x/`) - Interactive tools that accompany each class session — exercises, references, and hands-on activities
+- **[Interactive tools](https://themultiverse.school/tools/)** (`/tools/`) - Self-paced workbenches you can use anytime, even outside of class
+- **[Community Resource Commons](https://themultiverse.school/resources)** - Community-contributed resource library for mutual aid — find resources, contribute your own
 
-### Other Resources:
+### Community
+
+- **[Matrix chat](https://matrix.themultiverse.school)** - Ask questions, share what you're building, help others
+- **Class sessions** - Live on Google Meet, links sent via calendar invite and email
+
+### Reference
+
 - [Liberatory Pedagogy Framework](../LIBERATORY_FRAMEWORK.md)
 - [Code of Conduct](../part4/multiverse-code-of-conduct.md)
 - [Mutual Aid Guidelines](../part4/mutual-aid-guidelines.md)

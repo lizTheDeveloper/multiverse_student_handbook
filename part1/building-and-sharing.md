@@ -389,17 +389,19 @@ Not by completing assignments. Not by getting grades. By creating and sharing.
 
 ---
 
-## The Multiverse AI Toolkit
+## Learning Tools on the Site
 
-**Free resource for all students:**
-[start.me/p/RMPGL5/multiverse-ai-toolkit](https://start.me/p/RMPGL5/multiverse-ai-toolkit)
+**Available to all enrolled students:**
 
-**Includes:**
-- AI learning tools
-- Job search resources
-- Task breakdown tools (great for ADHD executive dysfunction)
-- Organization help
-- And more
+- **[Interactive tools](https://themultiverse.school/tools/)** (`/tools/`) - Self-paced workbenches for hands-on practice
+- **[Class day companions](https://themultiverse.school/x/)** (`/x/`) - Interactive pages that go with each class session
+- **[Community Resource Commons](https://themultiverse.school/resources)** - Community-sourced resources for mutual aid
+
+**Includes tools for:**
+- Hands-on exercises and practice
+- Job search support
+- Task breakdown (great for ADHD executive dysfunction)
+- And more — the tool library keeps growing
 
 **AI can help with:**
 - Breaking down overwhelming projects

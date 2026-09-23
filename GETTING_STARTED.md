@@ -1,188 +1,130 @@
 # Getting Started with This Handbook
 
-## For Teachers & Moderators
+## For Students
 
-Welcome to The Multiverse School Handbook. This guide will help you navigate the most important sections based on your role and needs.
+Welcome to The Multiverse School Handbook. This guide helps you find what you need based on where you are.
 
 ---
 
 ## First Day? Start Here
 
-### Essential Reading (1-2 hours)
-1. **[Introduction](README.md)** - Understanding our approach and values
-2. **[Who We Serve: Student Profile](part1/student-profile.md)** - Know your students
-3. **[Neurodivergence in Adult Learning](part1/neurodivergence.md)** - Core concepts
-4. **[Teacher Escalation Protocol](teacher_escalation_protocol.md)** - When to get help
-5. **[Crisis Resource Appendix](crisis_resource_appendix.md)** - Bookmark this!
+### Get Set Up (30 minutes)
+1. **[Browse classes](https://themultiverse.school/classes)** - Find a class that fits what you want to learn
+2. **Enroll** - Stripe checkout, then check your email for a magic link (no password)
+3. **[Open your dashboard](https://themultiverse.school/dashboard)** - See your classes, upcoming sessions, and curriculum
+4. **[Join Matrix chat](https://matrix.themultiverse.school)** - Say hi, tell us what you want to build
+5. **Read [How Multiverse Works](part1/how-multiverse-works.md)** - Understand the learning model
 
 ### Bookmark These
-- **[Emergency Response Flowchart](quick-reference/emergency-flowchart.md)** - Quick decisions
-- **[De-escalation Scripts](part3/de-escalation-scripts.md)** - Language to use
-- **[Crisis Resource Appendix](crisis_resource_appendix.md)** - Copy/paste crisis numbers
+- **[Your Dashboard](https://themultiverse.school/dashboard)** - Home base for everything
+- **[Classes](https://themultiverse.school/classes)** - Browse and enroll in classes
+- **[Learning Tracks](https://themultiverse.school/paths)** - Track dashboards showing your progress
+- **[This Handbook](https://themultiverse.school/handbook)** - You're reading it; it's always at `/handbook`
+- **[Crisis Resources](crisis_resource_appendix.md)** - In case you or someone you know needs help
 
 ---
 
-## By Role
+## Navigating the Site
 
-### New Teachers
-**Week 1:**
-- Read all of Part I (Understanding Our Students)
-- Review [Boundaries for Educators](part5/teacher-boundaries.md)
-- Study [De-escalation Scripts](part3/de-escalation-scripts.md)
+### Key Pages
+- **`/classes`** - Browse all classes, organized by learning track
+- **`/paths`** - Your track dashboards — see progress, upcoming sessions, what's next
+- **`/dashboard`** - Your enrolled classes, schedule, and quick links
+- **`/curriculum/<slug>/`** - Course materials (available after enrolling in a class)
+- **`/x/`** - Class day companions — interactive tools that go with each session
+- **`/tools/`** - Self-paced workbenches and learning tools you can use anytime
+- **`/handbook`** - This handbook
+- **`/resources`** - Community Resource Commons — find and share mutual aid resources
 
-**Week 2:**
-- Read Part II (Recognition & Early Intervention)
-- Review [Documentation Best Practices](part3/documentation.md)
-- Read at least one [Case Study](part6/case-aspiring-guru.md)
+### How to Log In
+The Multiverse School uses **magic links** — no password to remember.
+1. Enter your email at login
+2. Check your inbox for a link
+3. Click it — you're in
 
-**Ongoing:**
-- Review crisis protocols quarterly
-- Debrief with other teachers after difficult situations
-- Revisit boundaries section when you feel overwhelmed
-
-### Moderators
-**Priority Reading:**
-1. [Handling Unstable Students](mod_guide_unstable_students.md)
-2. [Premature Transcendence & Cult Risk](mod_guide_premature_transcendence.md)
-3. [Boundary Violations](part2/boundary-violations.md)
-4. [Documentation Best Practices](part3/documentation.md)
-5. [The Grounded Visionary Path](90_day_grounded_visionary_path.md)
-
-### Administrators
-**Strategic Sections:**
-1. All moderator readings (above)
-2. [Research Sources](part7/research-sources.md) - Evidence base
-3. Case studies for pattern recognition
-4. Legal considerations (when available)
-5. Removal & re-entry guidelines (when available)
+Links expire after 24 hours. Request a new one anytime.
 
 ---
 
 ## By Situation
 
-### "A student just expressed suicidal ideation"
-→ **[Emergency Response Flowchart](quick-reference/emergency-flowchart.md)**
-→ **[Crisis Resource Appendix](crisis_resource_appendix.md)**
-→ **[Teacher Escalation Protocol](teacher_escalation_protocol.md)**
+### "I just enrolled, what do I do?"
+→ **[How Multiverse Works](part1/how-multiverse-works.md)** - Understand the learning model
+→ **[Your Dashboard](https://themultiverse.school/dashboard)** - See your upcoming class
+→ **[Matrix chat](https://matrix.themultiverse.school)** - Introduce yourself
 
-### "A student is pushing boundaries repeatedly"
-→ **[Boundary Violations](part2/boundary-violations.md)**
-→ **[De-escalation Scripts](part3/de-escalation-scripts.md)**
-→ **[Documentation Best Practices](part3/documentation.md)**
+### "I want to explore more classes"
+→ **[Browse classes](https://themultiverse.school/classes)** - All classes by track
+→ **[Learning tracks](https://themultiverse.school/paths)** - Curated sequences of classes
 
-### "A student wants to start their own school"
-→ **[The Grounded Visionary Path](90_day_grounded_visionary_path.md)**
-→ **[When Vision Becomes Delusion](part2/vision-vs-delusion.md)**
-→ **[Case Study: Aspiring Guru](part6/case-aspiring-guru.md)**
+### "I'm struggling with the material"
+→ **[When You're Struggling](part2/when-youre-struggling.md)**
+→ **[Asking for Help](part2/mutual-aid-in-action.md)**
+→ Come to class — that's what it's for
 
-### "I'm feeling overwhelmed/burned out"
-→ **[Boundaries for Educators](part5/teacher-boundaries.md)**
-→ **[Burnout Prevention](part5/burnout-prevention.md)** (when available)
-→ Talk to admin or peer teachers
+### "I need help outside of class"
+→ **[FindHelp.org](https://www.findhelp.org/)** - Local resources for food, housing, healthcare
+→ **[Crisis Resources](crisis_resource_appendix.md)** - Hotlines and immediate help
+→ **[Community Resource Commons](https://themultiverse.school/resources)** - Community-sourced resources
 
-### "I don't know if this is neurodivergent communication or a problem"
-→ **[Neurodivergence in Adult Learning](part1/neurodivergence.md)**
-→ **[Common Patterns](part1/common-patterns.md)**
-→ **[Decision Tree](quick-reference/decision-tree.md)**
-→ When in doubt, consult with peers/admin
+### "Someone in the community is making me uncomfortable"
+→ **[Setting Boundaries](part2/student-boundaries.md)**
+→ **[Code of Conduct](part4/multiverse-code-of-conduct.md)**
+→ Contact aethrix@themultiverse.school
 
----
-
-## How to Use This Book
-
-### As a Reference (Most Common)
-- Use the quick reference section for in-the-moment decisions
-- Search for specific scenarios
-- Bookmark crisis resources and scripts
-
-### As Training Material
-- Assign sections for new teacher onboarding
-- Discuss case studies in team meetings
-- Role-play scenarios from the scenario library
-- Review protocols quarterly
-
-### As a Living Document
-- This handbook will evolve
-- Contribute your experiences (anonymized)
-- Suggest updates based on what's working
-- Help fill in placeholder sections
+### "I'm in crisis"
+→ **988** (call or text) | **741741** (text HOME)
+→ **[Crisis Resources](crisis_resource_appendix.md)**
+→ **[When You're in Crisis](part3/when-youre-in-crisis.md)**
 
 ---
 
-## Quick Access: Most-Used Pages
+## Understanding the Handbook Structure
 
-1. **Crisis Resources** - For emergencies
-2. **De-escalation Scripts** - For difficult conversations
-3. **Boundary Violations** - For repeated issues
-4. **Documentation Template** - For recording incidents
-5. **Emergency Flowchart** - For quick decisions
+### Part I: Learning & Participation
+How this space works, how learning happens, what to build
 
----
+### Part II: Community & Relationships
+Mutual aid, boundaries, getting help, common misunderstandings
 
-## Understanding the Structure
+### Part III: Crisis & Safety
+When things are hard, crisis resources, de-escalation
 
-### Part I: Understanding Our Students
-Who they are, why they're here, what they need
+### Part IV: Policies & Agreements
+Code of Conduct, mutual aid guidelines, community agreements
 
-### Part II: Recognition & Early Intervention
-Spotting warning signs before they become crises
+### Part V: Community Health
+Recognizing unhealthy patterns, dependency, manipulation
 
-### Part III: Protocols & Response
-What to do when issues arise
+### Part VI: Appendices
+Liberatory pedagogy framework, thinkers, research
 
-### Part IV: Programs & Policies
-Structured approaches to common challenges
-
-### Part V: Teacher Self-Care & Ethics
-Taking care of yourself while serving others
-
-### Part VI: Case Studies & Scenarios
-Real examples to learn from
-
-### Part VII: Appendices
-Research, resources, and reference materials
+### Part VII: Resources
+Mental health, survival, emigration, disability, LGBTQ+, neurodivergent resources
 
 ---
 
 ## Getting Help
 
 ### Who to Contact
-- **Immediate crisis:** 988 Lifeline, Crisis Text Line
-- **Student safety concern:** [Admin contact]
-- **Policy questions:** [Admin contact]
-- **Peer support:** [Teacher channel/forum]
-
-### When to Escalate
-- Any mention of suicide or violence
-- Repeated boundary violations
-- You feel unsafe or manipulated
-- You're uncertain about what to do
-- You're emotionally exhausted by a situation
-
-**Better to escalate too early than too late.**
-
----
-
-## Feedback & Updates
-
-This handbook is a living document. If you:
-- Find something unclear
-- Have a scenario not covered here
-- Notice outdated information
-- Want to contribute a case study (anonymized)
-
-Please contact [admin/handbook maintainer].
+- **Support questions:** aethrix@themultiverse.school
+- **Liz directly:** liz@themultiverse.school
+- **Community chat:** [matrix.themultiverse.school](https://matrix.themultiverse.school)
+- **Immediate crisis:** 988 Lifeline, Crisis Text Line (741741)
 
 ---
 
 ## Version History
 
+**Version 2.0** (September 2026)
+- Updated to reflect current site structure (classes, tracks, paths, tools)
+- Replaced outdated Obsidian/AI Tutor references with current curriculum delivery
+- Added learning tracks, support tiers, and interactive tools documentation
+- Updated contact information and navigation guide
+
 **Version 1.0** (November 2025)
 - Initial release
-- Core protocols established
-- Research-backed, neurodivergent-affirming approach
-- Some sections still in development
 
 ---
 
-**Welcome to The Multiverse School team. This work matters. You matter. Let's do this well.**
+**Welcome to The Multiverse School. Build things. Share what you discover. Ask questions. That's how we learn.**
