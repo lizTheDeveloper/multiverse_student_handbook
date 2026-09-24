@@ -69,7 +69,7 @@ Campus has named zones — Solarpunk, Propaganda, Cyberdeck, the Replay Room —
 
 ### Entering buildings
 
-Walk up to a building's entrance and press **E** to go inside. To leave: walk to the exit and press **E**, or press **Escape** from anywhere to emergency-exit (useful when you've wandered somewhere you didn't mean to).
+**Walk onto a building and you auto-join.** No button press needed — step onto the building tile and you're inside, connected to the room's chat and any active call. To leave: walk to the exit, or press **Escape** from anywhere to emergency-exit (useful when you've wandered somewhere you didn't mean to).
 
 **Dorm buildings** have multiple floors. Use stairs (press **E** at a stairwell) or elevators (press **E** to get a floor picker). The elevator has an animation — press **Space** to skip it if you're in a rush.
 
