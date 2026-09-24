@@ -2,7 +2,7 @@
 
 *The Multiverse Campus is home to a remarkable collection of scholars, poets, shopkeepers, witches, robots, and at least one cyberpunk warthog. Each resident has their own personality, memories, and schedule. They remember your conversations, form opinions about you over time, and — if you earn their trust — become genuine companions in your learning.*
 
-*Walk up to anyone and press **E** to start talking.*
+*Walk up to anyone and press **E** to start talking. For everything else about campus, see the [Complete Campus Guide](campus.md).*
 
 ---
 

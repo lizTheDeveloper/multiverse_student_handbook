@@ -20,6 +20,7 @@ Welcome to The Multiverse School Handbook. This guide helps you find what you ne
 - **[Classes](https://themultiverse.school/classes)** - Browse and enroll in classes
 - **[Learning Tracks](https://themultiverse.school/paths)** - Track dashboards showing your progress
 - **[This Handbook](https://themultiverse.school/handbook)** - You're reading it; it's always at `/handbook`
+- **[Multiverse Campus](https://campus.themultiverse.school)** - The virtual world — [full guide](part1/campus.md)
 - **[Crisis Resources](crisis_resource_appendix.md)** - In case you or someone you know needs help
 
 ---
@@ -35,6 +36,10 @@ Welcome to The Multiverse School Handbook. This guide helps you find what you ne
 - **`/tools/`** - Self-paced workbenches and learning tools you can use anytime
 - **`/handbook`** - This handbook
 - **`/resources`** - Community Resource Commons — find and share mutual aid resources
+- **[`/support`](https://themultiverse.school/support)** - Pricing tiers and how to support the school
+- **[`/terms`](https://themultiverse.school/terms)** - Terms of service, refund policy
+- **[`/privacy`](https://themultiverse.school/privacy)** - Privacy policy
+- **[campus.themultiverse.school](https://campus.themultiverse.school)** - The spatial virtual world
 
 ### How to Log In
 The Multiverse School uses **magic links** — no password to remember.
@@ -70,7 +75,7 @@ Links expire after 24 hours. Request a new one anytime.
 ### "Someone in the community is making me uncomfortable"
 → **[Setting Boundaries](part2/student-boundaries.md)**
 → **[Code of Conduct](part4/multiverse-code-of-conduct.md)**
-→ Contact aethrix@themultiverse.school
+→ Contact [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)
 
 ### "I'm in crisis"
 → **988** (call or text) | **741741** (text HOME)
@@ -107,8 +112,8 @@ Mental health, survival, emigration, disability, LGBTQ+, neurodivergent resource
 ## Getting Help
 
 ### Who to Contact
-- **Support questions:** aethrix@themultiverse.school
-- **Liz directly:** liz@themultiverse.school
+- **Support questions:** [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)
+- **Liz directly:** [liz@themultiverse.school](mailto:liz@themultiverse.school)
 - **Community chat:** [matrix.themultiverse.school](https://matrix.themultiverse.school)
 - **Immediate crisis:** 988 Lifeline, Crisis Text Line (741741)
 

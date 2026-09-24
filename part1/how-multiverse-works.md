@@ -309,7 +309,7 @@ The point is:
 
 Scholarships exist for people who need them. They come with participation expectations — showing up to Go to Market standup or Make and Do Hour, staying engaged with the community. If you need financial help, apply. No shame.
 
-**Prices are stated upfront.** No hidden escalation. No bait-and-switch.
+**Prices are stated upfront.** No hidden escalation. No bait-and-switch. See the full [Support & Pricing](https://themultiverse.school/support) page.
 
 **No shame around money.** This is mutual aid, not extraction.
 
@@ -395,7 +395,8 @@ Scholarships exist for people who need them. They come with participation expect
 ### Community
 
 - **[Matrix chat](https://matrix.themultiverse.school)** - Ask questions, share what you're building, help others
-- **Class sessions** - Live on Google Meet, links sent via calendar invite and email
+- **[Multiverse Campus](https://campus.themultiverse.school)** - The virtual world — walk around, video chat, attend classes, talk to AI agents ([full guide](campus.md))
+- **Class sessions** - Live on Google Meet (or on [Campus](https://campus.themultiverse.school)), links sent via calendar invite and email
 
 ### Reference
 

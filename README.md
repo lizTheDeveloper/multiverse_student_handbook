@@ -101,7 +101,7 @@ After a shared orientation week, you choose the track that fits your goals. Both
 
 **Scholarships exist.** They come with participation expectations (showing up to standups, staying engaged). If you need one, apply — no shame.
 
-**No hidden costs. No upsells. No bait-and-switch.** Prices are stated upfront.
+**No hidden costs. No upsells. No bait-and-switch.** Prices are stated upfront. See the full [Support & Pricing](https://themultiverse.school/support) page for details.
 
 ---
 
@@ -113,7 +113,7 @@ After a shared orientation week, you choose the track that fits your goals. Both
 - **[Interactive tools](https://themultiverse.school/tools/)** - Self-paced workbenches and learning tools at `/tools/` — use them anytime
 - **[Community Resource Commons](https://themultiverse.school/resources)** - Community-contributed resource library — find and share resources for mutual aid
 - **Class sessions** - Live on Google Meet (or on campus), links sent via calendar invite and email
-- **Matrix chat** - Ask questions, share what you're building, help others
+- **[Matrix chat](https://matrix.themultiverse.school)** - Ask questions, share what you're building, help others
 
 ---
 
@@ -170,8 +170,8 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 - We're online - you can take classes from anywhere in the world
 
 **Contact:**
-- **Support:** aethrix@themultiverse.school
-- **Liz directly:** liz@themultiverse.school
+- **Support:** [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)
+- **Liz directly:** [liz@themultiverse.school](mailto:liz@themultiverse.school)
 
 ---
 
@@ -180,6 +180,8 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 ### Learning & Participation
 - [How Multiverse Works](part1/how-multiverse-works.md)
 - [Building & Sharing](part1/building-and-sharing.md)
+- [Campus: The Complete Guide](part1/campus.md)
+- [Faculty & Residents Directory](part1/campus-residents.md)
 - [Asking for Help & Offering Help](part2/mutual-aid-in-action.md)
 - [Code of Conduct](part4/multiverse-code-of-conduct.md)
 
@@ -228,10 +230,15 @@ We practice liberatory pedagogy, build through mutual aid, and dare to love deep
 - **Classes:** [themultiverse.school/classes](https://themultiverse.school/classes)
 - **Learning Tracks:** [themultiverse.school/paths](https://themultiverse.school/paths)
 - **Dashboard:** [themultiverse.school/dashboard](https://themultiverse.school/dashboard)
+- **Campus:** [campus.themultiverse.school](https://campus.themultiverse.school)
+- **Support & Pricing:** [themultiverse.school/support](https://themultiverse.school/support)
+- **Terms:** [themultiverse.school/terms](https://themultiverse.school/terms)
+- **Privacy:** [themultiverse.school/privacy](https://themultiverse.school/privacy)
+- **Connect:** [themultiverse.school/social-media](https://themultiverse.school/social-media)
 - **Liz's site:** [lizthe.dev](https://lizthe.dev)
 
 ---
 
-**This handbook is a living document.** If something is confusing, missing, or could be better, let us know at aethrix@themultiverse.school.
+**This handbook is a living document.** If something is confusing, missing, or could be better, let us know at [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school).
 
 **Version 2.0** | Last Updated: September 2026

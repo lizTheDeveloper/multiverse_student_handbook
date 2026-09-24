@@ -20,7 +20,7 @@ If someone sends you an **invite link**, clicking it creates your account on the
 
 ### First time
 
-1. Accept the **Terms of Service** (mandatory, one-time).
+1. Accept the **[Terms of Service](https://themultiverse.school/terms)** (mandatory, one-time).
 2. **Pick your handle** — Byte, a friendly robot, asks you to choose a screen name. Letters, numbers, dashes, no spaces. This becomes your `@handle` in chat.
 3. You spawn in the **Main Quad** — the outdoor central area. After that, Campus remembers where you were and puts you back there next time.
 
@@ -31,8 +31,8 @@ Every time Campus loads, you'll see a retro terminal-style "BIOS boot" sequence 
 ### Trouble logging in?
 
 - Your Campus login email is whatever you used to sign up. Check your Stripe receipt if unsure.
-- Welcome emails come from `aethrix@themultiverse.school` — check spam.
-- Email `aethrix@themultiverse.school` for help.
+- Welcome emails come from [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school) — check spam.
+- Email [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school) for help.
 
 ---
 
