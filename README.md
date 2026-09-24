@@ -58,14 +58,33 @@
 
 The school is organized into **learning tracks** — curated sequences of classes that build on each other.
 
-**Tracks include:**
-- **Independence** - Build the skills to work for yourself
-- **Defender** - Counter-harassment, digital safety, security
-- **And more** - Browse all tracks at [themultiverse.school/paths](https://themultiverse.school/paths)
+**Your path dashboard** at [themultiverse.school/paths](https://themultiverse.school/paths) shows:
+- Which tracks you have access to
+- Your progress through each track
+- Upcoming classes in your tracks
+- What to take next
 
-Each track has a **path dashboard** where you can see your progress, upcoming classes, and what's next.
+**Tracks include:**
+- **Independence** — Build the skills to work for yourself
+- **Defender** — Counter-harassment, digital safety, security
+- **Build AI Systems** — AI/ML engineering
+- **Creative Automation** — Using AI for creative work
+- **And more** — browse all at [themultiverse.school/paths](https://themultiverse.school/paths)
 
 **You can also take individual classes** without subscribing to a full track. Browse everything at [themultiverse.school/classes](https://themultiverse.school/classes).
+
+### How access works
+
+When you subscribe to a track ($250/mo), you get access to **all classes and curriculum** in that track. If you complete every session of a class, you keep permanent access to that class's materials even if you cancel later.
+
+### Founding Federation (daily drop-ins)
+
+The Founding Federation is our intensive drop-in program — daily sessions, Mon–Thu:
+
+- **Go to Market** — daily standup focused on launching, getting to revenue, and building your business
+- **Make and Do Hour** — daily session focused on building, creating, and learning the craft
+
+After a shared orientation week, you choose the track that fits your goals. Both are live, hands-on, and community-driven. Scholarship students attend these regularly as part of their participation expectations.
 
 ---
 

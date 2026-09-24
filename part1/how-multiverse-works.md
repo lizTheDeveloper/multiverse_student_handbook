@@ -307,7 +307,7 @@ The point is:
 
 ### Scholarships
 
-Scholarships exist for people who need them. They come with participation expectations — showing up to standups, staying engaged with the community. If you need financial help, apply. No shame.
+Scholarships exist for people who need them. They come with participation expectations — showing up to Go to Market standup or Make and Do Hour, staying engaged with the community. If you need financial help, apply. No shame.
 
 **Prices are stated upfront.** No hidden escalation. No bait-and-switch.
 
