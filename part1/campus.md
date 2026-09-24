@@ -2,6 +2,8 @@
 
 **Multiverse Campus** ([campus.themultiverse.school](https://campus.themultiverse.school)) is a 2D pixel-art virtual world where you walk around as an avatar, bump into people, attend classes, talk to AI characters, do quests, raise pets, decorate your space, play games, and generally live a second life alongside your learning. This guide covers everything you'll encounter.
 
+![The campus world — pixel-art map with buildings, agents, and chat](../screenshots/campus-main.jpg)
+
 ---
 
 ## Getting In
@@ -54,6 +56,8 @@ Movement keys are ignored while you're typing in chat, so you'll never accidenta
 **Mobile:** On a phone or tablet, a D-pad appears in the bottom-left and an **A** action button in the bottom-right. The whole interface switches to a tab-based layout (Campus / Chat / Classes / People / More).
 
 ### The map
+
+![Campus map overlay — all buildings labeled, click to navigate](../screenshots/campus-map.jpg)
 
 Press **M** (or click the minimap in the top-right) to open the full campus map. It shows every building, color-coded and labeled, with street names at intersections. **Click any building** to auto-walk there — a glowing compass appears next to you pointing the way. Press any movement key to cancel auto-walk.
 
@@ -131,6 +135,8 @@ Others see a color-coded battery bar above your head (green/yellow/red). Extreme
 ---
 
 ## Proximity Video Chat
+
+![Proximity call — walk near someone and video starts automatically](../screenshots/campus-proximity-call.jpg)
 
 **The heart of Campus.** Walk near someone and video/audio starts automatically. Walk away and it stops. No links, no join buttons.
 
@@ -302,6 +308,8 @@ Visit the **Bubble Wand** sculpture and interact with it to record a short refle
 ---
 
 ## Economy
+
+![Inventory — your items, gems balance, and category filters](../screenshots/campus-inventory.jpg)
 
 **Everything on Campus is cosmetic.** Nothing you buy gives you a gameplay advantage.
 
