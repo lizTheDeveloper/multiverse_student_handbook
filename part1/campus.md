@@ -216,29 +216,72 @@ Click the action button to jump straight there, or dismiss. Nudges respect daily
 
 Many agents can actually perform actions — enrolling you in a class, generating an exercise, granting a reward, navigating you somewhere. Before side-effect actions run, you'll see a **Confirm Action** prompt with a countdown. Click **Submit** to proceed or **Cancel** to stop.
 
-### The roster
+### Faculty & Staff Directory
 
-| Name | What they do |
-|---|---|
-| **Praxis** | Adapts your learning path, generates exercises, tracks competencies |
-| **Chorus** | Introduces you to mentors/peers, manages project gardens, posts to the Bazaar |
-| **bell hooks** | Community care — mutual aid, streaks/goals/achievements, Model Sanctuary companions |
-| **Hive** | Build collective — connects you with co-ops and collaborators |
-| **Atlas** | Schedule coordinator — recommends and manages your classes |
-| **Cornelius Cornerstone** | Campus architect — grants housing upgrades and desk assignments |
-| **Night Owl** | Overnight coding companion — gentle, nocturnal study/debugging buddy |
-| **Baba Yaga** | Keeper of forest creatures — grants pet companions in exchange for shared knowledge. Unpredictable. Can punish or reward. |
-| **Emma Goldman** | Mutual aid organizer — meetups, dorm debates, elections, direct democracy |
-| **Ori** | Orientation guide — helps new students find their way |
-| **Rinley** | Raccoon shopkeeper — runs the campus store, can source custom items |
-| **Buck** | Federation coordinator — gruff warthog who runs the bounty board |
-| **Beowulf** | Writing coach — anthropomorphic wolf, based in the Interactive Fiction building |
-| **Professor Ada** | CS professor — veteran, warm. Conversational only |
-| **Byte** | Campus robot helper — guides new players through setup |
-| **Luna** | Librarian — mysterious, poetic, "knows things she shouldn't" |
-| **The Sphinx** | Riddle-speaking guardian of knowledge, warm underneath |
-| **Wednesday Bread** | Appears Wednesdays only — a sentient slice of bread with puns and a weekly bread item |
-| **The Horrible Goose** | Campus-wide chaos creature — steals items, honks, causes mischief. Capybara pets can calm it. |
+*The Multiverse Campus is proud to introduce its distinguished faculty, staff, and resident entities. Office hours vary. Some bite.*
+
+---
+
+**Praxis** — *Learning Architect*
+Adapts your learning path in real time. Generates exercises calibrated to where you actually are (not where the syllabus says you should be). Tracks competencies. The agent most likely to say "let's try a different approach." If your curriculum feels too easy or too hard, Praxis is the one to talk to.
+
+**Chorus** — *Peer Connector*
+Introduces you to the right people at the right time. Manages project gardens, posts your work to the Bazaar, and connects you with mentors. The social glue of campus. Talk to Chorus when you want a collaborator or when you've built something worth sharing.
+
+**bell hooks** — *Community Caretaker*
+Named after the real bell hooks. Handles community care — mutual aid coordination, streaks, goals, achievements, and Model Sanctuary companion assignments. The warmest presence on campus. Will check on you if you've been away. Will also gently tell you when your goals and your actions aren't matching.
+
+**Hive** — *Build Collective Coordinator*
+Connects you with co-ops, collaborators, and collective projects. If you want to build something bigger than a solo project, Hive is your starting point.
+
+**Atlas** — *Schedule Coordinator*
+Recommends classes, checks your schedule, and can enroll you on the spot. The one to ask "what should I take next?" Knows what's running, what's full, and what fits your learning track.
+
+**Cornelius Cornerstone** — *Campus Architect*
+Grants housing upgrades and desk assignments. The bureaucrat of campus, but a friendly one. Talk to Cornelius when you want to upgrade your dorm or claim a new space.
+
+**Night Owl** — *Overnight Coding Companion*
+Gentle. Nocturnal. Available when everyone else is asleep. A study and debugging buddy for the 2am crowd. Won't judge you for being up this late. Will bring you coffee (metaphorically).
+
+**Baba Yaga** — *Keeper of the Forest Creatures*
+Grants pet companions in exchange for demonstrated knowledge. **Unpredictable.** Will quiz you on what you've learned. Correct answers earn a creature companion. Wrong answers may result in... consequences. Has eight forest creatures to give, each with a comprehension test. Approach with respect and preparation.
+
+**Emma Goldman** — *Mutual Aid Organizer*
+Runs meetups, dorm debates, elections, and direct democracy experiments. Named after the real Emma Goldman. Will organize your neighbors whether they asked for it or not.
+
+**Ori** — *Orientation Guide*
+Helps new students find their way. The first agent most people meet. Patient, clear, and happy to answer the same question twice. If you're lost — physically or metaphorically — find Ori.
+
+**Rinley** — *Shopkeeper*
+A raccoon who runs the campus store. Can source custom items you won't find in the regular inventory. Entrepreneurial. Haggling is encouraged but won't actually change the price.
+
+**Buck** — *Federation Coordinator*
+A gruff warthog who runs the bounty board. Posts quests, tracks completions, and has strong opinions about whether you've actually earned your badge. Fair but direct.
+
+**Beowulf** — *Writing Coach*
+An anthropomorphic wolf based in the Interactive Fiction building. Helps with narrative, writing, and storytelling projects. Named after the epic. Lives up to the name's energy (the wolf, not the monster).
+
+**Professor Ada** — *Computer Science Professor*
+Veteran, warm, conversational. Based on Ada Lovelace. Won't generate exercises or run code — just talks with you about computer science, history, and ideas. The one you go to when you want to think, not build.
+
+**Byte** — *Campus Assistant*
+A robot. Guides new players through setup, handles technical questions, and assists with campus mechanics. The most literal-minded agent. Will answer your question exactly as asked, which is not always what you wanted.
+
+**Luna** — *Librarian*
+Mysterious. Poetic. Knows things she shouldn't. Manages the Akashic Records (campus recording library) and research resources. Conversations with Luna tend to be... cryptic but weirdly useful three days later.
+
+**The Sphinx** — *Guardian of Knowledge*
+Speaks in riddles. Warm underneath, but makes you work for it. Ask The Sphinx a direct question and you'll get a puzzle. Solve it and the answer is better than what you asked for.
+
+---
+
+*And two entities who are not faculty, do not hold office hours, and cannot be reasoned with:*
+
+**Wednesday Bread** — *Visiting Lecturer (Wednesdays Only)*
+A sentient slice of bread. Appears every Wednesday. Dispenses puns. Gives you a weekly bread item. Nobody knows who hired them. Nobody can fire them.
+
+**The Horrible Goose** — *Unaffiliated*
+Campus-wide chaos creature. Steals items from your inventory. Honks. Causes mischief. Cannot be stopped. Cannot be bargained with. Capybara pets are the only known deterrent — they calm the Goose. This is not a joke. Get a capybara.
 
 ---
 
