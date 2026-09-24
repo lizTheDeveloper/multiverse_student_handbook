@@ -107,11 +107,12 @@ After a shared orientation week, you choose the track that fits your goals. Both
 
 ## Learning Resources
 
+- **[Multiverse Campus](https://campus.themultiverse.school)** - The virtual world — walk around, video chat, attend classes, talk to AI agents, do quests. **[Full campus guide](part1/campus.md)**
 - **[Your curriculum](https://themultiverse.school/dashboard)** - Access course materials on the site after enrolling. Each class has its own pages.
 - **[Class day companions](https://themultiverse.school/x/)** - Interactive tools that accompany each class session, available at `/x/`
 - **[Interactive tools](https://themultiverse.school/tools/)** - Self-paced workbenches and learning tools at `/tools/` — use them anytime
 - **[Community Resource Commons](https://themultiverse.school/resources)** - Community-contributed resource library — find and share resources for mutual aid
-- **Class sessions** - Live on Google Meet, links sent via calendar invite and email
+- **Class sessions** - Live on Google Meet (or on campus), links sent via calendar invite and email
 - **Matrix chat** - Ask questions, share what you're building, help others
 
 ---

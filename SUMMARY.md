@@ -4,6 +4,7 @@
 
 ## Part I: Understanding This Space
 
+* [Campus: The Complete Guide](part1/campus.md)
 * [Who We Serve: The Multiverse Student Profile](part1/student-profile.md)
 * [Neurodivergence in Adult Learning Spaces](part1/neurodivergence.md)
 * [Common Patterns: When Brilliant Meets Unstable](part1/common-patterns.md)
