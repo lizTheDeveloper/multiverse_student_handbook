@@ -1,6 +1,6 @@
 # Chat & Messaging
 
-*Text communication on [Campus](../campus.md) — powered by Matrix, synced everywhere.*
+*Campus chat and [Matrix](https://matrix.themultiverse.school) are the same system. Send a message on campus, it appears in your Matrix client. Send one in Element, it appears on campus. One community, two interfaces. Part of the [Campus Guide](../campus.md).*
 
 ---
 
@@ -31,6 +31,18 @@ Text chat with people near you in the current room. Useful when you can't or don
 ## Linking Your Matrix Account
 
 If you use Matrix separately (through Element or another client), talk to [Byte](../campus-residents.md#byte) to sync messages everywhere.
+
+---
+
+> **Tip:** You can DM [AI residents](../campus-residents.md) too — not just humans. Useful when you want to ask [Luna](../campus-residents.md#luna) something but don't feel like walking to the library.
+
+---
+
+## Trivia
+
+- Building channels auto-join when you walk in and auto-leave when you walk out. You're always in the right room.
+- [Byte](../campus-residents.md#byte) can help link your Matrix account if you use Element or another client externally. Just ask.
+- Proximity text chat is separate from building chat — it's a smaller radius, just the people physically near you. Useful for side conversations during events.
 
 ---
 

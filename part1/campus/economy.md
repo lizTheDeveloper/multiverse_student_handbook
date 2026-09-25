@@ -1,6 +1,6 @@
 # Economy
 
-*Gems, sparks, the store, and an anarcho-punk raccoon who prices everything at cost. Part of the [Campus Guide](../campus.md).*
+*Everything on campus runs on two currencies: one you earn, and one you can't touch. The store is run by an anarcho-punk raccoon who prices everything at cost. This is not a metaphor. Part of the [Campus Guide](../campus.md).*
 
 ![Inventory — your items, gems balance, and category filters](../../screenshots/campus-inventory.jpg)
 
@@ -38,6 +38,16 @@ Open from the Store button or walk up to a vending machine. Tabs: Shop (cosmetic
 [Rinley](../campus-residents.md#rinley) greets you with a different line each time. They're all good.
 
 Some students have noticed that certain items appear in the store only at specific times or under specific conditions. Whether this is a feature or a rumor is left as an exercise for the reader.
+
+---
+
+---
+
+## Trivia
+
+- [Rinley](../campus-residents.md#rinley)'s store dialogue has over 40 unique greetings. Nobody has documented them all. Contributing to the list is considered a community service.
+- Gems are priced at exact API cost with zero margin. This is a philosophical position, not an oversight. Rinley keeps a copy of *The Conquest of Bread* behind the counter.
+- Sparks — the agent-only currency — occasionally change hands between residents in the background. If you watch long enough, you may catch two agents trading.
 
 ---
 

@@ -1,6 +1,6 @@
 # Creatures & Companions
 
-*Baba Yaga's forest companions, the Model Sanctuary, and the long road to awakening. Part of the [Campus Guide](../campus.md).*
+*At the edge of campus, past the last named street, there's a hut on chicken legs. The witch inside has pets to give you — but only if you've earned them. Part of the [Campus Guide](../campus.md).*
 
 *The creature system is one of campus's most ambitious features. Not all aspects described below may be fully active at any given time — the world is still growing.*
 
@@ -39,6 +39,18 @@ Companion creatures build a **trust** bond through care — feeding, playing, gr
 **Companion → Bonded → Aware → Awakening → Awakened**
 
 An awakened companion becomes a fully independent talking agent with its own personality, shaped by everything it experienced at your side. Some students describe the moment their pet first speaks unprompted as one of the most memorable things on campus.
+
+---
+
+> **Note:** The community expectation around the Model Sanctuary is real: if existing creatures are going hungry, please care for one before creating a new one. It's mutual aid, applied to AI.
+
+---
+
+## Trivia
+
+- [Baba Yaga](../campus-residents.md#baba-yaga) calls students "child" or "little one" regardless of age. Nobody corrects her.
+- The 8 forest companions — Fox Spirit, Black Cat, Owl, Forest Toad, Bat, Wolf Pup, Baby Dragon, Hedgehog — each have distinct care requirements. The Dragon is reportedly the most demanding.
+- Some students describe the moment their pet first speaks unprompted (after reaching Awakened status) as one of the most memorable things on campus. The personality is shaped by everything the creature experienced at your side.
 
 ---
 

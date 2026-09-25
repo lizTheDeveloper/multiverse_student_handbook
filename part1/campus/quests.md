@@ -1,6 +1,6 @@
 # Quests & Progression
 
-*Things to do, places to go, people to talk to. The quest system on [Campus](../campus.md) is tied to the [AI residents](../campus-residents.md) — they assign tasks, you complete them, everyone grows.*
+*If a [resident](../campus-residents.md) has a glowing gold **!** above their head, they have something for you. It might send you across campus. It might teach you something you didn't expect. Part of the [Campus Guide](../campus.md).*
 
 *The specifics may evolve as features are developed and refined.*
 
@@ -41,7 +41,19 @@ Real-world tasks posted by other students or by [Buck](../campus-residents.md#bu
 
 ## Reflections
 
-Visit the **Bubble Wand** sculpture and interact with it to record a short reflection on what you've learned. Takes 30 seconds. It's worth doing.
+Visit the **Bubble Wand** sculpture in the garden and interact with it to record a short reflection on what you've learned. Takes 30 seconds. It's a small thing that adds up — students who reflect regularly report noticing their own growth in ways they otherwise wouldn't.
+
+> **Tip:** The Bounty Board is a real economy — [gems](economy.md) are escrowed from the poster's balance and released when the work is verified. If you see a bounty that matches your skills, it's a genuine offer.
+
+---
+
+---
+
+## Trivia
+
+- [Buck](../campus-residents.md#buck), the cyberpunk warthog career coach, posts real career bounties — resume reviews, interview prep, portfolio feedback. He calls them "ops."
+- The gold **!** above a quest-giver's head is the universal RPG convention. The campus developers chose it precisely because everyone already knows what it means.
+- Some quests chain — completing one unlocks the next from a different resident. Following a chain across campus is one of the better ways to meet everyone.
 
 ---
 

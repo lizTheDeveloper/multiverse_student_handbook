@@ -1,6 +1,6 @@
 # Safety & Privacy
 
-*Staying safe on [Campus](../campus.md) — blocking, reporting, and knowing that someone is watching out for you.*
+*Campus is built to feel safe. Here's how the systems work, and how to use them when you need to. Part of the [Campus Guide](../campus.md).*
 
 ---
 
@@ -27,6 +27,18 @@ Reports go to moderators. The reported person is never told who reported them. [
 ## Bug Reports
 
 Click the 🐞 button in the header. Describe what happened. It goes straight to the dev team.
+
+---
+
+> **Note:** Blocking is instant and silent. The blocked person is never notified. You can unblock anytime from Settings.
+
+---
+
+## Trivia
+
+- [After Hours](../campus-residents.md#after-hours), the moderation agent, appears when needed and fades into the background when everything's fine. Some students don't realize they exist until they actually need them.
+- The 🐞 bug report button goes directly to the development team. If something is broken, this is faster than asking in chat.
+- The [Code of Conduct](../../part4/multiverse-code-of-conduct.md) applies everywhere — school, campus, Matrix. Same community, same agreements.
 
 ---
 

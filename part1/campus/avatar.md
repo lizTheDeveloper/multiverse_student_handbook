@@ -1,6 +1,6 @@
 # Avatar & Identity
 
-*Your look, your emotes, your profile, and how you tell the world whether you want to talk right now. Part of the [Campus Guide](../campus.md).*
+*You are a small pixel person in a large pixel world. How you look, how you move, and whether anyone can find you are all up to you. Part of the [Campus Guide](../campus.md).*
 
 ---
 
@@ -58,6 +58,18 @@ If you're idle for 10 minutes (or switch tabs), Campus automatically enables do-
 | **Extreme Introvert** | You become fully invisible to other players |
 
 Others see a color-coded battery bar above your head (green/yellow/red). People respect the battery. If yours is red, they'll wave and keep walking. Extreme Introvert hides you entirely — for days when you need to be on campus but left completely alone.
+
+> **Tip:** Extreme Introvert mode is genuinely invisible. Other students can't see you, can't walk into your call radius, can't tell you're online. Use it without guilt.
+
+---
+
+---
+
+## Trivia
+
+- The Avatar Pool is communal — claiming one releases your old avatar back for someone else. Some students change avatars weekly. Others have kept the same one since day one.
+- The social battery system was designed specifically for neurodivergent students. The school's pedagogy is neurodivergent-affirming; the battery makes that philosophy tangible.
+- Chat reactions (👍 ❤️ 😂 😮 😢 🔥) play matching animations on your avatar. Reacting with 🔥 reportedly produces a brief flame effect.
 
 ---
 

@@ -45,6 +45,16 @@ Calls can have **live captions** (real-time transcription) and **recording**. Re
 
 ---
 
+---
+
+## Trivia
+
+- Many students say proximity chat is the single best thing about campus. The "hallway bump-in" is the most common way friendships start.
+- The auto-DND after 10 minutes of idle was added because students kept getting startled by sudden calls when they returned from making coffee.
+- You can screen-share and caption simultaneously. Study groups use this for live code review with transcription.
+
+---
+
 ## See Also
 
 - [Avatar & Identity](avatar.md) — presence status and social battery

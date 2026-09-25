@@ -1,6 +1,6 @@
 # Classes & Lectures
 
-*Attending class on [Campus](../campus.md) — finding your room, live lectures, and AI-generated notes.*
+*Campus does its best to make sure you can't miss class. It knows your schedule, it knows where the building is, and it will walk you there. Part of the [Campus Guide](../campus.md).*
 
 ---
 
@@ -25,6 +25,18 @@ When a teacher starts a lecture: live video broadcast, **live captions** (real-t
 ## After Class
 
 Recordings are saved automatically. AI-generated notes and Q&A may be available to review depending on the lecture setup. Check Calendar → Recordings.
+
+---
+
+> **Tip:** If you're ever unsure where to be, ask [The Departure Board](../campus-residents.md#the-departure-board). They speak in departure announcements and always know the schedule.
+
+---
+
+## Trivia
+
+- Smart Go is context-aware — it shows "Go to Class" near class time, "Board Zeppelin" during Zeppelin events, and "My Desk" when nothing else is happening.
+- If you log in within a few minutes of your class starting, Campus places you directly in the classroom. No walking required.
+- Recordings appear under **Calendar → Recordings** after class ends. Handy for sessions you attended but want to revisit.
 
 ---
 

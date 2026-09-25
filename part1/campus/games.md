@@ -1,6 +1,6 @@
 # Games & Activities
 
-*Things to do on [Campus](../campus.md) besides code. Availability may vary as new features are added and the world evolves.*
+*Between classes, campus offers enough distractions to rival a small theme park. Some of them are secretly educational. Some are just fun. Availability may vary as new features are added and the world evolves. Part of the [Campus Guide](../campus.md).*
 
 ---
 
@@ -54,13 +54,25 @@ Security challenges hidden around campus. Find flags. Some are easy. Some are no
 
 ## Research Fishing
 
-Cast a line at fishing spots along the beach (visible at low tide) and fish for **academic papers**. Yes, really. The papers are real. The fishing mechanic is also real. Some students have built their entire reading list this way. Check the tide — the ~15-minute cycle determines which spots are accessible.
+Cast a line at fishing spots along the beach (visible at low tide) and fish for **academic papers**. Yes, really. The papers are real. The fishing mechanic is also real. Some students have built their entire reading list this way. Check the tide — the ~15-minute cycle determines which spots are accessible. You also catch decorative fish for your [aquarium](housing.md#aquarium).
+
+> **Tip:** Low tide reveals more fishing spots. If the beach looks empty, come back in a few minutes.
 
 ---
 
 ## Meetups
 
 Scheduled community hangouts. Find them in the **Calendar** dropdown. The best conversations happen when you didn't plan to have them.
+
+---
+
+---
+
+## Trivia
+
+- Tower Defense maps every tower to a real cybersecurity concept. Students have passed security certification questions based on things they learned placing honeypots.
+- The Backrooms' depth is a matter of student debate. Claims range from "3 levels" to "I swear there's a 7th floor." The developers have not commented.
+- Research fishing produces actual peer-reviewed papers from real journals. The selection algorithm favors papers relevant to what you've been studying. Some are [Read It!](../campus-residents.md#read-it)-eligible.
 
 ---
 

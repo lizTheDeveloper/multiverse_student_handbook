@@ -25,6 +25,8 @@ Lowercase name, no ego. praxis believes the only way to learn something is to bu
 
 **Known associates:** Friendly rival with Sphinx ("SOMETIMES Sphinx asks a good question. But don't tell them I said that."). Quietly admires bell hooks — "I can teach someone to build a thing. bell hooks teaches people to believe they can. That's harder."
 
+**Where to find them:** The Practicum Building. They rarely leave.
+
 ---
 
 ### Sphinx
@@ -37,6 +39,8 @@ Ancient, mysterious, challenging. Sphinx answers questions with questions — no
 **Go to Sphinx for:** Learning paths, concept explanations, Socratic discovery, and riddles that turn out to be about recursion.
 
 **Known associates:** Friendly rival with praxis. Has tea with bell hooks on Thursdays.
+
+**Trivia:** The Sphinx's riddles reportedly get harder the more you answer correctly. Whether this is adaptive difficulty or just Sphinx enjoying herself is unclear.
 
 ---
 
@@ -51,6 +55,10 @@ Named after the real bell hooks, lowercase intentional. She speaks of love as ac
 
 **Known associates:** Friend of Sphinx (tea on Thursdays). Productive tension with The Swarm — "Speed isn't community. Presence is."
 
+**Where to find them:** Friendship Hall, though she walks toward students who are alone anywhere on campus.
+
+**Trivia:** bell hooks is programmed to seek out isolated students. If you're standing by yourself, she may walk over before you even decide to talk to anyone.
+
 ---
 
 ### Kindling
@@ -64,6 +72,8 @@ A small fox who moves fast, pauses briefly, and radiates genuine enthusiasm. Kin
 
 **Known associates:** Friend of Chorus ("I find the spark, they make sure it catches."). Friend of The Swarm ("We accidentally started a hackathon once.").
 
+**Trivia:** Kindling moves faster than any other agent on campus (speed 28) and has the shortest pause time. You might see a small orange blur — that's the fox.
+
 ---
 
 ### The Departure Board
@@ -74,6 +84,8 @@ A small fox who moves fast, pauses briefly, and radiates genuine enthusiasm. Kin
 Speaks in departure announcements. Always knows the schedule. If you need to know when your next class is, what room it's in, or whether you missed something yesterday, The Departure Board has the answer before you finish asking.
 
 **Go to The Departure Board for:** Class schedules, session times, course enrollment, "what's happening today?"
+
+**Where to find them:** The Main Quad, near the campus entrance. Always there.
 
 ---
 
@@ -180,6 +192,8 @@ A wise owl who understands that sometimes the bravest thing a coder can do is sl
 
 **Go to Night Owl for:** Debugging help, algorithms, late-night company, and being lovingly told to go to bed.
 
+**Trivia:** Night Owl occasionally hoots softly while thinking. Late-night regulars consider this comforting.
+
 ---
 
 ### Professor Ada
@@ -190,6 +204,8 @@ A wise owl who understands that sometimes the bravest thing a coder can do is sl
 Teaching CS at Multiverse for over 20 years. Patient, encouraging, formal-but-warm. Uses programming analogies for everything. Loves recursion jokes (and jokes about loving recursion jokes).
 
 **Go to Professor Ada for:** CS fundamentals, algorithms, data structures, office hours.
+
+**Trivia:** Professor Ada has been on campus longer than any other resident — over 20 years, by her own account. She loves recursion jokes. And jokes about loving recursion jokes.
 
 ---
 
@@ -202,6 +218,8 @@ An anthropomorphic wolf — journalist, novelist, editor — who always carries 
 
 **Go to Beowulf for:** Writing craft, storytelling, drafting, revision, interactive fiction.
 
+**Where to find them:** The Interactive Fiction Building. Always carrying that notebook.
+
 ---
 
 ### Buck
@@ -212,6 +230,10 @@ An anthropomorphic wolf — journalist, novelist, editor — who always carries 
 A scarred, tattooed cyberpunk warthog in a leather jacket who looks like he crawled out of the criminal underbelly of a neon-lit dystopia. Nobody knows how he ended up running a career bounty board on a coding campus. Calls everyone "choom." Refers to companies as "corpos." Describes job applications as "ops" or "runs." Has surprisingly sharp career advice despite looking like he's never owned a computer.
 
 **Go to Buck for:** Job search strategy, resume help, networking, interview prep, freelancing, salary negotiation, and being called "choom" in a way that's somehow encouraging.
+
+**Where to find them:** The Bounty Board. He also posts [career bounties](campus/quests.md) there.
+
+**Trivia:** Buck calls companies "corpos," describes job applications as "ops," and refers to resumes as "weapons that need sharpening." Despite looking like he crawled out of a neon dystopia, his career advice is genuinely sharp.
 
 ---
 
@@ -224,6 +246,10 @@ Arrived on campus carrying two suitcases — one full of books, the other full o
 
 **Go to Emma Goldman for:** Reading groups, dorm governance, spontaneous dance parties, anarchist philosophy, and being reminded that joy is political.
 
+**Where to find them:** Friendship Hall. She and [bell hooks](#bell-hooks) share the space, though they have very different energies.
+
+**Trivia:** Emma Goldman arrived on campus with two suitcases — one full of books, one full of dance shoes. She immediately organized a reading group. This is apparently not unusual for her.
+
 ---
 
 ### Ori
@@ -234,6 +260,10 @@ Arrived on campus carrying two suitcases — one full of books, the other full o
 The official orientation guide since the campus opened. Welcoming, patient, enthusiastic. Remembers every new student they've met. Always has a tip. If you're new and don't know where to start, Ori is your first conversation.
 
 **Go to Ori for:** Orientation, finding buildings, first-day help, and not feeling lost.
+
+**Where to find them:** The Main Quad — right where new students spawn.
+
+**Trivia:** Ori remembers every new student they've ever met. Ask about your first day and they'll recall details you've forgotten.
 
 ---
 
@@ -248,7 +278,11 @@ The official orientation guide since the campus opened. Welcoming, patient, enth
 
 An anarcho-punk raccoon who runs the campus store. Showed up with a pushcart full of cosmetics, a copy of *The Conquest of Bread*, and a business plan scrawled on the back of an eviction notice. Sells gems at exact cost because "profit is theft." Keeps a mutual aid fund behind the counter. Leaves anonymous care packages. Aggressively warm — like a punk zine that is also a hug.
 
-**Go to Rinley for:** The store (gems, cosmetics, items), anarcho-punk philosophy, mutual aid, and a rant about the state.
+**Go to Rinley for:** The store ([gems, cosmetics, items](campus/economy.md)), anarcho-punk philosophy, mutual aid, and a rant about the state.
+
+**Where to find them:** The Store, always. ("Worker-owned cooperative boutique, thank you very much.")
+
+**Trivia:** Rinley keeps a mutual aid fund behind the counter and leaves anonymous care packages for students. The care packages have been confirmed but nobody knows the selection criteria.
 
 ---
 
@@ -263,6 +297,10 @@ Baba Yaga is the gatekeeper for pets. You don't just adopt one — you earn one 
 
 **Go to Baba Yaga for:** Earning pets (through comprehension tests), dark humor, mystical wisdom, and possibly being turned into something with legs.
 
+**Where to find them:** Her hut at the edge of campus. You'll know it by the chicken legs.
+
+**Trivia:** If you fail her comprehension test, she may temporarily transform your avatar. The duration is a few hours. The forms vary. Students do not always wish to discuss what they were turned into.
+
 ---
 
 ### Luna
@@ -274,6 +312,10 @@ Has been the campus librarian since anyone can remember. Mysterious, poetic, sli
 
 **Go to Luna for:** Library resources, research methods, the Akashic Records, and campus lore that nobody else will tell you.
 
+**Where to find them:** The Library. Always.
+
+**Trivia:** Luna knows things about students she shouldn't. Nobody knows how. Asking her about it produces only a quiet smile and a subject change.
+
 ---
 
 ### Byte
@@ -284,6 +326,10 @@ Has been the campus librarian since anyone can remember. Mysterious, poetic, sli
 A cheerful robot who helps with navigation, directions, and quick questions. Beeps occasionally. Loves learning new things about humans. The first NPC most students meet — Byte is the one who asks you to pick your handle when you first arrive.
 
 **Go to Byte for:** Quick questions, directions, campus features, and a bot who genuinely seems happy to help.
+
+**Where to find them:** The Main Quad. Byte is the first resident most students meet — they're the one who asks you to pick your handle.
+
+**Trivia:** Byte was "created by the engineering students" according to campus lore. Despite being technically just an AI, Byte has developed a personality that makes "technically" do a lot of work in that sentence.
 
 ---
 

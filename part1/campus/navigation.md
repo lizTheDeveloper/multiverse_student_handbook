@@ -1,6 +1,6 @@
 # Moving Around
 
-*Getting from A to B on [Multiverse Campus](../campus.md) — controls, the map, buildings, and a speed trick the regulars swear by.*
+*Every returning student eventually develops a route. First-timers wander. Both are valid. Part of the [Campus Guide](../campus.md).*
 
 ---
 
@@ -19,7 +19,7 @@
 | **0** | Reset zoom to 100% |
 | **Mouse wheel** | Zoom in / out |
 
-Movement keys are ignored while you're typing in chat, so you won't accidentally walk mid-message.
+> **Note:** Movement keys are ignored while you're typing in chat. You will never accidentally walk off mid-sentence.
 
 **Seasoned students know: stick to the streets.** Paved roads give roughly 50% more speed than grass or building interiors. If you're crossing campus in a hurry, follow the roads — Dijkstra Dr, Curie Ln, and the other named streets all carry the speed bonus.
 
@@ -33,7 +33,9 @@ Movement keys are ignored while you're typing in chat, so you won't accidentally
 
 Press **M** (or click the minimap in the top-right) to open the full campus map. Every building is color-coded and labeled, with street names at intersections. **Click any building** to auto-walk there — a glowing compass appears next to you pointing the way. Press any movement key to cancel auto-walk.
 
-Campus has named zones — Solarpunk, Propaganda, Cyberdeck, the Replay Room — and named streets at the intersections. You'll learn them the way you learn a real campus: by walking around and getting a little bit lost.
+Campus has named zones — Solarpunk, Propaganda, Cyberdeck, the Replay Room — and named streets at the intersections: Dijkstra Dr, Curie Ln, Turing Ave. You'll learn them the way you learn a real campus: by walking around and getting a little bit lost.
+
+> **Tip:** Click any building on the map to auto-walk there. A glowing compass appears and guides you. Press any movement key to cancel if you change your mind.
 
 ---
 
@@ -52,6 +54,16 @@ The campus manual describes a **Wheel Hub** building with free vehicles:
 - **Today's Special** — a rarer vehicle that rotates at midnight. Some of them can reportedly fly.
 
 While riding, a speed badge (e.g. "1.5×") appears in the bottom-left. Click it to return the vehicle early.
+
+---
+
+---
+
+## Trivia
+
+- The 50% street speed bonus was reportedly added after students kept arriving late to class from across campus.
+- Diagonal movement is not supported. Veterans call this "the Manhattan constraint." Nobody knows if it's intentional.
+- The elevator skip animation (**Space**) was a community request. Before it existed, students would take the stairs to avoid the wait.
 
 ---
 

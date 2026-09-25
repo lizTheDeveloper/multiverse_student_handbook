@@ -12,18 +12,18 @@ It's been compared to Gather Town, Stardew Valley, and "what would happen if a c
 
 | | |
 |---|---|
-| **[Navigation](campus/navigation.md)** | Moving around, the map, entering buildings, streets-are-faster, the Wheel Hub |
-| **[Avatar & Identity](campus/avatar.md)** | Customizing your look, emotes, profile, presence status, social battery |
-| **[Video Chat](campus/video-chat.md)** | Proximity calls — walk near someone and it starts |
-| **[Faculty & Residents](campus-residents.md)** | All 20+ AI characters — personalities, roles, what they're known for |
-| **[Classes & Lectures](campus/classes.md)** | Attending class, live lectures, AI-generated notes |
-| **[Quests & Progression](campus/quests.md)** | Quest types, the quest log, the Bounty Board, reflections |
-| **[Economy](campus/economy.md)** | Gems, sparks, the store, and Rinley's pricing philosophy |
-| **[Housing & Your Space](campus/housing.md)** | Dorm desks, decorating, plants, aquarium |
-| **[Creatures & Companions](campus/creatures.md)** | Baba Yaga's tests, AI companion tiers, pet awakening |
-| **[Games & Activities](campus/games.md)** | Tower Defense, Backrooms, Zeppelin, sailing, fishing, and more |
-| **[Chat & Messaging](campus/chat.md)** | Matrix integration, channels, DMs, proximity chat |
-| **[Safety & Privacy](campus/safety.md)** | Blocking, reporting, moderation |
+| **[Navigation](campus/navigation.md)** | WASD to walk, M for the map, and the speed trick that changes everything |
+| **[Avatar & Identity](campus/avatar.md)** | Look how you want, emote how you feel, vanish when you need to |
+| **[Video Chat](campus/video-chat.md)** | Walk near someone. Video starts. Walk away. It stops. That's the whole system. |
+| **[Faculty & Residents](campus-residents.md)** | 20+ AI characters with memories, friendships, and opinions about you |
+| **[Classes & Lectures](campus/classes.md)** | Smart Go knows where your class is. You almost can't be late. |
+| **[Quests & Progression](campus/quests.md)** | Gold exclamation marks, bounty boards, and a bubble wand for reflection |
+| **[Economy](campus/economy.md)** | Two currencies, a raccoon shopkeeper, and a strict no-profit policy |
+| **[Housing & Your Space](campus/housing.md)** | A desk to decorate, a garden to tend, fish for the tank |
+| **[Creatures & Companions](campus/creatures.md)** | A witch at the edge of campus grants pets — if you prove you've learned something |
+| **[Games & Activities](campus/games.md)** | Tower defense, haunted backrooms, airships, fishing for academic papers |
+| **[Chat & Messaging](campus/chat.md)** | Matrix-powered, synced everywhere, works with the people walking next to you |
+| **[Safety & Privacy](campus/safety.md)** | Someone quiet is always watching out. Here's how the systems work. |
 
 ---
 
