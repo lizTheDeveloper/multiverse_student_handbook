@@ -75,11 +75,11 @@ Campus has named zones — Solarpunk, Propaganda, Cyberdeck, the Replay Room —
 
 ### The Wheel Hub
 
-Enter **The Wheel Hub** building for free vehicles:
+The campus manual describes a **Wheel Hub** building with free vehicles:
 - **Roller Skates, Skateboard, Campus Bicycle** — always available, borrowed for the day
-- **Today's Special** — a rarer vehicle that rotates at midnight. Some of them can fly.
+- **Today's Special** — a rarer vehicle that rotates at midnight. Some of them can reportedly fly.
 
-While riding, a speed badge (e.g. "1.5×") appears in the bottom-left. Click it to return the vehicle early. Regulars check the Hub around midnight to see what the new special is — it's become a small daily ritual.
+While riding, a speed badge (e.g. "1.5×") appears in the bottom-left. Click it to return the vehicle early.
 
 ---
 
@@ -91,17 +91,17 @@ Open **Profile Settings → Avatar** tab. Three options:
 
 1. **Preset Options** — hair styles/colors, skin tones, clothing, accessories. Free for everyone.
 2. **Avatar Pool** — browse a gallery of ready-made pixel-art characters. Free for everyone. Claiming one releases your old avatar back into the pool for someone else.
-3. **AI Generation** — write a text description (e.g. "a friendly wizard with purple robes and silver hair") and Campus generates a custom 4-direction pixel-art sprite. Requires membership.
+3. **AI Generation** — write a text description (e.g. "a friendly wizard with purple robes and silver hair") and Campus generates a custom 4-direction pixel-art sprite. Requires membership. (Feature availability may vary.)
 
 ### Emotes
 
-Short animations that play on your avatar — waves, dances, laughs, and more.
+Short animations that play on your avatar — waves, dances, laughs, and more. The campus documentation describes:
 
 - **Emote Bar** — 8 quick-slots at the bottom of the screen. Click to fire, right-click to reassign.
 - **Slash commands** — type `/` in chat to open the emote picker by category (dances, reactions, actions, signatures).
 - **Chat reactions** — reacting to a message with 👍 ❤️ 😂 😮 😢 🔥 also plays a matching animation on your avatar.
 
-15 free emotes for everyone (wave, dance, laugh, clap, sit, and more). 10 premium emotes (dab, moonwalk, breakdance, backflip, and others) unlock with animation credits ($10–$20 for packs of 5–25). The moonwalk is worth it.
+15 free emotes and 10 premium emotes are documented (dab, moonwalk, breakdance, backflip, and others). The moonwalk is reportedly worth it.
 
 ### Your profile
 
@@ -169,9 +169,9 @@ See the **[Faculty & Residents Directory](campus-residents.md)** for everyone wh
 
 ### Talking to a resident
 
-Walk up to anyone and press **E** (or click them). A JRPG-style dialogue box opens with an expressive portrait that shifts mood as the conversation goes — happy, thinking, surprised, sad. Text types out character by character (click or press Enter to skip ahead). Press **Escape** to close.
+Walk up to anyone and press **E** (or click them). The campus documentation describes a JRPG-style dialogue box with an expressive portrait that shifts mood as the conversation goes. Text types out character by character (click or press Enter to skip ahead). Press **Escape** to close.
 
-**Voice mode:** Click the mic icon, hold Space to speak. Your speech is transcribed and sent as a message. Some students prefer talking aloud — the residents handle both.
+**Voice mode:** The manual describes a mic icon — hold Space to speak, your speech is transcribed and sent as a message.
 
 ### Finding residents
 
@@ -203,19 +203,21 @@ When your class is about to start, the **Smart Go** button in the header shows *
 
 ### Live lectures
 
-When a teacher starts a lecture: live video broadcast, **live captions** (real-time transcription), **AI-generated notes and slides** that extract key ideas as the lecture progresses, and a **raise hand** button to ask questions. Movement may be locked during lectures — you'll see a banner.
+When a teacher starts a lecture: live video broadcast, **live captions** (real-time transcription), and a **raise hand** button to ask questions. The campus documentation describes **AI-generated notes and slides** that extract key ideas as the lecture progresses. Movement may be locked during lectures — you'll see a banner.
 
 ### After class
 
-Recordings are saved automatically. AI-generated notes, slides, and Q&A are available to review. Exercise quests may be assigned by AI tutors to help you practice what was covered.
+Recordings are saved automatically. AI-generated notes and Q&A may be available to review depending on the lecture setup.
 
 ---
 
 ## Quests & Progression
 
+Campus has a quest system tied to the AI residents. The specifics may evolve as features are developed and refined.
+
 ### Finding quests
 
-Look for residents with a **glowing gold `!`** above their head — the universal sign that they have something for you. Talk to them to receive a quest.
+The manual says to look for residents with a **glowing gold `!`** above their head — the universal sign that they have something for you. Talk to them to receive a quest.
 
 ### Quest types
 
@@ -281,13 +283,15 @@ Some students have noticed that certain items appear in the store only at specif
 
 ## Housing & Your Space
 
+The campus documentation describes a housing system with dorm desks, houses, and gardens. These features may be in various stages of development.
+
 ### Dorm desk
 
-Your home base on campus. Press **H** inside your dorm to open the furniture toolbar — place items, move them, rotate them. Some students treat their desk like a shrine to their current project; others make it cozy with plants and creature companions.
+Your home base on campus. Press **H** inside your dorm to open the furniture toolbar — place items, move them, rotate them.
 
 ### Houses & housing zones
 
-Beyond desks, there are houses, housing zones, project gardens, and community halls. Cornelius Cornerstone (the eccentric campus architect) handles upgrades and assignments. He has strong opinions about load-bearing walls.
+The manual describes houses, housing zones, project gardens, and community halls managed by Cornelius Cornerstone (the eccentric campus architect).
 
 ### Plants
 
@@ -300,6 +304,8 @@ Decorate with fish you've caught through research fishing. Yes, the fishing is f
 ---
 
 ## Creatures & Companions
+
+The creature system is one of campus's most ambitious features. Not all aspects described below may be fully active at any given time — the world is still growing.
 
 ### Baba Yaga's forest companions
 
@@ -334,6 +340,8 @@ An awakened companion becomes a fully independent talking agent with its own per
 ---
 
 ## Games & Activities
+
+Campus hosts a variety of activities. Availability may vary as new features are added and the world evolves.
 
 ### Tower Defense (Campus Cybersecurity Defense)
 
@@ -390,15 +398,15 @@ Chat on campus is powered by **Matrix** — the same system at [matrix.themultiv
 
 ## Recordings & Resources
 
-- **Call and lecture recordings** — available from Calendar → Recordings. Includes bookmarks.
-- **The Akashic Records** — a campus library of shared resources, papers, and knowledge. The name is aspirational, not ironic.
+- **Call and lecture recordings** — available from Calendar → Recordings (visible in our screenshots). Includes bookmarks.
+- **The Akashic Records** — the campus documentation describes a library of shared resources, papers, and knowledge. The name is aspirational, not ironic.
 - **Shareable links** — share links to specific recordings or reports with others.
 
 ---
 
 ## Atmosphere
 
-Campus has **dynamic weather** — rain, snow, sunshine — that shifts over time. Seasonal themes cycle throughout the year. The campus feels different in winter than in summer.
+The campus documentation describes **dynamic weather** — rain, snow, sunshine — that shifts over time, with seasonal themes cycling throughout the year.
 
 **Ambient audio** changes as you move through different areas. Buildings have their own soundscapes — fireplaces, fans, room tone. Outside, you hear the campus. It's subtle and it works.
 

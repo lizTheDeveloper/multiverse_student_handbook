@@ -4,6 +4,8 @@
 
 *Walk up to anyone and press **E** to start talking. For everything else about campus, see the [Complete Campus Guide](campus.md).*
 
+*The roster below is drawn from campus configuration data. All 18+ agents are confirmed active (visible in the On Duty sidebar). Specific interaction details — dialogue style, memory, quest-giving — are described in developer documentation and may evolve as the world grows.*
+
 ---
 
 ## The Tutors
