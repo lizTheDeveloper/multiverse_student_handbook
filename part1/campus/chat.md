@@ -14,6 +14,8 @@ Chat on campus is powered by **[Matrix](https://matrix.themultiverse.school)** �
 
 The left sidebar shows your channels. Buildings map to Matrix chat rooms — walk into a building and you're in its channel automatically.
 
+> **Note:** Shared images appear in chat as links. Inline image thumbnails don't render yet — click the link to view.
+
 ---
 
 ## Direct Messages

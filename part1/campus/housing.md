@@ -4,6 +4,10 @@
 
 *The campus documentation describes a housing system with dorm desks, houses, and gardens. These features may be in various stages of development.*
 
+![Building interior — rooms with labeled zones](../../screenshots/campus/building-interior.png)
+
+![Project Gardens — community growing spaces](../../screenshots/campus/project-gardens.png)
+
 ---
 
 ## Dorm Desk
@@ -17,6 +21,8 @@ Your home base on campus. Press **H** inside your dorm to open the furniture too
 ## Houses & Housing Zones
 
 The manual describes houses, housing zones, project gardens, and community halls managed by Cornelius Cornerstone (the eccentric campus architect).
+
+> **Note:** Project Gardens currently shows each zone listed twice — a known display quirk.
 
 ---
 

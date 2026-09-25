@@ -2,7 +2,9 @@
 
 *Everything on campus runs on two currencies: one you earn, and one you can't touch. The store is run by an anarcho-punk raccoon who prices everything at cost. This is not a metaphor. Part of the [Campus Guide](../campus.md).*
 
-![Inventory — your items, gems balance, and category filters](../../screenshots/campus-inventory.jpg)
+![The Campus Store — cosmetic items, daily rotation, and zero-margin gem pricing](../../screenshots/campus/store.png)
+
+![Where the Money Goes — gems fund AI at cost, cosmetics fund the school](../../screenshots/campus/where-money-goes.png)
 
 **Everything on Campus is cosmetic or educational.** Nothing you buy gives you a gameplay advantage over anyone else.
 

@@ -2,6 +2,8 @@
 
 *You are a small pixel person in a large pixel world. How you look, how you move, and whether anyone can find you are all up to you. Part of the [Campus Guide](../campus.md).*
 
+![Avatar Pool — pick a unique character from the gallery](../../screenshots/campus/avatar-pool.png)
+
 ---
 
 ## Customizing Your Look
@@ -16,13 +18,12 @@ Open **Profile Settings → Avatar** tab. Three options:
 
 ## Emotes
 
-Short animations that play on your avatar — waves, dances, laughs, and more. The campus documentation describes:
+Short animations that play on your avatar — waves, dances, laughs, and more.
 
-- **Emote Bar** — 8 quick-slots at the bottom of the screen. Click to fire, right-click to reassign.
-- **Slash commands** — type `/` in chat to open the emote picker by category (dances, reactions, actions, signatures).
+- **Slash commands** — type `/` in chat to open the emote picker by category (dances, reactions, actions, signatures). This is the primary way to emote.
 - **Chat reactions** — reacting to a message with 👍 ❤️ 😂 😮 😢 🔥 also plays a matching animation on your avatar.
 
-15 free emotes and 10 premium emotes are documented (dab, moonwalk, breakdance, backflip, and others). The moonwalk is reportedly worth it.
+15 free emotes and 10 premium emotes are available (dab, moonwalk, breakdance, backflip, and others). The moonwalk is reportedly worth it.
 
 ---
 

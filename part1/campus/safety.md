@@ -2,6 +2,8 @@
 
 *Campus is built to feel safe. Here's how the systems work, and how to use them when you need to. Part of the [Campus Guide](../campus.md).*
 
+![Privacy & Safety settings — blocked users, reports, matchmaking, social battery](../../screenshots/campus/safety-settings.png)
+
 ---
 
 ## Blocking

@@ -2,6 +2,8 @@
 
 *Every returning student eventually develops a route. First-timers wander. Both are valid. Part of the [Campus Guide](../campus.md).*
 
+![Campus map overlay — click any building to auto-walk there](../../screenshots/campus/map-full.png)
+
 ---
 
 ## Controls

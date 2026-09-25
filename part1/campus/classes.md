@@ -2,6 +2,8 @@
 
 *Campus does its best to make sure you can't miss class. It knows your schedule, it knows where the building is, and it will walk you there. Part of the [Campus Guide](../campus.md).*
 
+![Campus Calendar — cohort schedule, class times, and weekly rhythm](../../screenshots/campus/calendar-kiosk.png)
+
 ---
 
 ## Finding and Attending Classes
@@ -34,7 +36,7 @@ Recordings are saved automatically. AI-generated notes and Q&A may be available 
 
 ## Trivia
 
-- Smart Go is context-aware — it shows "Go to Class" near class time, "Board Zeppelin" during Zeppelin events, and "My Desk" when nothing else is happening.
+- Smart Go is context-aware — it appears in the header when there's an active class, lecture, or Zeppelin boarding. It shows "Go to Class" near class time and "Board Zeppelin" during events. When nothing is active, Smart Go is hidden.
 - If you log in within a few minutes of your class starting, Campus places you directly in the classroom. No walking required.
 - Recordings appear under **Calendar → Recordings** after class ends. Handy for sessions you attended but want to revisit.
 

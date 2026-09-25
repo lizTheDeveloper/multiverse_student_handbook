@@ -4,6 +4,8 @@
 
 *The specifics may evolve as features are developed and refined.*
 
+![Quest Log — your active missions and objectives](../../screenshots/campus/quest-log.png)
+
 ---
 
 ## Finding Quests
