@@ -4,7 +4,18 @@
 
 ## Part I: Understanding This Space
 
-* [Campus: The Complete Guide](part1/campus.md)
+* [Multiverse Campus](part1/campus.md)
+  * [Navigation](part1/campus/navigation.md)
+  * [Avatar & Identity](part1/campus/avatar.md)
+  * [Video Chat](part1/campus/video-chat.md)
+  * [Classes & Lectures](part1/campus/classes.md)
+  * [Quests & Progression](part1/campus/quests.md)
+  * [Economy](part1/campus/economy.md)
+  * [Housing & Your Space](part1/campus/housing.md)
+  * [Creatures & Companions](part1/campus/creatures.md)
+  * [Games & Activities](part1/campus/games.md)
+  * [Chat & Messaging](part1/campus/chat.md)
+  * [Safety & Privacy](part1/campus/safety.md)
 * [Faculty & Residents Directory](part1/campus-residents.md)
 * [Who We Serve: The Multiverse Student Profile](part1/student-profile.md)
 * [Neurodivergence in Adult Learning Spaces](part1/neurodivergence.md)

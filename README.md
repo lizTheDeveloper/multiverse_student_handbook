@@ -180,7 +180,7 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 ### Learning & Participation
 - [How Multiverse Works](part1/how-multiverse-works.md)
 - [Building & Sharing](part1/building-and-sharing.md)
-- [Campus: The Complete Guide](part1/campus.md)
+- [Multiverse Campus](part1/campus.md)
 - [Faculty & Residents Directory](part1/campus-residents.md)
 - [Asking for Help & Offering Help](part2/mutual-aid-in-action.md)
 - [Code of Conduct](part4/multiverse-code-of-conduct.md)
