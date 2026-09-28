@@ -141,7 +141,7 @@ multiverse_admin_handbook/
 │
 ├── part4/ (Programs & Policies) ⏳
 │   ├── removal-reentry.md (placeholder)
-│   └── code-of-conduct.md (placeholder)
+│   └── staff-code-of-conduct-enforcement.md
 │
 ├── part5/ (Teacher Self-Care) ⚡ 50%
 │   ├── teacher-boundaries.md ✅

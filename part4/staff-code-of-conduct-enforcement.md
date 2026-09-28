@@ -1,4 +1,6 @@
-# Understanding the Code of Conduct
+# Code of Conduct Enforcement: Staff Guide
+
+> **Audience: staff and facilitators.** This is how we apply the Code of Conduct. Students: the rules you agree to are in [The Multiverse School Code of Conduct](multiverse-code-of-conduct.md).
 
 ## Purpose
 

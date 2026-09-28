@@ -39,7 +39,7 @@
 * [The Grounded Visionary Path: Building Your School](so_you_want_to_build_a_school.md)
 * [The Grounded Visionary Path (90-Day)](90_day_grounded_visionary_path.md)
 * [Student Removal & Re-entry Guidelines](part4/removal-reentry.md)
-* [Code of Conduct Enforcement](part4/code-of-conduct.md)
+* [Code of Conduct Enforcement (Staff Guide)](part4/staff-code-of-conduct-enforcement.md)
 * [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)
 * [Mentoring Guidelines](part4/mentoring-guidelines.md)
 * [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)

@@ -24,7 +24,7 @@ This guide explains when and how people are removed from The Multiverse School, 
 
 **Process:** Admin decision, document thoroughly, public disaffiliation if necessary to protect others
 
-Other harassment follows the [enforcement table](code-of-conduct.md#rule-2-same-violation--same-consequences): immediate temporary removal, then permanent removal on a second instance.
+Other harassment follows the [enforcement table](staff-code-of-conduct-enforcement.md#rule-2-same-violation--same-consequences): immediate temporary removal, then permanent removal on a second instance.
 
 ---
 
@@ -342,7 +342,7 @@ Student emails admin requesting re-entry:
 
 ## Appeals Process
 
-Anyone who has been removed can appeal. See the [Appeals Process](code-of-conduct.md#appeals-process) for how to appeal, what will be reconsidered, and what happens while an appeal is pending.
+Anyone who has been removed can appeal. See the [Appeals Process](staff-code-of-conduct-enforcement.md#appeals-process) for how to appeal, what will be reconsidered, and what happens while an appeal is pending.
 
 ---
 
