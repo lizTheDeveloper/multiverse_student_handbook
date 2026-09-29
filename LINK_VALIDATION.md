@@ -53,14 +53,15 @@ python3 -m playwright install chromium
 
 The 30 that failed the first request break down as follows. The Playwright re-check could not run in the environment used for this pass, so 403s were re-checked with a browser user agent and the response headers instead.
 
-### Genuinely broken (needs a fix)
+### Genuinely broken
 
-| Link | Result | Where |
-|---|---|---|
-| `lib.berkeley.edu/goldman` | 404 (Emma Goldman Papers page moved) | `part7/liberatory-resources.md`, `part7/thinker-goldman.md` |
-| `lgbtcenters.org/LGBTCenters` | Redirects to `lgbtqcenters.org`, then 404. The homepage `lgbtqcenters.org` works. | `part7/survival-resources.md`, `part7/lgbtq-resources.md` |
+None left. Everything found broken in this run has since been fixed (below).
 
-**Fixed since the run:** the `themultiverse.school/x/` and `/tools/` links (7 in total) pointed at index pages that don't exist (404 whether or not you're logged in). They now point to the path dashboard at `themultiverse.school/paths`, which links each student's tools and class companions. Individual tools under `/tools/<name>` need a login, and redirect to it.
+**Fixed since the run:**
+
+- `themultiverse.school/x/` and `/tools/` (7 links) pointed at index pages that don't exist (404 whether or not you're logged in). They now point to the path dashboard at `themultiverse.school/paths`, which links each student's tools and class companions. Individual tools under `/tools/<name>` need a login, and redirect to it.
+- `lib.berkeley.edu/goldman` (2 links) — the Emma Goldman Papers Project site is gone (404; no redirect found). Now points to the project's own microfilm edition on the Internet Archive, `archive.org/details/emmagoldmanpapers` ("The Emma Goldman Papers, University of California", 70 reels). NYPL also holds a digitized Goldman collection: `digitalcollections.nypl.org/collections/emma-goldman-papers`.
+- `lgbtcenters.org/LGBTCenters` (2 links) — CenterLink moved to `lgbtqcenters.org` and the old directory path 404s. Now points to the "Find an LGBTQ Center near you" directory linked from CenterLink's homepage: `web.lgbtqcenters.org/atlas/directory/category/all-centerlink-members`.
 
 ### Bot protection (403 to automated requests; not broken)
 

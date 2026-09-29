@@ -51,7 +51,7 @@ This document provides sources and resources for the liberatory pedagogy framewo
   - Foundations for non-hierarchical learning
 
 ### Resources
-- **Emma Goldman Papers Project:** [www.lib.berkeley.edu/goldman](https://www.lib.berkeley.edu/goldman)
+- **Emma Goldman Papers Project (UC Berkeley):** [archive.org/details/emmagoldmanpapers](https://archive.org/details/emmagoldmanpapers) — the project's microfilm edition, free online
   - Comprehensive archive of her writings
   - Historical context and contemporary applications
 
