@@ -8,27 +8,26 @@
 
 **Ready to learn? Here's what to do:**
 
-1. **[Sign up on your dashboard](https://themultiverse.school/dashboard)** - Add your contact info & social media so Liz can follow you
-2. **[Introduce yourself in Matrix](https://matrix.themultiverse.school)** (our chat platform) - Just say hi and what you want to build
-3. **Start the [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Your main learning tool. Free, self-paced, available 24/7 to help you understand code as you build
-4. **Come to a stand-up** - Monday–Thursday, **9:00am PST**, where we start projects together and get questions answered. Sign in to [your dashboard](https://themultiverse.school/dashboard) and look under **Today's Schedule** — each stand-up has a **"Join on Campus"** button that takes you straight in, and the row shows the start time converted to your own timezone. (The row appears Monday–Thursday only, and is hidden during cohort break weeks — the schedule will say so.)
-5. **Pick your branch in [Founding Federation](https://themultiverse.school/programs/founding-federation)** - a three-week cycle for people building their own work. Everyone starts in the same room for **Week 0**, working out what you need to earn and scoping what could cover it. On Thursday of that week you commit to one of two branches, and they run side by side for the fortnight — same days, same time, different rooms:
-   - **Go To Market** — you have something, and the problem is that nobody knows about it. Pricing, positioning, outbound, and the money conversation.
-   - **Make and Do** — the thing that would cover your costs doesn't exist yet, so the fortnight goes into building it. Scope it down, get an end-to-end version running, put it in a stranger's hands.
-
-   Then show up. That's it. Bring your laptop and your questions.
+1. **[Browse classes](https://themultiverse.school/classes)** - Classes are organized by learning tracks. Find one that fits what you want to build.
+2. **Enroll** - Pick a class and check out via Stripe. You can buy individual classes or subscribe to a full learning track.
+3. **Check your email** - You'll get a magic link (no password needed). Click it to log in.
+4. **[Open your dashboard](https://themultiverse.school/dashboard)** - See your enrolled classes, upcoming sessions, and curriculum access.
+5. **Access your curriculum** - Course materials are on the site, available after enrollment. Each class has its own curriculum pages.
+6. **Join Matrix chat** - [matrix.themultiverse.school](https://matrix.themultiverse.school) is our community platform. Say hi and tell us what you want to build.
+7. **Come to class** - Your calendar invite and emails include a classroom link that takes you to the class, on campus or by video call. Class is live, interactive, and hands-on.
+8. **Come to a stand-up** - Monday–Thursday, **9:00am Pacific**, on [campus](https://campus.themultiverse.school), where we start projects together and get questions answered. Your [dashboard](https://themultiverse.school/dashboard) lists today's stand-ups under **Today's Schedule**, with the start time shown in your own timezone.
 
 ### The week at a glance
 
-All times **PST**. Everything below happens on campus — use the **"Join on Campus"** button on your [dashboard](https://themultiverse.school/dashboard) to get in.
+All times **Pacific**. Everything below happens on [campus](https://campus.themultiverse.school).
 
 | When | What |
 |---|---|
-| **Mon–Thu, 9:00–10:30am** | **Founding Federation** — Week 0 is everyone together; Weeks 1–2 split into Go To Market and Make and Do, running side by side |
+| **Mon–Thu, 9:00–10:30am** | **[Founding Federation](#founding-federation-daily-drop-ins)** — Week 0 is everyone together; Weeks 1–2 split into Go To Market and Make and Do, running at the same time |
 | **Mon & Thu, 11:00am** | **Neurodivergent Strategies** |
 | **Fridays** | Off — we run a four-day week |
 
-Cohorts also pause between cycles. During a break week your dashboard says so instead of listing a stand-up, so an empty schedule means "no session today", not "something is broken".
+After Week 2 comes an off week before the next cycle starts. During an off week your dashboard says so instead of listing a stand-up, so an empty schedule means "no session today", not "something is broken".
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
@@ -42,8 +41,8 @@ Cohorts also pause between cycles. During a break week your dashboard says so in
 
 **Here's how it works:**
 - **Start projects in class** - We give you several projects to get started with together
-- **Use [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) to rapidly prototype** - The tutors help you understand what you're building as you build it
-- **There are scaffolding exercises** for any tools or code you need to learn - the [AI tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) walk you through them
+- **Use the curriculum to build** - Each class has structured materials, exercises, and resources available on the site after you enroll
+- **There are scaffolding exercises** for any tools or code you need to learn - work through them at your own pace
 - **Come to class to motivate each other, connect as humans, and get questions answered** - That's what class time is for
 - **Share what you discover** - Everyone's experiments help everyone learn
 
@@ -52,7 +51,6 @@ Cohorts also pause between cycles. During a break week your dashboard says so in
 - The curriculum has videos on most pages - watch them before class
 - Come to class ready to do the exercises from the videos and ask questions
 - Try to start the exercises before class if you can
-- Use [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) to help you understand the code as you work through exercises
 - Class time is for tech demos, working together, getting unstuck, and human connection
 - We do tech demos (these can take a while, but they're hands-on and interactive)
 - You always have time in class to work on your projects
@@ -63,20 +61,73 @@ Cohorts also pause between cycles. During a break week your dashboard says so in
 - Grades or performance tracking
 - Punishment for "not getting it"
 
-**You learn by building lots of little projects with AI tutor support. Class is for starting together, staying motivated, and connecting as humans.**
+**You learn by building lots of little projects. Class is for starting together, staying motivated, and connecting as humans.**
 
 **Read more:** [Building & Sharing: How We Learn](part1/building-and-sharing.md)
 
 ---
 
+## Learning Tracks & Paths
+
+The school is organized into **learning tracks** — curated sequences of classes that build on each other.
+
+**Your path dashboard** at [themultiverse.school/paths](https://themultiverse.school/paths) shows:
+- Which tracks you have access to
+- Your progress through each track
+- Upcoming classes in your tracks
+- What to take next
+
+**Tracks include:**
+- **Independence** — Build the skills to work for yourself
+- **Defender** — Counter-harassment, digital safety, security
+- **Build AI Systems** — AI/ML engineering
+- **Creative Automation** — Using AI for creative work
+- **And more** — browse all at [themultiverse.school/paths](https://themultiverse.school/paths)
+
+**You can also take individual classes** without subscribing to a full track. Browse everything at [themultiverse.school/classes](https://themultiverse.school/classes).
+
+### How access works
+
+When you subscribe to a track ($250/mo), you get access to **all classes and curriculum** in that track. If you complete every session of a class, you keep permanent access to that class's materials even if you cancel later.
+
+### Founding Federation (daily drop-ins)
+
+The Founding Federation is our intensive drop-in program — daily sessions, Mon–Thu:
+
+- **Go to Market** — daily standup focused on launching, getting to revenue, and building your business
+- **Make and Do Hour** — daily session focused on building, creating, and learning the craft
+
+Each cycle starts with **Week 0**, where everyone is together; on Thursday of that week you choose the branch that fits your goals, and the two branches run side by side for Weeks 1–2. Then there's an off week before the next cycle. Both are live, hands-on, and community-driven. Scholarship students attend these regularly as part of their participation expectations.
+
+---
+
+## Pricing & Access
+
+**We believe in radical accessibility.** Here's how pricing works:
+
+| Tier | Price | What You Get |
+|------|-------|-------------|
+| **Individual class** | Varies | Enroll in one class, access its curriculum |
+| **Track subscription** | $250/mo | Access all classes and curriculum in one learning track |
+| **Full access** | $500/mo | Everything — all tracks, all classes, all curriculum |
+| **Supporter tier** | $60/mo | Stay connected, support the community |
+
+**Scholarships exist.** They come with participation expectations (showing up to standups, staying engaged). If you need one, apply — no shame.
+
+**No hidden costs. No upsells. No bait-and-switch.** Prices are stated upfront. See the full [Support & Pricing](https://themultiverse.school/support) page for details.
+
+---
+
 ## Learning Resources
 
-- **[Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here)** - Start here! AI tutors help you understand code as you build. Free, self-paced, available 24/7
-- **[themultiverse.school](https://themultiverse.school)** - Sign up for classes, memberships, specialized topics
-- **Stand-up (Mon–Thu, 9:00am PST)** - Your office hours for getting unstuck and starting projects together
-- **Matrix chat** - Ask questions, share what you're building, help others
-
-**The [Interactive AI Tutors](https://publish.obsidian.md/multiversecurriculum/Curriculum/Interactive+Tutors/1+-+Start+Here) are your main learning tool.** Use them to work through exercises, prototype projects, and build the skills you need.
+- **[Multiverse Campus](https://campus.themultiverse.school)** - The virtual world — walk around, video chat, attend classes, talk to AI agents, do quests. **[Full campus guide](part1/campus.md)**
+- **[Your curriculum](https://themultiverse.school/dashboard)** - Access course materials on the site after enrolling. Each class has its own pages.
+- **[Class day companions](https://themultiverse.school/x/)** - Interactive tools that accompany each class session, available at `/x/`
+- **[Interactive tools](https://themultiverse.school/tools/)** - Self-paced workbenches and learning tools at `/tools/` — use them anytime
+- **[Community Resource Commons](https://themultiverse.school/resources)** - Community-contributed resource library — find and share resources for mutual aid
+- **Class sessions** - Live on campus or by video call; your calendar invite and emails include a classroom link that takes you there
+- **Stand-ups (Mon–Thu, 9:00am Pacific)** - Founding Federation on campus; see [the week at a glance](#the-week-at-a-glance)
+- **[Matrix chat](https://matrix.themultiverse.school)** - Ask questions, share what you're building, help others
 
 ---
 
@@ -128,10 +179,13 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 - [When You're in Crisis](part3/when-youre-in-crisis.md) | [Full Crisis Resources](crisis_resource_appendix.md)
 - [Housing & Survival Resources](part7/survival-resources.md)
 
-**November 2025: If you need to flee**
-- **GTFO Meeting - Fridays 5pm (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) - Visas, emigration, getting out
+**Need to leave the country?**
 - [Emigration Resources: How to Leave](part7/emigration-resources.md)
 - We're online - you can take classes from anywhere in the world
+
+**Contact:**
+- **Support:** [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school)
+- **Liz directly:** [liz@themultiverse.school](mailto:liz@themultiverse.school)
 
 ---
 
@@ -140,6 +194,8 @@ We have a [Code of Conduct](part4/multiverse-code-of-conduct.md) that boils down
 ### Learning & Participation
 - [How Multiverse Works](part1/how-multiverse-works.md)
 - [Building & Sharing](part1/building-and-sharing.md)
+- [Multiverse Campus](part1/campus.md)
+- [Faculty & Residents Directory](part1/campus-residents.md)
 - [Asking for Help & Offering Help](part2/mutual-aid-in-action.md)
 - [Code of Conduct](part4/multiverse-code-of-conduct.md)
 
@@ -185,11 +241,18 @@ Founded by Liz Howard (they/them). An experimental adult education community for
 We practice liberatory pedagogy, build through mutual aid, and dare to love deeply—which includes fierce boundaries when needed.
 
 **Links:**
-- **Classes:** [themultiverse.school](https://themultiverse.school)
+- **Classes:** [themultiverse.school/classes](https://themultiverse.school/classes)
+- **Learning Tracks:** [themultiverse.school/paths](https://themultiverse.school/paths)
+- **Dashboard:** [themultiverse.school/dashboard](https://themultiverse.school/dashboard)
+- **Campus:** [campus.themultiverse.school](https://campus.themultiverse.school)
+- **Support & Pricing:** [themultiverse.school/support](https://themultiverse.school/support)
+- **Terms:** [themultiverse.school/terms](https://themultiverse.school/terms)
+- **Privacy:** [themultiverse.school/privacy](https://themultiverse.school/privacy)
+- **Connect:** [themultiverse.school/social-media](https://themultiverse.school/social-media)
 - **Liz's site:** [lizthe.dev](https://lizthe.dev)
 
 ---
 
-**This handbook is a living document.** If something is confusing, missing, or could be better, let us know.
+**This handbook is a living document.** If something is confusing, missing, or could be better, let us know at [aethrix@themultiverse.school](mailto:aethrix@themultiverse.school).
 
-**Version 1.0** | Last Updated: November 2025
+**Version 2.0** | Last Updated: September 2026

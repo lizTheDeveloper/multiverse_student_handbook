@@ -1,4 +1,6 @@
-# Understanding the Code of Conduct
+# Code of Conduct Enforcement: Staff Guide
+
+> **Audience: staff and facilitators.** This is how we apply the Code of Conduct. Students: the rules you agree to are in [The Multiverse School Code of Conduct](multiverse-code-of-conduct.md).
 
 ## Purpose
 
@@ -301,7 +303,7 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 
 #### Rule 2: Same Violation = Same Consequences
 
-**Create a rubric:**
+**This table is the source of truth for consequences.** Where another page in this handbook describes a different consequence for the same behavior, this table wins.
 
 | Violation Type | First Instance | Second Instance | Third Instance |
 |----------------|----------------|-----------------|----------------|
@@ -309,8 +311,17 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 | Crisis messaging outside hours | Resource referral | Warning + documentation | Temporary removal |
 | Disrespectful language | Direct feedback | Warning | 2-week pause |
 | Boundary violation with another student | Warning + mediation if appropriate | Temporary removal | Permanent removal |
-| Harassment | Immediate temporary removal | Permanent removal | N/A |
+| Other harassment | Immediate temporary removal | Permanent removal | N/A |
+| Sexual harassment or stalking | Immediate permanent removal | N/A | N/A |
+| Doxxing | Immediate permanent removal | N/A | N/A |
 | Violence/threats | Immediate permanent removal | N/A | N/A |
+
+- **Sexual harassment** includes sexual comments about someone without consent, unwanted sexual advances, continued advances after someone says no, grooming, and sharing sexual content without consent.
+- **Stalking** includes following or contacting someone across platforms after they've disengaged.
+- **Doxxing** is sharing someone's private information (address, phone, deadname, etc.) or "exposing" them across platforms.
+- **Other harassment** includes repeated unwanted contact after someone asks you to stop, mocking someone's disability, and deliberate misgendering.
+
+Immediate removals can be appealed; see [Appeals Process](#appeals-process).
 
 **Apply this regardless of:**
 - How much you like the student
@@ -548,43 +559,48 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 
 ## Appeals Process
 
-### When Appeals Are Appropriate
+Anyone who has been removed can appeal. An appeal asks whether the decision rested on wrong facts. It is not a second hearing of the case.
 
-**Students can appeal a removal if:**
-- They have new information not previously considered
-- They believe the process wasn't followed correctly
-- They believe the decision was based on false information
+### How to appeal
+- Email **liz@themultiverse.school** with the subject line "Appeal", **within 7 days** of being told you've been removed.
+- Appeals must be in writing. Include: which decision you're appealing, which ground below applies, and the specific evidence.
+- One appeal per removal decision.
+- You'll receive a written decision within **14 days**: uphold, modify (e.g. permanent → temporary), or overturn. The decision is final.
+
+### While your appeal is pending
+- **Your removal stays in effect.** You don't have access to community spaces until a decision is made.
+
+### What we will reconsider
+You need to show one of these, with evidence. Disagreeing isn't enough.
+- **Wrong person:** you weren't the one who did it
+- **Factual error:** what the decision relied on didn't happen as recorded
+- **New evidence** that wasn't available when the decision was made
+- **Process not followed:** for warning-based removals only
+
+For **immediate removals** (violence or threats, sexual harassment, stalking, doxxing), only evidence that it was the wrong person, or that the event did not happen, will change the decision.
 
 **Not grounds for appeal:**
 - "I disagree with your interpretation"
 - "That's not fair"
 - "Other people did worse and didn't get removed"
-- "I have trauma/disability" (already considered in decision-making)
+- "I have trauma/disability" (already considered in the decision)
+- "I've changed / I've gotten help" (that's re-entry, where re-entry is possible, not an appeal)
 
----
+### Protecting the people who reported
+- Your appeal will not be shared with anyone who reported.
+- Staff will not confirm or reveal who reported.
+- Reporters are never required to respond to or take part in an appeal. Staff may ask a reporter to clarify a fact only if the reporter agrees. Declining has no effect on the outcome.
+- A reporter may choose to send their own statement.
 
-### Appeals Process
+### Contact during an appeal
+While your appeal is pending, you must not, directly or through other people:
+- contact the person who reported or anyone involved in the incident
+- ask others to contact them, or staff, on your behalf
+- post publicly about the people involved
 
-**Step 1: Student submits written appeal**
-- Within 7 days of removal decision
-- To designated admin (ideally not the person who made initial decision)
-- Must include: specific grounds for appeal, new information/evidence
+You **may** talk privately with your own friends and support people, and ask a witness to send evidence directly to liz@themultiverse.school.
 
-**Step 2: Review**
-- Admin reviews original documentation
-- Consults with original decision-maker
-- May speak to student if needed
-- May consult external advisor
-
-**Step 3: Decision**
-- Made within 7-14 days
-- Options: uphold removal, modify (permanent → temporary, for example), overturn
-- Decision is final (no second appeal)
-
-**Step 4: Communication**
-- Student notified in writing
-- Brief explanation of reasoning
-- Next steps if applicable
+If any of the above happens, your appeal is closed and the removal stands. Retaliating against someone who reported is a separate violation and results in permanent removal.
 
 ---
 
@@ -597,7 +613,6 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 > I've reviewed:
 > - Your appeal letter
 > - Original documentation of incidents
-> - Consultation with [admin who made decision]
 >
 > After careful review, I'm upholding the removal decision. Here's why:
 > [Brief, factual explanation]

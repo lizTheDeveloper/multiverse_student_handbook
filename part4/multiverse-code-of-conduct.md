@@ -21,7 +21,7 @@
 - Behave ethically; don't lie, cheat, steal, advocate violence, or harm
 - Removal for "premature transcendence" (repeated skill-building avoidance, refusing feedback, manipulative/dangerous leadership behavior)
 - No disparaging comments about race, gender, economic status, LGBTQIA status, or other inalienable characteristics
-- No gender griefing
+- No deliberately misgendering or deadnaming someone, or trolling or debating someone's gender identity
 - Don't monologue or dominate group sessions
 - Don't deny others' art is art
 - Don't denigrate others' work without peer-reviewed expertise
@@ -143,7 +143,7 @@ This is The Multiverse School's actual Code of Conduct that students agree to up
 
 - **No continuous flirting**
   - One expression of interest is okay
-  - Continued advances after "no" is harassment
+  - Continued advances after "no" is sexual harassment
   - Maintain a safe community space
 
 ---
@@ -197,10 +197,10 @@ From the instructor (Liz):
 By enrolling in The Multiverse School, you agree to:
 
 1. **Follow this Code of Conduct**
-2. **Accept that the instructor has final say** on removal decisions (no appeals)
+2. **Accept that the instructor has final say** on removal decisions (appeals follow the [Appeals Process](staff-code-of-conduct-enforcement.md#appeals-process))
 3. **Understand that violations may result in removal without refund**
 4. **Engage in good faith** with feedback and course correction when issues arise
-5. **Respect that fair process means conversation before removal** — you'll have a chance to respond to concerns
+5. **Respect that fair process means communication** — you'll always be told why you're being removed, and you'll have a chance to respond to concerns
 
 ---
 

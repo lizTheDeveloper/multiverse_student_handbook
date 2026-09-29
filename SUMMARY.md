@@ -1,24 +1,51 @@
 # Table of Contents
 
 * [Introduction](README.md)
+* [Getting Started](GETTING_STARTED.md)
 
 ## Part I: Understanding This Space
 
+* [Multiverse Campus](part1/campus.md)
+  * [Navigation](part1/campus/navigation.md)
+  * [Avatar & Identity](part1/campus/avatar.md)
+  * [Video Chat](part1/campus/video-chat.md)
+  * [Classes & Lectures](part1/campus/classes.md)
+  * [Quests & Progression](part1/campus/quests.md)
+  * [Economy](part1/campus/economy.md)
+  * [Housing & Your Space](part1/campus/housing.md)
+  * [Creatures & Companions](part1/campus/creatures.md)
+  * [Games & Activities](part1/campus/games.md)
+  * [Chat & Messaging](part1/campus/chat.md)
+  * [Safety & Privacy](part1/campus/safety.md)
+* [Faculty & Residents Directory](part1/campus-residents.md)
+* [How The Multiverse School Works](part1/how-multiverse-works.md)
+* [Building and Sharing: How We Learn](part1/building-and-sharing.md)
 * [Who We Serve: The Multiverse Student Profile](part1/student-profile.md)
 * [Neurodivergence in Adult Learning Spaces](part1/neurodivergence.md)
 * [Common Patterns: When Brilliant Meets Unstable](part1/common-patterns.md)
 * [Healthy Communities vs. Cults: Know the Difference](part1/healthy-vs-unhealthy-communities.md)
+* [Red Flags: When a Leader or Community Is Unsafe](part1/community-red-flags.md)
+* [Understanding Manipulation & Coercive Control](part1/understanding-manipulation.md)
 * [Cult Recovery Resources](part1/cult-recovery-resources.md)
 
 ## Part II: Recognizing Patterns
 
 * [When Vision Becomes Delusion](part2/vision-vs-delusion.md)
 * [Boundary Violations & Love-Bombing](part2/boundary-violations.md)
+* [Student Boundaries: How to Set Them](part2/student-boundaries.md)
+* [Common Misunderstandings (And What We Actually Mean)](part2/common-misunderstandings.md)
+* [Self-Awareness: When You Might Be Doing These Things Too](part2/self-awareness.md)
+* [Recognizing Love-Bombing](part2/recognizing-love-bombing.md)
+* [Recognizing Dependency: When Someone Expects You to Save Them](part2/recognizing-dependency.md)
+* [Recognizing Cult Leaders](part2/recognizing-cult-leaders.md)
 
 ## Part III: Crisis Support & Community Navigation
 
 * [De-escalation & Conflict Navigation](part3/de-escalation-and-conflict-navigation.md)
-* [Responding to Suicidal Students](part3/suicidal-students.md)
+* [When You're Struggling](part2/when-youre-struggling.md)
+* [When You're in Crisis](part3/when-youre-in-crisis.md)
+* [Understanding Yourself: Mental Health Patterns](part3/understanding-yourself.md)
+* [Mental Health Support: Getting the Help You Need](part3/mental-health-support.md)
 * [Crisis Resource Appendix](crisis_resource_appendix.md)
 
 ## Part IV: Programs & Policies
@@ -26,10 +53,11 @@
 * [The Grounded Visionary Path: Building Your School](so_you_want_to_build_a_school.md)
 * [The Grounded Visionary Path (90-Day)](90_day_grounded_visionary_path.md)
 * [Student Removal & Re-entry Guidelines](part4/removal-reentry.md)
-* [Code of Conduct Enforcement](part4/code-of-conduct.md)
+* [Code of Conduct Enforcement (Staff Guide)](part4/staff-code-of-conduct-enforcement.md)
 * [The Multiverse School Code of Conduct](part4/multiverse-code-of-conduct.md)
 * [Mentoring Guidelines](part4/mentoring-guidelines.md)
 * [Mutual Aid Guidelines](part4/mutual-aid-guidelines.md)
+* [Mutual Aid in Action: Asking For and Offering Help](part2/mutual-aid-in-action.md)
 * [Cohabitation Policy](part4/cohabitation-policy.md)
 
 ## Part V: Sustainable Relationships & Community Health
@@ -59,6 +87,7 @@
 ### Survival & Safety Resources
 * **[Emigration Resources: Getting Out](part7/emigration-resources.md)** - GTFO meeting, visas, leaving the US
 * [Survival Resources](part7/survival-resources.md) - Housing, food, basic needs
+* [Therapy & Mental Health Resources](part7/therapy-resources.md) - Finding a therapist, free and low-cost options
 * [LGBTQ+ Resources](part7/lgbtq-resources.md) - Support for targeted communities
 * [Disability Resources](part7/disability-resources.md) - Accessibility and support
 * [Neurodivergent Resources](part7/neurodivergent-resources.md) - ADHD, autism, and more
@@ -66,7 +95,6 @@
 ### Additional Resources
 * [Nonviolent Communication (NVC) Guide](part7/nonviolent-communication-guide.md)
 * [Research Sources & Evidence Base](part7/research-sources.md)
-* [Legal & Liability Considerations](part7/legal-considerations.md)
 * [Recommended Reading & Resources](part7/resources.md)
 * [Glossary of Terms](part7/glossary.md)
 

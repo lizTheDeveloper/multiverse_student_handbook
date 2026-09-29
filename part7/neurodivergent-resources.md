@@ -388,13 +388,13 @@ Search: "ADHD Discord" or "autism Discord" for community servers
 
 ---
 
-## Multiverse AI Toolkit
+## Multiverse Learning Tools
 
-**[start.me/p/RMPGL5/multiverse-ai-toolkit](https://start.me/p/RMPGL5/multiverse-ai-toolkit)**
+**[themultiverse.school/tools/](https://themultiverse.school/tools/)**
 
-Includes AI tools that can help with:
+Interactive workbenches and tools on the site that can help with:
 - Task breakdown (great for ADHD executive dysfunction)
-- Organization
+- Hands-on practice at your own pace
 - Learning (multiple modalities)
 - Job search support
 

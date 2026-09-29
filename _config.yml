@@ -7,6 +7,3 @@ markdown: kramdown
 exclude:
   - .gitbook.yaml
   - book.json
-  - PROJECT_STATUS.md
-  - MENTAL_HEALTH_ADDITIONS.md
-  - CITATION_VERIFICATION.md
