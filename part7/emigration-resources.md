@@ -37,11 +37,9 @@ This means:
 
 ## GTFO Meeting
 
-**Fridays at 5pm** - Working on visas, emigration, getting out
+**Currently paused.** This meeting isn't running right now. Watch [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool) for when it comes back.
 
-**Sign up (FREE):** [luma.com/MultiverseSchool](https://luma.com/MultiverseSchool)
-
-Join the Multiverse community's weekly emigration planning meeting where we:
+When it runs, it's the Multiverse community's weekly emigration planning meeting, where we:
 - Share visa strategies
 - Research destination countries
 - Support each other through the process
@@ -201,7 +199,6 @@ This workbook helps you:
 - **r/IWantOut** (Reddit) - emigration advice community
 - **Nomad List** - Digital nomad visa information
 - **ILGA World** - LGBTQ+ legal info by country
-- **GTFO Meeting (Fridays 5pm)** - Peer support, current visa strategies
 - **International sources** - Trust info from outside the US
 - **Peer networks** - Other people who have successfully left
 
@@ -327,7 +324,6 @@ This workbook helps you:
 - Research what you can legally take out
 - **Use VPN** for all emigration research
 - Verify info through international sources (US feeds are controlled)
-- Join GTFO meeting (Fridays 5pm) for peer support
 - Trust peer networks over official channels
 
 **Legal considerations:**
@@ -437,4 +433,4 @@ Prepare anyway. Better to have options you don't use than need options you don't
 - [LGBTQ+ Resources](lgbtq-resources.md) - General support
 - [When You're in Crisis](../part3/when-youre-in-crisis.md) - Immediate help
 
-**GTFO Meeting: Fridays 5pm. You're not alone in this.**
+**You're not alone in this.**
