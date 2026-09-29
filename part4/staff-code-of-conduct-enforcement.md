@@ -178,8 +178,10 @@ This guide helps you understand how the Code of Conduct works at Multiverse:
 
 ### Sample Code of Conduct Structure
 
+> This is a **template** for writing a code of conduct, not our policy. The official one students agree to is [The Multiverse School Code of Conduct](multiverse-code-of-conduct.md).
+
 ```markdown
-# The Multiverse School Code of Conduct
+# Sample Code of Conduct
 
 ## Our Commitment
 
