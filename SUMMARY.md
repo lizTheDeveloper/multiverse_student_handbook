@@ -95,7 +95,6 @@
 ### Additional Resources
 * [Nonviolent Communication (NVC) Guide](part7/nonviolent-communication-guide.md)
 * [Research Sources & Evidence Base](part7/research-sources.md)
-* [Legal & Liability Considerations](part7/legal-considerations.md)
 * [Recommended Reading & Resources](part7/resources.md)
 * [Glossary of Terms](part7/glossary.md)
 
