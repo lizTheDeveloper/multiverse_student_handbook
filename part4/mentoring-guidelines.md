@@ -37,7 +37,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 **If a mentee makes advances:**
 1. **Decline clearly and kindly**
 2. **Document the interaction**
-3. **Notify leadership (Liz) immediately**
+3. **Notify an admin immediately:** email [liz@themultiverse.school](mailto:liz@themultiverse.school) with **URGENT** in the subject
 4. **End the mentorship relationship**
 
 **If there's disagreement about who initiated:**
@@ -68,7 +68,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 - Support student curiosity even when it diverges from your expertise
 
 **Before discouraging any technical path:**
-- **Coordinate with Liz first**
+- **Check with an admin first**
 - Provide credible sources (developer surveys, industry data)
 - Distinguish your opinion from objective limitations
 
@@ -103,7 +103,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 **If a mentee unexpectedly requests this kind of help:**
 1. **Don't engage** — "That's outside my scope as a mentor"
 2. **Refer appropriately** — "You need a therapist/counselor for that"
-3. **Alert staff immediately** — Liz needs to know students are seeking this kind of support
+3. **Alert an admin immediately** — email [liz@themultiverse.school](mailto:liz@themultiverse.school) with **URGENT** in the subject. Staff need to know students are seeking this kind of support
 
 **Why this matters:**
 - You're not trained to handle trauma
@@ -202,7 +202,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
    - "It sounds like you need a therapist for this"
    - "This is beyond my role as a mentor"
 
-4. **Alert Liz** if the pattern continues
+4. **Alert an admin** if the pattern continues
 
 ---
 
@@ -215,7 +215,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 
 **Then:**
 - Provide crisis resources if needed (988, therapy referrals)
-- Alert Liz
+- Alert an admin: email [liz@themultiverse.school](mailto:liz@themultiverse.school) with **URGENT** in the subject
 - Don't try to process the trauma with them
 - Redirect future sessions to mentoring scope
 
@@ -251,7 +251,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 3. **You can end mentorship**
    - "I don't think this mentorship is a good fit anymore. Here are some other resources for you."
 
-4. **Document and notify Liz**
+4. **Document and notify an admin**
 
 ---
 
@@ -331,7 +331,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 - You feel responsible for their life outcomes
 
 **What to do:**
-- Talk to Liz
+- Talk to an admin
 - Consider ending the mentorship
 - Reset boundaries explicitly
 - Take a break from mentoring
@@ -347,7 +347,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 3. **Bias awareness** — Don't impose your tech preferences
 4. **Clear boundaries** — Time, scope, availability
 5. **Encourage independence** — You're a guide, not a savior
-6. **Document concerns** — Alert Liz when things go sideways
+6. **Document concerns** — Alert an admin when things go sideways
 7. **You can say no** — To mentorship, to scope creep, to boundary violations
 
 ---
@@ -355,7 +355,7 @@ This document outlines the rules and expectations for mentors at The Multiverse 
 ## Resources
 
 **For mentors:**
-- Liz (program coordinator) for questions/concerns
+- An admin, at [liz@themultiverse.school](mailto:liz@themultiverse.school), for questions/concerns (add **URGENT** to the subject for safety issues)
 - "Being Mentored Rules" (what mentees agree to)
 - Code of Conduct (overall community standards)
 
