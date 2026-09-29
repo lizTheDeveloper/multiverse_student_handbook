@@ -19,10 +19,12 @@ This guide explains when and how people are removed from The Multiverse School, 
 - **Sexual harassment or predatory behavior**
 - **Doxxing or sharing private information to harm others**
 - **Recruiting members for dangerous/exploitative projects** (cults, pyramid schemes, unsafe living situations)
-- **Stalking or sustained harassment** across platforms
+- **Stalking** across platforms
 - **Intentional sabotage** of community infrastructure
 
 **Process:** Admin decision, document thoroughly, public disaffiliation if necessary to protect others
+
+Other harassment follows the [enforcement table](staff-code-of-conduct-enforcement.md#rule-2-same-violation--same-consequences): immediate temporary removal, then permanent removal on a second instance.
 
 ---
 
@@ -340,22 +342,7 @@ Student emails admin requesting re-entry:
 
 ## Appeals Process
 
-**Students may appeal removal under these conditions:**
-- They believe the removal was based on false information
-- They can provide evidence of circumstances not previously considered
-- They believe the process wasn't followed
-
-**Process:**
-1. Student emails appeal to [designated admin, not the person who removed them if possible]
-2. Admin reviews all documentation
-3. Consults with team
-4. Decision within 14 days
-5. Decision is final
-
-**Not grounds for appeal:**
-- "I disagree with your interpretation"
-- "That's not fair"
-- "Other people do worse and don't get removed"
+Anyone who has been removed can appeal. See the [Appeals Process](staff-code-of-conduct-enforcement.md#appeals-process) for how to appeal, what will be reconsidered, and what happens while an appeal is pending.
 
 ---
 
