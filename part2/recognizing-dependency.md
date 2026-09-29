@@ -8,7 +8,7 @@ Helping is beautiful. Dependency is harmful.
 
 This guide helps you recognize when someone is building unhealthy dependency on you—and how to set boundaries.
 
-### Context: November 2025 - Mutual Aid During Crisis
+### Context: September 2026 - Mutual Aid During Crisis
 
 **People are offering each other housing, resources, help fleeing.** This is mutual aid. This is beautiful. **AND** you still need boundaries.
 
@@ -101,7 +101,7 @@ This guide helps you recognize when someone is building unhealthy dependency on 
 
 ## Why People Build Dependency
 
-### They're in Genuine Crisis (November 2025 Context)
+### They're in Genuine Crisis (September 2026 Context)
 
 **Right now, a LOT of people are in genuine crisis:**
 - Fleeing fascism and targeting

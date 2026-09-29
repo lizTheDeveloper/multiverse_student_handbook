@@ -8,7 +8,7 @@ Your brain might work differently. You might struggle with things others find ea
 
 Understanding your patterns helps you work with your brain, not against it.
 
-### Context: November 2025 - Trauma Responses to Collective Crisis
+### Context: September 2026 - Trauma Responses to Collective Crisis
 
 **A lot of people are experiencing intensified distress right now.** This isn't necessarily individual pathology - it might be **normal human response to living through fascism, government shutdowns, targeting of minorities, and resource scarcity.**
 
@@ -429,7 +429,7 @@ Long-standing patterns of thinking, feeling, and behaving that differ from cultu
 - You've tried self-help and it's not enough
 - You want to understand yourself better
 
-### November 2025 Context: Accessing Care During Crisis
+### September 2026 Context: Accessing Care During Crisis
 
 **Professional resources are limited:**
 - Government-funded programs being shut down
