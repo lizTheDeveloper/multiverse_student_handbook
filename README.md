@@ -14,7 +14,20 @@
 4. **[Open your dashboard](https://themultiverse.school/dashboard)** - See your enrolled classes, upcoming sessions, and curriculum access.
 5. **Access your curriculum** - Course materials are on the site, available after enrollment. Each class has its own curriculum pages.
 6. **Join Matrix chat** - [matrix.themultiverse.school](https://matrix.themultiverse.school) is our community platform. Say hi and tell us what you want to build.
-7. **Come to class** - You'll get Google Meet links via calendar invite and email. Class is live, interactive, and hands-on.
+7. **Come to class** - Your calendar invite and emails include a classroom link that takes you to the class, on campus or by video call. Class is live, interactive, and hands-on.
+8. **Come to a stand-up** - Monday–Thursday, **9:00am Pacific**, on [campus](https://campus.themultiverse.school), where we start projects together and get questions answered. Your [dashboard](https://themultiverse.school/dashboard) lists today's stand-ups under **Today's Schedule**, with the start time shown in your own timezone.
+
+### The week at a glance
+
+All times **Pacific**. Everything below happens on [campus](https://campus.themultiverse.school).
+
+| When | What |
+|---|---|
+| **Mon–Thu, 9:00–10:30am** | **[Founding Federation](#founding-federation-daily-drop-ins)** — Week 0 is everyone together; Weeks 1–2 split into Go To Market and Make and Do, running at the same time |
+| **Mon & Thu, 11:00am** | **Neurodivergent Strategies** |
+| **Fridays** | Open Campus |
+
+After Week 2 comes an off week before the next cycle starts. During an off week your dashboard says so instead of listing a stand-up, so an empty schedule means "no session today", not "something is broken".
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
@@ -84,7 +97,7 @@ The Founding Federation is our intensive drop-in program — daily sessions, Mon
 - **Go to Market** — daily standup focused on launching, getting to revenue, and building your business
 - **Make and Do Hour** — daily session focused on building, creating, and learning the craft
 
-After a shared orientation week, you choose the track that fits your goals. Both are live, hands-on, and community-driven. Scholarship students attend these regularly as part of their participation expectations.
+Each cycle starts with **Week 0**, where everyone is together; on Thursday of that week you choose the branch that fits your goals, and the two branches run side by side for Weeks 1–2. Then there's an off week before the next cycle. Both are live, hands-on, and community-driven. Scholarship students attend these regularly as part of their participation expectations.
 
 ---
 
@@ -112,7 +125,8 @@ After a shared orientation week, you choose the track that fits your goals. Both
 - **[Class day companions](https://themultiverse.school/x/)** - Interactive tools that accompany each class session, available at `/x/`
 - **[Interactive tools](https://themultiverse.school/tools/)** - Self-paced workbenches and learning tools at `/tools/` — use them anytime
 - **[Community Resource Commons](https://themultiverse.school/resources)** - Community-contributed resource library — find and share resources for mutual aid
-- **Class sessions** - Live on Google Meet (or on campus), links sent via calendar invite and email
+- **Class sessions** - Live on campus or by video call; your calendar invite and emails include a classroom link that takes you there
+- **Stand-ups (Mon–Thu, 9:00am Pacific)** - Founding Federation on campus; see [the week at a glance](#the-week-at-a-glance)
 - **[Matrix chat](https://matrix.themultiverse.school)** - Ask questions, share what you're building, help others
 
 ---
