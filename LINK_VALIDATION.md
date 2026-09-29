@@ -57,10 +57,10 @@ The 30 that failed the first request break down as follows. The Playwright re-ch
 
 | Link | Result | Where |
 |---|---|---|
-| `themultiverse.school/x/` | 404 — no index page; only individual companions exist under `/x/<name>` | `README.md`, `part1/building-and-sharing.md`, `part1/how-multiverse-works.md` |
-| `themultiverse.school/tools/` | 404 — no index page; only individual tools exist under `/tools/<name>` | `README.md`, `part1/building-and-sharing.md`, `part1/how-multiverse-works.md`, `part7/neurodivergent-resources.md` |
 | `lib.berkeley.edu/goldman` | 404 (Emma Goldman Papers page moved) | `part7/liberatory-resources.md`, `part7/thinker-goldman.md` |
 | `lgbtcenters.org/LGBTCenters` | Redirects to `lgbtqcenters.org`, then 404. The homepage `lgbtqcenters.org` works. | `part7/survival-resources.md`, `part7/lgbtq-resources.md` |
+
+**Fixed since the run:** the `themultiverse.school/x/` and `/tools/` links (7 in total) pointed at index pages that don't exist (404 whether or not you're logged in). They now point to the path dashboard at `themultiverse.school/paths`, which links each student's tools and class companions. Individual tools under `/tools/<name>` need a login, and redirect to it.
 
 ### Bot protection (403 to automated requests; not broken)
 

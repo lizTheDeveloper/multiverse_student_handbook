@@ -390,7 +390,7 @@ Search: "ADHD Discord" or "autism Discord" for community servers
 
 ## Multiverse Learning Tools
 
-**[themultiverse.school/tools/](https://themultiverse.school/tools/)**
+**Find them on your [path dashboard](https://themultiverse.school/paths).**
 
 Interactive workbenches and tools on the site that can help with:
 - Task breakdown (great for ADHD executive dysfunction)

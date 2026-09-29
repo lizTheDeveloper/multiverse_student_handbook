@@ -122,8 +122,8 @@ Each cycle starts with **Week 0**, where everyone is together; on Thursday of th
 
 - **[Multiverse Campus](https://campus.themultiverse.school)** - The virtual world — walk around, video chat, attend classes, talk to AI agents, do quests. **[Full campus guide](part1/campus.md)**
 - **[Your curriculum](https://themultiverse.school/dashboard)** - Access course materials on the site after enrolling. Each class has its own pages.
-- **[Class day companions](https://themultiverse.school/x/)** - Interactive tools that accompany each class session, available at `/x/`
-- **[Interactive tools](https://themultiverse.school/tools/)** - Self-paced workbenches and learning tools at `/tools/` — use them anytime
+- **Class day companions** - Interactive tools that accompany each class session, linked from each class on your [path dashboard](https://themultiverse.school/paths)
+- **Interactive tools** - Self-paced workbenches and learning tools, linked from your [path dashboard](https://themultiverse.school/paths) — use them anytime
 - **[Community Resource Commons](https://themultiverse.school/resources)** - Community-contributed resource library — find and share resources for mutual aid
 - **Class sessions** - Live on campus or by video call; your calendar invite and emails include a classroom link that takes you there
 - **Stand-ups (Mon–Thu, 9:00am Pacific)** - Founding Federation on campus; see [the week at a glance](#the-week-at-a-glance)
