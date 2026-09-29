@@ -577,7 +577,7 @@ This Code of Conduct will be updated as we learn. Major changes will be announce
 - May consult external advisor
 
 **Step 3: Decision**
-- Made within 7-14 days
+- Made within 14 days
 - Options: uphold removal, modify (permanent → temporary, for example), overturn
 - Decision is final (no second appeal)
 

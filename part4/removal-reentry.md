@@ -349,7 +349,7 @@ Student emails admin requesting re-entry:
 1. Student emails appeal to [designated admin, not the person who removed them if possible]
 2. Admin reviews all documentation
 3. Consults with team
-4. Decision within 7 days
+4. Decision within 14 days
 5. Decision is final
 
 **Not grounds for appeal:**
