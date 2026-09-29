@@ -21,7 +21,7 @@
 - Behave ethically; don't lie, cheat, steal, advocate violence, or harm
 - Removal for "premature transcendence" (repeated skill-building avoidance, refusing feedback, manipulative/dangerous leadership behavior)
 - No disparaging comments about race, gender, economic status, LGBTQIA status, or other inalienable characteristics
-- No gender griefing
+- No deliberately misgendering or deadnaming someone, or trolling or debating someone's gender identity
 - Don't monologue or dominate group sessions
 - Don't deny others' art is art
 - Don't denigrate others' work without peer-reviewed expertise
