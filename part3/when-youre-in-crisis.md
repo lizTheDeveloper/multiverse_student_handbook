@@ -6,7 +6,7 @@ If you're reading this because you're in active crisis—suicidal thoughts, pani
 
 You deserve help. You deserve to be here.
 
-### Context: November 2025
+### Context: September 2026
 
 **A lot of people in our community are in crisis right now.** This isn't because something is "wrong" with you - it's normal human response to living through fascism, government shutdowns, targeting of minorities, and resource scarcity.
 

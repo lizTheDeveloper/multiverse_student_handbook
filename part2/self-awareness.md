@@ -8,7 +8,7 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
 
 **Context:** Teachers are workers doing their jobs. Facilitators and TAs are volunteers giving their time.
 
-### Context: November 2025 - Crisis Changes the Calculus
+### Context: September 2026 - Crisis Changes the Calculus
 
 **We're living through collective crisis:** Fascism, government shutdown, targeting of minorities, people fleeing the country.
 
@@ -271,7 +271,7 @@ This isn't about being a bad person. It's about recognizing patterns so you can 
    - Diversify your support (where possible)
    - Slow down in relationships
 
-**Finding Free/Low-Cost Help (Nov 2025 context):**
+**Finding Free/Low-Cost Help (Sept 2026 context):**
 - **Government resources are being shut down** - Prioritize community-based alternatives
 - [findhelp.org](https://findhelp.org) - Search for local resources (may be outdated due to shutdowns)
 - **Peer warmlines** - 888-407-4515 (Wildflower Alliance) - peer-run, no police calls

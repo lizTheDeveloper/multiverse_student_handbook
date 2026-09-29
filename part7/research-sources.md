@@ -181,4 +181,4 @@ Our handbook prioritizes:
 
 ---
 
-**Last Updated:** November 2025
+**Last Updated:** September 2026

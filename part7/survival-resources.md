@@ -409,7 +409,7 @@ This page is for when you need **food, housing, money, or other survival resourc
 
 ## Mutual Aid Networks
 
-### Why Mutual Aid Matters Now (Nov 2025)
+### Why Mutual Aid Matters Now (Sept 2026)
 
 **Government resources are being shut down.** Community-based mutual aid is more reliable than government programs.
 

@@ -106,7 +106,7 @@ This page clarifies terms that are sometimes misunderstood or weaponized.
 ## "Crisis Changes Things" Doesn't Mean "No Boundaries During Crisis"
 
 ### What it means:
-- We understand the November 2025 context (fascism, government shutdowns, people fleeing)
+- We understand the September 2026 context (fascism, government shutdowns, people fleeing)
 - We recognize intensity can be a normal response to extreme circumstances
 - We offer grace when people are genuinely struggling
 - The bar is different during collective crisis
