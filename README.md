@@ -25,9 +25,9 @@ All times **Pacific**. Everything below happens on [campus](https://campus.themu
 |---|---|
 | **Mon–Thu, 9:00–10:30am** | **[Founding Federation](#founding-federation-daily-drop-ins)** — Week 0 is everyone together; Weeks 1–2 split into Go To Market and Make and Do, running at the same time |
 | **Mon & Thu, 11:00am** | **Neurodivergent Strategies** |
-| **Fridays** | Open Campus |
+| **Fridays** | **Open Campus** — no stand-ups, but campus is open for you to work, study, and collaborate |
 
-After Week 2 comes an off week before the next cycle starts. During an off week your dashboard says so instead of listing a stand-up, so an empty schedule means "no session today", not "something is broken".
+After Week 2 comes an off week before the next cycle starts. Off weeks are Open Campus too: no stand-ups, but campus stays open for you to work, study, and collaborate. During an off week your dashboard says so instead of listing a stand-up, so an empty schedule means "no stand-up today", not "something is broken".
 
 **Full guide:** [How Multiverse Works](part1/how-multiverse-works.md)
 
