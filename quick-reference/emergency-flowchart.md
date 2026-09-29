@@ -1,5 +1,7 @@
 # Emergency Response Flowchart
 
+> **In crisis yourself?** Go to [When You're in Crisis](../part3/when-youre-in-crisis.md) for people you can reach right now. This page is for staff responding to someone else.
+
 ## Is This an Emergency?
 
 ### YES - Immediate Danger
@@ -15,6 +17,7 @@ Student mentions:
 3. Notify admin IMMEDIATELY
 4. Document everything
 5. If imminent danger and they won't call: consider calling 911 (use judgment)
+6. **Follow up:** make sure someone checks back in with the student once things are calmer, and document it
 
 ---
 
@@ -77,4 +80,4 @@ Is this neurodivergent communication?
 
 **Better to over-respond than to miss a crisis.**
 
-Admin contacts: [Fill in your specific contacts]
+**Admin contact:** email [liz@themultiverse.school](mailto:liz@themultiverse.school) with **URGENT** in the subject so the team knows it's happening. It isn't monitored around the clock.
