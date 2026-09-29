@@ -85,7 +85,7 @@
 * [Understanding Dependent Personality Disorder (DPD)](part7/dependent-personality-disorder.md)
 
 ### Survival & Safety Resources
-* **[Emigration Resources: Getting Out](part7/emigration-resources.md)** - GTFO meeting, visas, leaving the US
+* **[Emigration Resources: Getting Out](part7/emigration-resources.md)** - Visas, leaving the US
 * [Survival Resources](part7/survival-resources.md) - Housing, food, basic needs
 * [Therapy & Mental Health Resources](part7/therapy-resources.md) - Finding a therapist, free and low-cost options
 * [LGBTQ+ Resources](part7/lgbtq-resources.md) - Support for targeted communities
