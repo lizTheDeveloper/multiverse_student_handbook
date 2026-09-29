@@ -1,6 +1,6 @@
 # Link Validation
 
-This handbook contains 218+ external links to resources, organizations, and tools.
+This handbook contains 228 unique external links to resources, organizations, and tools.
 
 ## Running the Validation Script
 
@@ -49,68 +49,46 @@ python3 -m playwright install chromium
 
 ## Latest Validation Results
 
-**Last run:** 2025-11-07 (with Playwright support added 2025-11-08)
+**Last run:** 2026-09-29 · 77 markdown files · 228 unique URLs · 198 OK on the first request
 
-### Summary of Fixes
+The 30 that failed the first request break down as follows. The Playwright re-check could not run in the environment used for this pass, so 403s were re-checked with a browser user agent and the response headers instead.
 
-**✅ ALL 404 NOT FOUND ERRORS FIXED (13 links):**
+### Genuinely broken (needs a fix)
 
-1. ✅ `suicidepreventionlifeline.org/create-safety-plan/` → `988lifeline.org` (main site)
-2. ✅ `icsahome.com/professionals/findatherapist` → `icsahome.com/support/counseling-resources`
-3. ✅ `cnvc.org/training/resource/feelings-inventory` → `cnvc.org/store/feelings-and-needs-inventory` (combined)
-4. ✅ `cnvc.org/training/resource/needs-inventory` → (see above)
-5. ✅ `transformharm.org/tj-principles/` → `transformharm.org/tj_resource/transformative-justice-a-brief-description/`
-6. ✅ `theicarusproject.net/resources` → `fireweedcollective.org/crisis-toolkit/` (Icarus became Fireweed)
-7. ✅ `glma.org/provider-directory/` → `lgbtqhealthcaredirectory.org/` (new directory)
-8. ✅ `findalgbtqtherapist.com` → `lgbtqhealthcaredirectory.org/` (consolidated)
-9. ✅ `thetrevorproject.org/resources/article/coming-out-handbook/` → `/resources/guide/the-coming-out-handbook/`
-10. ✅ `pflag.org/cominout` → `pflag.org/resource/be-yourself/` (2024 update)
-11. ✅ `thetrevorproject.org/resources/category/religion-faith/` → `/resources/article/navigating-lgbtq-identities-and-religion/`
-12. ✅ `truecolorsunited.org/our-work/housing-assistance/` → `truecolorsunited.org/` (page removed, use main site)
-13. ✅ `at3center.net/stateprogram/` → `at3center.net/state-at-programs/`
+| Link | Result | Where |
+|---|---|---|
+| `themultiverse.school/x/` | 404 — no index page; only individual companions exist under `/x/<name>` | `README.md`, `part1/building-and-sharing.md`, `part1/how-multiverse-works.md` |
+| `themultiverse.school/tools/` | 404 — no index page; only individual tools exist under `/tools/<name>` | `README.md`, `part1/building-and-sharing.md`, `part1/how-multiverse-works.md`, `part7/neurodivergent-resources.md` |
+| `lib.berkeley.edu/goldman` | 404 (Emma Goldman Papers page moved) | `part7/liberatory-resources.md`, `part7/thinker-goldman.md` |
+| `lgbtcenters.org/LGBTCenters` | Redirects to `lgbtqcenters.org`, then 404. The homepage `lgbtqcenters.org` works. | `part7/survival-resources.md`, `part7/lgbtq-resources.md` |
 
-**✅ ALL CONNECTION ERRORS FIXED (8 links):**
+### Bot protection (403 to automated requests; not broken)
 
-1. ✅ `bellhookscenter.org/` → `berea.edu/bhc/` (reopening at Berea College 2025)
-2. ✅ `embraceautism.com/` → `embrace-autism.com/` (hyphen added)
-3. ✅ `stimtastic.co/` → **REMOVED** - site down, no safe replacement
-4. ✅ `gurudwaralocator.com/` → **REMOVED** - replaced with search instructions
-5. ✅ `glbthotline.org/` → `lgbthotline.org/` (rebranded)
-6. ✅ `outcare.health/` → `outcarehealth.org/` (correct TLD)
-7. ✅ `findalgbtqtherapist.com/` → `lgbtqhealthcaredirectory.org/` (consolidated)
-8. ✅ `doeskits.com/` → **REMOVED** - site down
-9. ✅ `culteducation.com/` → Remains (connection intermittent, site exists)
+Cloudflare or similar challenges automated requests to these; they load for people:
 
-**⚠️ DANGEROUS LINK REMOVED:**
-- ❌ National Autism Resources - **weaponized against autistic people, making lists**
-- Replaced with DIY alternatives and international resources
+`findhelp.org` (9 locations), `rainn.org`, `goodrx.com`, `7cups.com`, `adaa.org`, `emdria.org`, `coachingfederation.org`, `dyslexiaida.org`, `womenslaw.org`, `lgbthotline.org`, `nfb.org`, `perkins.org`, the Ginwright article on `medium.com`
+
+These returned 403 to the script but **200 with a browser user agent**, so they're fine: `plannedparenthood.org`, `careeronestop.org`, `glaad.org/transgender`, `healthunlocked.com`, `nationaleatingdisorders.org`
+
+### Inconclusive (check by hand)
+
+- `freedomofmind.com` (both links) — the TLS certificate didn't match the host name. That is either a problem with the site or with the network used for this pass.
+- `hrtcafe.net` — the network used for this pass refused the connection, so nothing is known about the site itself.
+- `modestneeds.org`, `butyoudontlooksick.com` (both links) — timed out. `butyoudontlooksick.com` also timed out in the 2025 run.
+
+### False positive
+
+- `tr.ee/kqykEpLW34` (`part7/emigration-resources.md`) — the script's bare-URL pattern misreads a link whose text is itself a URL. The link works (it redirects to the Nope Brigade linktree).
 
 ---
 
-## Remaining "Errors" (403 Forbidden - Bot Protection)
+## Previous run (2025-11-07)
 
-These sites return 403 to automated requests but work fine for humans:
+**✅ 404 errors fixed (13 links):** `suicidepreventionlifeline.org` safety plan → `988lifeline.org`; ICSA therapist finder; CNVC feelings and needs inventories; transformharm.org TJ principles; Icarus Project → Fireweed Collective; GLMA directory and findalgbtqtherapist.com → `lgbtqhealthcaredirectory.org`; two Trevor Project pages; PFLAG coming out; True Colors United; AT3 Center state programs.
 
-1. `aaspire.org` - Autism research (4 locations)
-2. `rainn.org` - Sexual assault support (2 locations)
-3. `goodrx.com` - Medication discounts (3 locations)
-4. `adaa.org` - Anxiety/depression support (1 location)
-5. `7cups.com` - Peer support chat (2 locations)
-6. `healthunlocked.com` - Chronic illness community (1 location)
-7. `wrongplanet.net` - Autism community (1 location)
-8. `start.me/p/RMPGL5/multiverse-ai-toolkit` - Multiverse AI toolkit (3 locations)
-9. `plannedparenthood.org` - Healthcare (2 locations)
-10. `careeronestop.org` - Job resources (1 location)
-11. `lgbthotline.org` - LGBTQ+ crisis line (1 location)
-12. `glaad.org/transgender` - Trans resources (1 location)
+**✅ Connection errors fixed (8 links):** bell hooks center → `berea.edu/bhc/`; `embrace-autism.com`; `lgbthotline.org`; `outcarehealth.org`; `lgbtqhealthcaredirectory.org`; stimtastic.co, gurudwaralocator.com and doeskits.com removed.
 
-**These are NOT broken - just anti-bot protection. Playwright verification confirms they work.**
-
----
-
-## Timeouts (Slow Sites)
-
-- `butyoudontlooksick.com` - Spoon theory resource (intermittent, site exists)
+**⚠️ Dangerous link removed:** National Autism Resources (weaponized against autistic people, making lists).
 
 ---
 
@@ -127,7 +105,7 @@ These sites return 403 to automated requests but work fine for humans:
 
 ### Current priorities:
 
-- **Emigration resources** - GTFO meeting Fridays 5pm
+- **Emigration resources** - visas, leaving the US
 - **International alternatives** to US-based services
 - **Community mutual aid** over government programs
 - **Grassroots organizations** less vulnerable to federal cuts
@@ -195,9 +173,9 @@ If you see a "broken link" error in this handbook:
 
 ### Files Scanned:
 - All `.md` files in handbook directory (recursive)
-- ~65 markdown files
-- 218+ unique URLs
+- 77 markdown files
+- 228 unique URLs
 
 ---
 
-Last updated: 2025-11-08
+Last updated: 2026-09-29
