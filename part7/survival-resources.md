@@ -305,7 +305,7 @@ This page is for when you need **food, housing, money, or other survival resourc
 - Peer support by/for trans people
 
 **LGBTQ+ Community Centers:**
-- [lgbtcenters.org/LGBTCenters](https://www.lgbtcenters.org/LGBTCenters)
+- [CenterLink: find an LGBTQ+ center](https://web.lgbtqcenters.org/atlas/directory/category/all-centerlink-members)
 - Many offer emergency assistance
 
 **SAGE** (LGBTQ+ Elders)

@@ -395,7 +395,7 @@ This guide connects you to LGBTQ+-specific support, resources, and community.
 ### Find Your Local Center
 
 **CenterLink Directory**
-- [lgbtcenters.org/LGBTCenters](https://www.lgbtcenters.org/LGBTCenters)
+- [CenterLink: find an LGBTQ+ center](https://web.lgbtqcenters.org/atlas/directory/category/all-centerlink-members)
 - 300+ LGBTQ+ community centers
 
 **Centers often offer:**

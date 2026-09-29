@@ -393,8 +393,8 @@ Not by completing assignments. Not by getting grades. By creating and sharing.
 
 **Available to all enrolled students:**
 
-- **[Interactive tools](https://themultiverse.school/tools/)** (`/tools/`) - Self-paced workbenches for hands-on practice
-- **[Class day companions](https://themultiverse.school/x/)** (`/x/`) - Interactive pages that go with each class session
+- **Interactive tools** - Self-paced workbenches for hands-on practice, linked from your [path dashboard](https://themultiverse.school/paths)
+- **Class day companions** - Interactive pages that go with each class session, linked from each class on your [path dashboard](https://themultiverse.school/paths)
 - **[Community Resource Commons](https://themultiverse.school/resources)** - Community-sourced resources for mutual aid
 
 **Includes tools for:**

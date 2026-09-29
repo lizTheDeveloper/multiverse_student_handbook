@@ -285,7 +285,7 @@ Goldman's anarchism was individualist, with less focus on collective organizing 
 
 **Contemporary:** Spade, *Mutual Aid: Building Solidarity* (2020)
 
-**Emma Goldman Papers:** [www.lib.berkeley.edu/goldman](https://www.lib.berkeley.edu/goldman)
+**Emma Goldman Papers (UC Berkeley):** [archive.org/details/emmagoldmanpapers](https://archive.org/details/emmagoldmanpapers)
 
 ---
 
