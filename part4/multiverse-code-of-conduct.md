@@ -200,7 +200,7 @@ By enrolling in The Multiverse School, you agree to:
 2. **Accept that the instructor has final say** on removal decisions (appeals follow the [Appeals Process](staff-code-of-conduct-enforcement.md#appeals-process))
 3. **Understand that violations may result in removal without refund**
 4. **Engage in good faith** with feedback and course correction when issues arise
-5. **Respect that fair process means conversation before removal** — you'll have a chance to respond to concerns
+5. **Respect that fair process means communication** — you'll always be told why you're being removed, and you'll have a chance to respond to concerns
 
 ---
 
