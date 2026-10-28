@@ -2,6 +2,10 @@
 
 ## The Official Code of Conduct (Exact Wording)
 
+### Rule #1: Show Us the Animal
+- If an animal comes into the room with you, you have to show us the animal. Cats, dogs, birds, snakes, cool bugs, whatever you've got: required.
+- If a small child comes into the room, you may show us the small child if you want.
+
 ### What is Acceptable and Encouraged:
 - Be excellent to each other
 - Be kind and helpful
@@ -62,6 +66,11 @@ This is The Multiverse School's actual Code of Conduct that students agree to up
 ---
 
 ## Detailed Explanations
+
+### Rule #1: Show Us the Animal
+This is the most important rule in the school, which is why it comes first.
+- **Animals are required on camera.** If a cat walks across your keyboard, a dog wanders in, a bird lands on your shoulder, or a snake, a cool bug, or anything else with a face joins you, show us.
+- **Small children are optional.** If a small child comes into the room, you may show us the small child if you want. No pressure.
 
 ### Core Community Rules
 
