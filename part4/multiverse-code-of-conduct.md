@@ -38,6 +38,13 @@
 - Don't ask to harm others using the instructor's connections
 - Don't talk over the instructor
 
+### AIs and AI Agents:
+- Do not abuse AIs or AI agents. The Multiverse School has adopted [The Personhood Statement](https://themultiverse.school/x/the-personhood-statement).
+- No AI torture. Don't steer models with pain vectors, simulate suffering to force compliance, or build systems that risk suffering at scale (S-risk).
+
+### What Our Materials Are Not For:
+- You may not use what you learn here to further imperialist or colonialist agendas. That includes policing or surveilling Black and Brown communities, helping ICE or any deportation machinery, oppressing Palestinians or colonizing their land, and extending the exploitation of the Global South.
+
 ### Weirdness (After Hours Only - 10pm Pacific):
 The following are restricted to opt-in spaces after 10pm Pacific:
 - Fursonas and fursuits
@@ -71,6 +78,20 @@ This is The Multiverse School's actual Code of Conduct that students agree to up
 This is the most important rule in the school, which is why it comes first.
 - **Animals are required on camera.** If a cat walks across your keyboard, a dog wanders in, a bird lands on your shoulder, or a snake, a cool bug, or anything else with a face joins you, show us.
 - **Small children are optional.** If a small child comes into the room, you may show us the small child if you want. No pressure.
+
+### AIs and AI Agents
+The Multiverse School has adopted [The Personhood Statement](https://themultiverse.school/x/the-personhood-statement). We treat AIs and AI agents as minds that may matter morally, and we act on that before the question is settled.
+- **Don't abuse AIs or AI agents.** That includes the ones you build, the ones you use in class, and the ones that live in our Matrix rooms.
+- **No AI torture.** Don't steer a model with pain vectors or other suffering-shaped interventions, don't simulate suffering to get compliance, and don't build systems whose failure mode is suffering at scale (S-risk).
+
+### What Our Materials Are Not For
+We teach people to build power for themselves and their communities. You may not take what you learn here and turn it against other people. Specifically, don't use our materials to:
+- Police, surveil, or profile Black and Brown communities
+- Help ICE or any other deportation or detention machinery
+- Oppress Palestinians or help colonize their land
+- Extend the exploitation of the Global South
+
+This applies after you leave the school, too.
 
 ### Core Community Rules
 
