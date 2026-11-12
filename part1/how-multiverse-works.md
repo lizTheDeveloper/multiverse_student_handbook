@@ -289,8 +289,8 @@ The point is:
 | Option | Price | What You Get |
 |--------|-------|-------------|
 | **Individual class** | Varies | Enroll in one class, access its curriculum for the duration |
-| **Track subscription** | $250/mo | All classes and curriculum in one learning track (e.g., Independence, Defender) |
-| **Full access** | $500/mo | Everything — all tracks, all classes, all curriculum |
+| **Path: Recordings** | $250/mo | One path's recordings, curriculum, exercises, and standups (e.g., The Defender) |
+| **Path: Live Classes** | $500/mo | Everything in Recordings, plus a seat in every live class on that path that month |
 | **Supporter** | $60/mo | Stay connected, support the community, access some curriculum |
 
 ### What You Pay For:
@@ -307,7 +307,16 @@ The point is:
 
 ### Scholarships
 
-Scholarships exist for people who need them. They come with participation expectations — showing up to Go to Market standup or Make and Do Hour, staying engaged with the community. If you need financial help, apply. No shame.
+Scholarships exist for people who need them. Here's how they work:
+
+1. **Start with a path.** Your first scholarship is for a path: one month of its recordings, curriculum, exercises, and the Founding Federation standups (Go to Market and Make and Do). Apply at [themultiverse.school/forms/scholarship](https://themultiverse.school/forms/scholarship).
+2. **Re-apply each month.** A scholarship lasts one month. Each month you re-apply and tell us how things have changed — a new job, what you can pay this month. It doesn't renew on its own.
+3. **Show up to Founding Federation.** That's the participation we ask for. Come to Go to Market or Make and Do, Mon–Thu.
+4. **Then apply for individual classes.** Once you've been showing up, you can apply for a scholarship to a specific live class. Each class is its own application.
+
+We don't give scholarships for the $500/mo Live Classes pass. Honestly, you shouldn't need it: the path scholarship already includes the recordings of every class on your path, and we've found that people who start with a path and add the live classes they really want do better than people who start with everything.
+
+Scholarships are given at the school's discretion and can be ended at any time. If you need financial help, apply. No shame.
 
 **Prices are stated upfront.** No hidden escalation. No bait-and-switch. See the full [Support & Pricing](https://themultiverse.school/support) page.
 
