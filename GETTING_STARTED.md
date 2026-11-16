@@ -42,12 +42,14 @@ Welcome to The Multiverse School Handbook. This guide helps you find what you ne
 - **[campus.themultiverse.school](https://campus.themultiverse.school)** - The spatial virtual world
 
 ### How to Log In
-The Multiverse School uses **magic links** — no password to remember.
+**themultiverse.school** uses **magic links** — no password to remember.
 1. Enter your email at login
 2. Check your inbox for a link
 3. Click it — you're in
 
 Links expire after 24 hours. Request a new one anytime.
+
+**Matrix chat is different: there is no magic link for Matrix.** [matrix.themultiverse.school](https://matrix.themultiverse.school) (and apps like Element) sign in with a Matrix **username and password**. On [Campus](https://campus.themultiverse.school) you don't need either: campus chat is already connected to Matrix. If your Matrix password doesn't work, use **Having trouble logging in?** on the campus login page and pick "Matrix password doesn't work".
 
 ---
 
