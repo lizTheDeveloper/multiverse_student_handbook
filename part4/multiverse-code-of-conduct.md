@@ -31,6 +31,7 @@
 - Don't denigrate others' work without peer-reviewed expertise
 - Don't ragebait or create enemies in the space
 - Don't engage in coercive emotional regulation
+- Don't derive power from victimhood, and don't concern troll
 - Don't advocate genocide
 - Don't yell at anyone
 - Don't screenshot or exfiltrate data from the matrix server
@@ -134,6 +135,11 @@ This applies after you leave the school, too.
 - **Don't engage in coercive emotional regulation**
   - You can't force others to manage your emotions
   - Take responsibility for your own regulation
+
+- **Don't derive power from victimhood**
+  - Telling us you've been hurt is always okay. So is naming racism, ableism, transphobia, or any other harm, including when one of us caused it. We want to hear it and we'll act on it.
+  - Using harm as leverage is not okay. That means concern trolling, performing offense to win an argument, treating every disagreement as proof you're being persecuted, or turning down every fix so the grievance stays open.
+  - Bring real harm to a facilitator. We'll take it seriously and work on a fix with you.
 
 - **No yelling at others**
   - Expressing strong feelings is okay
