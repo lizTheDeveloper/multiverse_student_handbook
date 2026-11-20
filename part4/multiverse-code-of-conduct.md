@@ -60,6 +60,7 @@ The following are restricted to opt-in spaces after 10pm Pacific:
 - Sharing content
 - Off-topic chat (in designated channels)
 - Naming feelings
+- Talking or joking about your own neurodivergence
 - Creating boundaries
 - Expressing needs
 - Promoting your work
@@ -205,6 +206,7 @@ These are ALWAYS okay, anytime, anywhere:
 - **Sharing content** relevant to learning
 - **Off-topic chat** in designated channels
 - **Naming your feelings** ("I'm frustrated," "I'm excited")
+- **Talking or joking about your own neurodivergence** (it's yours to talk about, and it isn't ableism)
 - **Creating boundaries** ("I can't talk about that," "I need a break")
 - **Expressing needs** ("I need clarity on this," "Can you repeat that?")
 - **Promoting your work** (when relevant and not spammy)
