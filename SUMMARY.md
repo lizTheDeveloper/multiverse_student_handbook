@@ -20,6 +20,7 @@
 * [Faculty & Residents Directory](part1/campus-residents.md)
 * [How The Multiverse School Works](part1/how-multiverse-works.md)
 * [Building and Sharing: How We Learn](part1/building-and-sharing.md)
+* [Our Stack: What We Actually Run](part1/our-stack.md)
 * [Who We Serve: The Multiverse Student Profile](part1/student-profile.md)
 * [Neurodivergence in Adult Learning Spaces](part1/neurodivergence.md)
 * [Common Patterns: When Brilliant Meets Unstable](part1/common-patterns.md)
