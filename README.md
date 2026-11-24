@@ -88,7 +88,7 @@ The school is organized into **learning tracks** — curated sequences of classe
 
 ### How access works
 
-When you subscribe to a track ($250/mo), you get access to **all classes and curriculum** in that track. If you complete every session of a class, you keep permanent access to that class's materials even if you cancel later.
+When you subscribe to a path, you get its recordings, curriculum, exercises and standups for that month ($250/mo), or all of that plus a seat in every live class on the path ($500/mo). If you complete every session of a class, you keep permanent access to that class's materials even if you cancel later.
 
 ### Founding Federation (daily drop-ins)
 
@@ -97,7 +97,7 @@ The Founding Federation is our intensive drop-in program — daily sessions, Mon
 - **Go to Market** — daily standup focused on launching, getting to revenue, and building your business
 - **Make and Do Hour** — daily session focused on building, creating, and learning the craft
 
-Each cycle starts with **Week 0**, where everyone is together; on Thursday of that week you choose the branch that fits your goals, and the two branches run side by side for Weeks 1–2. Then there's an off week before the next cycle. Both are live, hands-on, and community-driven. Scholarship students attend these regularly as part of their participation expectations.
+Each cycle starts with **Week 0**, where everyone is together; on Thursday of that week you choose the branch that fits your goals, and the two branches run side by side for Weeks 1–2. Then there's an off week before the next cycle. Both are live, hands-on, and community-driven. Scholarship students attend these regularly: it's the participation a scholarship asks for, and it's what makes you eligible for individual class scholarships.
 
 ---
 
@@ -108,11 +108,11 @@ Each cycle starts with **Week 0**, where everyone is together; on Thursday of th
 | Tier | Price | What You Get |
 |------|-------|-------------|
 | **Individual class** | Varies | Enroll in one class, access its curriculum |
-| **Track subscription** | $250/mo | Access all classes and curriculum in one learning track |
-| **Full access** | $500/mo | Everything — all tracks, all classes, all curriculum |
+| **Path: Recordings** | $250/mo | One path's recordings, curriculum, exercises, and standups |
+| **Path: Live Classes** | $500/mo | Everything in Recordings, plus a seat in every live class on that path that month |
 | **Supporter tier** | $60/mo | Stay connected, support the community |
 
-**Scholarships exist.** They come with participation expectations (showing up to standups, staying engaged). If you need one, apply — no shame.
+**Scholarships exist, and they start with a path.** A path scholarship covers one month of a path's recordings, curriculum, exercises and the Founding Federation standups, and you re-apply each month. Once you've been showing up to Founding Federation, you can apply for a scholarship to an individual live class, one application per class. We don't give scholarships for the $500/mo Live Classes pass. [How scholarships work](part1/how-multiverse-works.md#scholarships). If you need one, apply — no shame.
 
 **No hidden costs. No upsells. No bait-and-switch.** Prices are stated upfront. See the full [Support & Pricing](https://themultiverse.school/support) page for details.
 
